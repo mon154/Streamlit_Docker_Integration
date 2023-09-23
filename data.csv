@@ -1,0 +1,1001 @@
+placekey,location_name,street_address,city,date_range_start,latitude,longitude,raw_visit_counts,Rank,same_day_brand,same_day_brand_value,same_month_brand,same_month_brand_value
+22c-222@8dg-p4p-fcq,Chipotle Mexican Grill,2085 Tamiami Trl N,Naples,2021-02-01T00:00:00-05:00,26.172008,-81.800831,530,1,McDonald's,7,Walmart,49
+22c-222@8dg-p4p-fcq,Chipotle Mexican Grill,2085 Tamiami Trl N,Naples,2021-02-01T00:00:00-05:00,26.172008,-81.800831,530,2,Shell Oil,7,McDonald's,46
+22c-222@8dg-p4p-fcq,Chipotle Mexican Grill,2085 Tamiami Trl N,Naples,2021-02-01T00:00:00-05:00,26.172008,-81.800831,530,3,Walgreens,5,Shell Oil,40
+22c-222@8dg-p4p-fcq,Chipotle Mexican Grill,2085 Tamiami Trl N,Naples,2021-02-01T00:00:00-05:00,26.172008,-81.800831,530,4,Walmart,5,RaceTrac,38
+22c-222@8dg-p4p-fcq,Chipotle Mexican Grill,2085 Tamiami Trl N,Naples,2021-02-01T00:00:00-05:00,26.172008,-81.800831,530,5,RaceTrac,5,Publix Super Markets,38
+224-222@8fc-9c3-5j9,Chipotle Mexican Grill,6615 N Grand Pkwy W Ste 300,Spring,2021-05-01T00:00:00-05:00,30.08864,-95.521543,560,1,Target,8,Chick-fil-A,69
+224-222@8fc-9c3-5j9,Chipotle Mexican Grill,6615 N Grand Pkwy W Ste 300,Spring,2021-05-01T00:00:00-05:00,30.08864,-95.521543,560,2,Chick-fil-A,7,Walmart,62
+224-222@8fc-9c3-5j9,Chipotle Mexican Grill,6615 N Grand Pkwy W Ste 300,Spring,2021-05-01T00:00:00-05:00,30.08864,-95.521543,560,3,H-E-B,6,H-E-B,56
+224-222@8fc-9c3-5j9,Chipotle Mexican Grill,6615 N Grand Pkwy W Ste 300,Spring,2021-05-01T00:00:00-05:00,30.08864,-95.521543,560,4,Walmart,5,Whataburger,56
+224-222@8fc-9c3-5j9,Chipotle Mexican Grill,6615 N Grand Pkwy W Ste 300,Spring,2021-05-01T00:00:00-05:00,30.08864,-95.521543,560,5,Starbucks,4,Target,48
+222-222@63r-4jk-zxq,Chipotle Mexican Grill,2 Watkins Park Dr,Kettering,2021-06-01T00:00:00-04:00,38.899964,-76.791647,258,1,Six Flags,26,McDonald's,71
+222-222@63r-4jk-zxq,Chipotle Mexican Grill,2 Watkins Park Dr,Kettering,2021-06-01T00:00:00-04:00,38.899964,-76.791647,258,2,McDonald's,10,Walmart,51
+222-222@63r-4jk-zxq,Chipotle Mexican Grill,2 Watkins Park Dr,Kettering,2021-06-01T00:00:00-04:00,38.899964,-76.791647,258,3,Wendy's,8,Chick-fil-A,44
+222-222@63r-4jk-zxq,Chipotle Mexican Grill,2 Watkins Park Dr,Kettering,2021-06-01T00:00:00-04:00,38.899964,-76.791647,258,4,Sunoco,6,7-Eleven,43
+222-222@63r-4jk-zxq,Chipotle Mexican Grill,2 Watkins Park Dr,Kettering,2021-06-01T00:00:00-04:00,38.899964,-76.791647,258,5,7-Eleven,5,Shell Oil,41
+zzw-222@628-x2r-cdv,Chipotle Mexican Grill,2165 Dixwell Ave Ste 2,Hamden,2020-07-01T00:00:00-04:00,41.368865,-72.918355,230,1,Walmart,8,Dunkin',57
+zzw-222@628-x2r-cdv,Chipotle Mexican Grill,2165 Dixwell Ave Ste 2,Hamden,2020-07-01T00:00:00-04:00,41.368865,-72.918355,230,2,Dunkin',7,McDonald's,53
+zzw-222@628-x2r-cdv,Chipotle Mexican Grill,2165 Dixwell Ave Ste 2,Hamden,2020-07-01T00:00:00-04:00,41.368865,-72.918355,230,3,McDonald's,6,Walmart,45
+zzw-222@628-x2r-cdv,Chipotle Mexican Grill,2165 Dixwell Ave Ste 2,Hamden,2020-07-01T00:00:00-04:00,41.368865,-72.918355,230,4,The Home Depot,4,Stop & Shop,42
+zzw-222@628-x2r-cdv,Chipotle Mexican Grill,2165 Dixwell Ave Ste 2,Hamden,2020-07-01T00:00:00-04:00,41.368865,-72.918355,230,5,Stop & Shop,4,Starbucks,30
+22f-222@5pw-68m-wkz,Chipotle Mexican Grill,7140 Cermak Rd,Berwyn,2020-08-01T00:00:00-05:00,41.850685,-87.802817,251,1,McDonald's,9,McDonald's,65
+22f-222@5pw-68m-wkz,Chipotle Mexican Grill,7140 Cermak Rd,Berwyn,2020-08-01T00:00:00-05:00,41.850685,-87.802817,251,2,Ross Stores,6,Walmart,53
+22f-222@5pw-68m-wkz,Chipotle Mexican Grill,7140 Cermak Rd,Berwyn,2020-08-01T00:00:00-05:00,41.850685,-87.802817,251,3,Shell Oil,6,Walgreens,46
+22f-222@5pw-68m-wkz,Chipotle Mexican Grill,7140 Cermak Rd,Berwyn,2020-08-01T00:00:00-05:00,41.850685,-87.802817,251,4,Walgreens,5,Target,43
+22f-222@5pw-68m-wkz,Chipotle Mexican Grill,7140 Cermak Rd,Berwyn,2020-08-01T00:00:00-05:00,41.850685,-87.802817,251,5,Walmart,5,Shell Oil,42
+22f-222@5pw-68m-wkz,Chipotle Mexican Grill,7140 Cermak Rd,Berwyn,2020-03-01T00:00:00-06:00,41.850685,-87.802817,244,1,McDonald's,8,McDonald's,56
+22f-222@5pw-68m-wkz,Chipotle Mexican Grill,7140 Cermak Rd,Berwyn,2020-03-01T00:00:00-06:00,41.850685,-87.802817,244,2,Starbucks,5,Walmart,44
+22f-222@5pw-68m-wkz,Chipotle Mexican Grill,7140 Cermak Rd,Berwyn,2020-03-01T00:00:00-06:00,41.850685,-87.802817,244,3,Target,5,Walgreens,42
+22f-222@5pw-68m-wkz,Chipotle Mexican Grill,7140 Cermak Rd,Berwyn,2020-03-01T00:00:00-06:00,41.850685,-87.802817,244,4,BP,5,Target,41
+22f-222@5pw-68m-wkz,Chipotle Mexican Grill,7140 Cermak Rd,Berwyn,2020-03-01T00:00:00-06:00,41.850685,-87.802817,244,5,Ross Stores,5,Ross Stores,34
+226-222@627-xrx-hkf,Chipotle Mexican Grill,1090 The Arches Cir,Deer Park,2021-08-01T00:00:00-04:00,40.764625,-73.306642,496,1,TangerOutlets,100,TangerOutlets,100
+226-222@627-xrx-hkf,Chipotle Mexican Grill,1090 The Arches Cir,Deer Park,2021-08-01T00:00:00-04:00,40.764625,-73.306642,496,2,Christmas Tree Shops,11,McDonald's,50
+226-222@627-xrx-hkf,Chipotle Mexican Grill,1090 The Arches Cir,Deer Park,2021-08-01T00:00:00-04:00,40.764625,-73.306642,496,3,Yankee Candle,7,Target,47
+226-222@627-xrx-hkf,Chipotle Mexican Grill,1090 The Arches Cir,Deer Park,2021-08-01T00:00:00-04:00,40.764625,-73.306642,496,4,Nathan's Famous,6,Starbucks,44
+226-222@627-xrx-hkf,Chipotle Mexican Grill,1090 The Arches Cir,Deer Park,2021-08-01T00:00:00-04:00,40.764625,-73.306642,496,5,Starbucks,6,CVS,44
+zzw-222@63j-r6p-6x5,Chipotle Mexican Grill,10711 Fremont Pike,Perrysburg,2021-04-01T00:00:00-04:00,41.548496,-83.600682,693,1,McDonald's,12,McDonald's,69
+zzw-222@63j-r6p-6x5,Chipotle Mexican Grill,10711 Fremont Pike,Perrysburg,2021-04-01T00:00:00-04:00,41.548496,-83.600682,693,2,Tim Hortons,7,Walmart,51
+zzw-222@63j-r6p-6x5,Chipotle Mexican Grill,10711 Fremont Pike,Perrysburg,2021-04-01T00:00:00-04:00,41.548496,-83.600682,693,3,Speedway,7,Chick-fil-A,45
+zzw-222@63j-r6p-6x5,Chipotle Mexican Grill,10711 Fremont Pike,Perrysburg,2021-04-01T00:00:00-04:00,41.548496,-83.600682,693,4,Chick-fil-A,6,Speedway,43
+zzw-222@63j-r6p-6x5,Chipotle Mexican Grill,10711 Fremont Pike,Perrysburg,2021-04-01T00:00:00-04:00,41.548496,-83.600682,693,5,Walmart,6,Wendy's,42
+222-222@5sb-cb3-yy9,Chipotle Mexican Grill,5720 Washington Ave,Mount Pleasant,2021-04-01T00:00:00-05:00,42.719633,-87.849246,323,1,McDonald's,9,McDonald's,62
+222-222@5sb-cb3-yy9,Chipotle Mexican Grill,5720 Washington Ave,Mount Pleasant,2021-04-01T00:00:00-05:00,42.719633,-87.849246,323,2,Kwik Trip,8,Kwik Trip,57
+222-222@5sb-cb3-yy9,Chipotle Mexican Grill,5720 Washington Ave,Mount Pleasant,2021-04-01T00:00:00-05:00,42.719633,-87.849246,323,3,Bentley's Pet Stuff,8,Walgreens,55
+222-222@5sb-cb3-yy9,Chipotle Mexican Grill,5720 Washington Ave,Mount Pleasant,2021-04-01T00:00:00-05:00,42.719633,-87.849246,323,4,Festival Foods Wisconsin,7,Walmart,53
+222-222@5sb-cb3-yy9,Chipotle Mexican Grill,5720 Washington Ave,Mount Pleasant,2021-04-01T00:00:00-05:00,42.719633,-87.849246,323,5,Walgreens,6,BP,47
+222-222@627-whv-3dv,Chipotle Mexican Grill,101 US Highway 22,Springfield,2020-05-01T00:00:00-04:00,40.687129,-74.315764,295,1,Dunkin',7,Dunkin',45
+222-222@627-whv-3dv,Chipotle Mexican Grill,101 US Highway 22,Springfield,2020-05-01T00:00:00-04:00,40.687129,-74.315764,295,2,Walmart,5,The Home Depot,36
+222-222@627-whv-3dv,Chipotle Mexican Grill,101 US Highway 22,Springfield,2020-05-01T00:00:00-04:00,40.687129,-74.315764,295,3,Chick-fil-A,5,Target,35
+222-222@627-whv-3dv,Chipotle Mexican Grill,101 US Highway 22,Springfield,2020-05-01T00:00:00-04:00,40.687129,-74.315764,295,4,Target,4,McDonald's,35
+222-222@627-whv-3dv,Chipotle Mexican Grill,101 US Highway 22,Springfield,2020-05-01T00:00:00-04:00,40.687129,-74.315764,295,5,Costco,4,Wendy's,32
+229-222@63r-bbc-bzf,Chipotle Mexican Grill,2400 Boston St Ste 126,Baltimore,2019-09-01T00:00:00-04:00,39.281382,-76.579907,563,1,Safeway Pharmacy,6,McDonald's,43
+229-222@63r-bbc-bzf,Chipotle Mexican Grill,2400 Boston St Ste 126,Baltimore,2019-09-01T00:00:00-04:00,39.281382,-76.579907,563,2,Royal Farms,4,Royal Farms,36
+229-222@63r-bbc-bzf,Chipotle Mexican Grill,2400 Boston St Ste 126,Baltimore,2019-09-01T00:00:00-04:00,39.281382,-76.579907,563,3,Harris Teeter,3,Walmart,33
+229-222@63r-bbc-bzf,Chipotle Mexican Grill,2400 Boston St Ste 126,Baltimore,2019-09-01T00:00:00-04:00,39.281382,-76.579907,563,4,Target,3,Chick-fil-A,31
+229-222@63r-bbc-bzf,Chipotle Mexican Grill,2400 Boston St Ste 126,Baltimore,2019-09-01T00:00:00-04:00,39.281382,-76.579907,563,5,7-Eleven,3,Dunkin',31
+228-22d@63r-6cp-djv,Chipotle Mexican Grill,50 Massachusetts Ave NE,Washington,2020-10-01T00:00:00-04:00,38.897715,-77.006886,21,1,Paper Source,19,Walmart,35
+228-22d@63r-6cp-djv,Chipotle Mexican Grill,50 Massachusetts Ave NE,Washington,2020-10-01T00:00:00-04:00,38.897715,-77.006886,21,2,Bojangles',10,Paper Source,35
+228-22d@63r-6cp-djv,Chipotle Mexican Grill,50 Massachusetts Ave NE,Washington,2020-10-01T00:00:00-04:00,38.897715,-77.006886,21,3,Dunkin',10,Exxon Mobil,35
+228-22d@63r-6cp-djv,Chipotle Mexican Grill,50 Massachusetts Ave NE,Washington,2020-10-01T00:00:00-04:00,38.897715,-77.006886,21,4,Petco,5,Subway,35
+228-22d@63r-6cp-djv,Chipotle Mexican Grill,50 Massachusetts Ave NE,Washington,2020-10-01T00:00:00-04:00,38.897715,-77.006886,21,5,IHOP,5,McDonald's,29
+zzw-222@5sb-d2n-st9,Chipotle Mexican Grill,3846 Willow Rd,Northbrook,2021-08-01T00:00:00-05:00,42.104761,-87.814236,111,1,Target,10,Starbucks,77
+zzw-222@5sb-d2n-st9,Chipotle Mexican Grill,3846 Willow Rd,Northbrook,2021-08-01T00:00:00-05:00,42.104761,-87.814236,111,2,Starbucks,7,Target,60
+zzw-222@5sb-d2n-st9,Chipotle Mexican Grill,3846 Willow Rd,Northbrook,2021-08-01T00:00:00-05:00,42.104761,-87.814236,111,3,Dunkin',6,McDonald's,60
+zzw-222@5sb-d2n-st9,Chipotle Mexican Grill,3846 Willow Rd,Northbrook,2021-08-01T00:00:00-05:00,42.104761,-87.814236,111,4,BP,5,Walgreens,50
+zzw-222@5sb-d2n-st9,Chipotle Mexican Grill,3846 Willow Rd,Northbrook,2021-08-01T00:00:00-05:00,42.104761,-87.814236,111,5,Jersey Mike's,5,Dunkin',47
+223-222@8fz-dgx-dsq,Chipotle Mexican Grill,804 Cypress Gardens Blvd,Winter Haven,2021-02-01T00:00:00-05:00,28.003619,-81.717527,812,1,Walmart,13,Walmart,69
+223-222@8fz-dgx-dsq,Chipotle Mexican Grill,804 Cypress Gardens Blvd,Winter Haven,2021-02-01T00:00:00-05:00,28.003619,-81.717527,812,2,McDonald's,10,McDonald's,65
+223-222@8fz-dgx-dsq,Chipotle Mexican Grill,804 Cypress Gardens Blvd,Winter Haven,2021-02-01T00:00:00-05:00,28.003619,-81.717527,812,3,Chick-fil-A,6,Chick-fil-A,43
+223-222@8fz-dgx-dsq,Chipotle Mexican Grill,804 Cypress Gardens Blvd,Winter Haven,2021-02-01T00:00:00-05:00,28.003619,-81.717527,812,4,RaceTrac,6,Publix Super Markets,42
+223-222@8fz-dgx-dsq,Chipotle Mexican Grill,804 Cypress Gardens Blvd,Winter Haven,2021-02-01T00:00:00-05:00,28.003619,-81.717527,812,5,Wawa,5,RaceTrac,42
+223-222@5xc-qz8-jd9,Chipotle Mexican Grill,4530 NE Cornell Rd,Hillsboro,2019-04-01T00:00:00-07:00,45.532968,-122.935123,352,1,Starbucks,8,Starbucks,52
+223-222@5xc-qz8-jd9,Chipotle Mexican Grill,4530 NE Cornell Rd,Hillsboro,2019-04-01T00:00:00-07:00,45.532968,-122.935123,352,2,Costco,6,McDonald's,44
+223-222@5xc-qz8-jd9,Chipotle Mexican Grill,4530 NE Cornell Rd,Hillsboro,2019-04-01T00:00:00-07:00,45.532968,-122.935123,352,3,McDonald's,5,Costco,39
+223-222@5xc-qz8-jd9,Chipotle Mexican Grill,4530 NE Cornell Rd,Hillsboro,2019-04-01T00:00:00-07:00,45.532968,-122.935123,352,4,Raymond James Financial,4,Target,34
+223-222@5xc-qz8-jd9,Chipotle Mexican Grill,4530 NE Cornell Rd,Hillsboro,2019-04-01T00:00:00-07:00,45.532968,-122.935123,352,5,24 Hour Fitness,4,Walmart,33
+223-222@5r4-q9c-zfz,Chipotle Mexican Grill,2375 S 9th St Ste C,Salina,2020-09-01T00:00:00-05:00,38.798516,-97.612166,533,1,Walmart,14,Walmart,66
+223-222@5r4-q9c-zfz,Chipotle Mexican Grill,2375 S 9th St Ste C,Salina,2020-09-01T00:00:00-05:00,38.798516,-97.612166,533,2,Casey's General Stores,9,McDonald's,47
+223-222@5r4-q9c-zfz,Chipotle Mexican Grill,2375 S 9th St Ste C,Salina,2020-09-01T00:00:00-05:00,38.798516,-97.612166,533,3,Target,6,Casey's General Stores,43
+223-222@5r4-q9c-zfz,Chipotle Mexican Grill,2375 S 9th St Ste C,Salina,2020-09-01T00:00:00-05:00,38.798516,-97.612166,533,4,Sonic,6,Sonic,41
+223-222@5r4-q9c-zfz,Chipotle Mexican Grill,2375 S 9th St Ste C,Salina,2020-09-01T00:00:00-05:00,38.798516,-97.612166,533,5,McDonald's,5,Kwik Shop,30
+zzw-222@8dj-gr4-vfz,Chipotle Mexican Grill,4204 US Highway 98 N,Lakeland,2021-02-01T00:00:00-05:00,28.095835,-81.974729,670,1,Chick-fil-A,9,Walmart,64
+zzw-222@8dj-gr4-vfz,Chipotle Mexican Grill,4204 US Highway 98 N,Lakeland,2021-02-01T00:00:00-05:00,28.095835,-81.974729,670,2,Walmart,9,McDonald's,58
+zzw-222@8dj-gr4-vfz,Chipotle Mexican Grill,4204 US Highway 98 N,Lakeland,2021-02-01T00:00:00-05:00,28.095835,-81.974729,670,3,McDonald's,8,Chick-fil-A,53
+zzw-222@8dj-gr4-vfz,Chipotle Mexican Grill,4204 US Highway 98 N,Lakeland,2021-02-01T00:00:00-05:00,28.095835,-81.974729,670,4,Wawa,5,Publix Super Markets,41
+zzw-222@8dj-gr4-vfz,Chipotle Mexican Grill,4204 US Highway 98 N,Lakeland,2021-02-01T00:00:00-05:00,28.095835,-81.974729,670,5,Starbucks,4,Walgreens,37
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2021-02-01T00:00:00-08:00,45.43777,-122.829271,143,1,Starbucks,7,Starbucks,58
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2021-02-01T00:00:00-08:00,45.43777,-122.829271,143,2,Walmart,6,Walmart,50
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2021-02-01T00:00:00-08:00,45.43777,-122.829271,143,3,Dutch Bros Coffee,6,McDonald's,49
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2021-02-01T00:00:00-08:00,45.43777,-122.829271,143,4,Planet Fitness,5,Chevron,40
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2021-02-01T00:00:00-08:00,45.43777,-122.829271,143,5,Chick-fil-A,5,Target,37
+zzw-228@5sb-d2d-zzz,Chipotle Mexican Grill,675 Deerfield Rd Ste 120,Deerfield,2021-10-01T00:00:00-05:00,42.16716,-87.844253,447,1,Starbucks,10,Starbucks,62
+zzw-228@5sb-d2d-zzz,Chipotle Mexican Grill,675 Deerfield Rd Ste 120,Deerfield,2021-10-01T00:00:00-05:00,42.16716,-87.844253,447,2,McDonald's,6,Walgreens Pharmacy,51
+zzw-228@5sb-d2d-zzz,Chipotle Mexican Grill,675 Deerfield Rd Ste 120,Deerfield,2021-10-01T00:00:00-05:00,42.16716,-87.844253,447,3,Jewel-Osco,6,McDonald's,50
+zzw-228@5sb-d2d-zzz,Chipotle Mexican Grill,675 Deerfield Rd Ste 120,Deerfield,2021-10-01T00:00:00-05:00,42.16716,-87.844253,447,4,Walgreens Pharmacy,5,Jewel-Osco,47
+zzw-228@5sb-d2d-zzz,Chipotle Mexican Grill,675 Deerfield Rd Ste 120,Deerfield,2021-10-01T00:00:00-05:00,42.16716,-87.844253,447,5,Walgreens,5,Target,47
+224-222@8fz-thj-tgk,Chipotle Mexican Grill,4655 Pga Blvd Bldg F,Palm Beach Gardens,2019-01-01T00:00:00-05:00,26.838781,-80.10891,722,1,Publix Super Markets,4,Publix Super Markets,46
+224-222@8fz-thj-tgk,Chipotle Mexican Grill,4655 Pga Blvd Bldg F,Palm Beach Gardens,2019-01-01T00:00:00-05:00,26.838781,-80.10891,722,2,Starbucks,3,McDonald's,40
+224-222@8fz-thj-tgk,Chipotle Mexican Grill,4655 Pga Blvd Bldg F,Palm Beach Gardens,2019-01-01T00:00:00-05:00,26.838781,-80.10891,722,3,Shell Oil,3,Starbucks,39
+224-222@8fz-thj-tgk,Chipotle Mexican Grill,4655 Pga Blvd Bldg F,Palm Beach Gardens,2019-01-01T00:00:00-05:00,26.838781,-80.10891,722,4,7-Eleven,3,Chick-fil-A,33
+224-222@8fz-thj-tgk,Chipotle Mexican Grill,4655 Pga Blvd Bldg F,Palm Beach Gardens,2019-01-01T00:00:00-05:00,26.838781,-80.10891,722,5,McDonald's,2,Dunkin',32
+22n-222@627-s8h-vj9,Chipotle Mexican Grill,680 Avenue of the Americas,New York,2020-06-01T00:00:00-04:00,40.741741,-73.993372,138,1,Dunkin',6,Starbucks,36
+22n-222@627-s8h-vj9,Chipotle Mexican Grill,680 Avenue of the Americas,New York,2020-06-01T00:00:00-04:00,40.741741,-73.993372,138,2,Starbucks,4,Dunkin',36
+22n-222@627-s8h-vj9,Chipotle Mexican Grill,680 Avenue of the Americas,New York,2020-06-01T00:00:00-04:00,40.741741,-73.993372,138,3,McDonald's,3,Subway,30
+22n-222@627-s8h-vj9,Chipotle Mexican Grill,680 Avenue of the Americas,New York,2020-06-01T00:00:00-04:00,40.741741,-73.993372,138,4,BP,2,The Home Depot,23
+22n-222@627-s8h-vj9,Chipotle Mexican Grill,680 Avenue of the Americas,New York,2020-06-01T00:00:00-04:00,40.741741,-73.993372,138,5,The Home Depot,2,McDonald's,23
+223-222@8dj-jv9-rc5,Chipotle Mexican Grill,2011 N Dale Mabry Hwy,Tampa,2019-10-01T00:00:00-04:00,27.960161,-82.505023,691,1,Walmart,11,Walmart,65
+223-222@8dj-jv9-rc5,Chipotle Mexican Grill,2011 N Dale Mabry Hwy,Tampa,2019-10-01T00:00:00-04:00,27.960161,-82.505023,691,2,McDonald's,6,McDonald's,52
+223-222@8dj-jv9-rc5,Chipotle Mexican Grill,2011 N Dale Mabry Hwy,Tampa,2019-10-01T00:00:00-04:00,27.960161,-82.505023,691,3,Wawa,5,Starbucks,36
+223-222@8dj-jv9-rc5,Chipotle Mexican Grill,2011 N Dale Mabry Hwy,Tampa,2019-10-01T00:00:00-04:00,27.960161,-82.505023,691,4,Shell Oil,4,Wawa,36
+223-222@8dj-jv9-rc5,Chipotle Mexican Grill,2011 N Dale Mabry Hwy,Tampa,2019-10-01T00:00:00-04:00,27.960161,-82.505023,691,5,Starbucks,4,Publix Super Markets,35
+zzw-222@63v-by5-yqf,Chipotle Mexican Grill,2042 Portage Trl,Cuyahoga Falls,2019-03-01T00:00:00-05:00,41.148133,-81.507612,454,1,Walmart,4,McDonald's,50
+zzw-222@63v-by5-yqf,Chipotle Mexican Grill,2042 Portage Trl,Cuyahoga Falls,2019-03-01T00:00:00-05:00,41.148133,-81.507612,454,2,GetGo,4,Walmart,41
+zzw-222@63v-by5-yqf,Chipotle Mexican Grill,2042 Portage Trl,Cuyahoga Falls,2019-03-01T00:00:00-05:00,41.148133,-81.507612,454,3,McDonald's,4,Starbucks,38
+zzw-222@63v-by5-yqf,Chipotle Mexican Grill,2042 Portage Trl,Cuyahoga Falls,2019-03-01T00:00:00-05:00,41.148133,-81.507612,454,4,Cinemark Theatres,4,Circle K,33
+zzw-222@63v-by5-yqf,Chipotle Mexican Grill,2042 Portage Trl,Cuyahoga Falls,2019-03-01T00:00:00-05:00,41.148133,-81.507612,454,5,Starbucks,3,GetGo,31
+zzw-224@5pw-2km-yqf,Chipotle Mexican Grill,6230 W 95th St Ste B,Oak Lawn,2020-12-01T00:00:00-06:00,41.720002,-87.776479,198,1,Walgreens,8,McDonald's,59
+zzw-224@5pw-2km-yqf,Chipotle Mexican Grill,6230 W 95th St Ste B,Oak Lawn,2020-12-01T00:00:00-06:00,41.720002,-87.776479,198,2,McDonald's,8,Walgreens,54
+zzw-224@5pw-2km-yqf,Chipotle Mexican Grill,6230 W 95th St Ste B,Oak Lawn,2020-12-01T00:00:00-06:00,41.720002,-87.776479,198,3,Kohl's,6,Walmart,53
+zzw-224@5pw-2km-yqf,Chipotle Mexican Grill,6230 W 95th St Ste B,Oak Lawn,2020-12-01T00:00:00-06:00,41.720002,-87.776479,198,4,Starbucks,5,Target,48
+zzw-224@5pw-2km-yqf,Chipotle Mexican Grill,6230 W 95th St Ste B,Oak Lawn,2020-12-01T00:00:00-06:00,41.720002,-87.776479,198,5,Target,5,Jewel-Osco,45
+222-222@627-wj9-cbk,Chipotle Mexican Grill,1255 Raritan Rd Unit 410,Clark,2020-08-01T00:00:00-04:00,40.632769,-74.305092,62,1,Panda Express,12,Dunkin',67
+222-222@627-wj9-cbk,Chipotle Mexican Grill,1255 Raritan Rd Unit 410,Clark,2020-08-01T00:00:00-04:00,40.632769,-74.305092,62,2,Taco Bell,7,Walmart,42
+222-222@627-wj9-cbk,Chipotle Mexican Grill,1255 Raritan Rd Unit 410,Clark,2020-08-01T00:00:00-04:00,40.632769,-74.305092,62,3,Barnes and Noble,5,Wendy's,42
+222-222@627-wj9-cbk,Chipotle Mexican Grill,1255 Raritan Rd Unit 410,Clark,2020-08-01T00:00:00-04:00,40.632769,-74.305092,62,4,7-Eleven,5,McDonald's,40
+222-222@627-wj9-cbk,Chipotle Mexican Grill,1255 Raritan Rd Unit 410,Clark,2020-08-01T00:00:00-04:00,40.632769,-74.305092,62,5,Wendy's,5,7-Eleven,36
+zzw-225@627-v44-7yv,Chipotle Mexican Grill,301 Mount Hope Ave,Rockaway,2021-11-01T00:00:00-04:00,40.906878,-74.553278,6342,1,Simon mall,100,Simon mall,100
+zzw-225@627-v44-7yv,Chipotle Mexican Grill,301 Mount Hope Ave,Rockaway,2021-11-01T00:00:00-04:00,40.906878,-74.553278,6342,2,Target,11,Walmart,54
+zzw-225@627-v44-7yv,Chipotle Mexican Grill,301 Mount Hope Ave,Rockaway,2021-11-01T00:00:00-04:00,40.906878,-74.553278,6342,3,Red Robin Gourmet Burgers,11,Dunkin',50
+zzw-225@627-v44-7yv,Chipotle Mexican Grill,301 Mount Hope Ave,Rockaway,2021-11-01T00:00:00-04:00,40.906878,-74.553278,6342,4,Walmart,8,Target,41
+zzw-225@627-v44-7yv,Chipotle Mexican Grill,301 Mount Hope Ave,Rockaway,2021-11-01T00:00:00-04:00,40.906878,-74.553278,6342,5,Dunkin',6,Starbucks,35
+225-222@8gf-r6z-mc5,Chipotle Mexican Grill,946 Patton Ave Ste 30,Asheville,2019-04-01T00:00:00-04:00,35.586707,-82.58743,160,1,Stanton Optical,9,McDonald's,52
+225-222@8gf-r6z-mc5,Chipotle Mexican Grill,946 Patton Ave Ste 30,Asheville,2019-04-01T00:00:00-04:00,35.586707,-82.58743,160,2,McDonald's,6,Shell Oil,49
+225-222@8gf-r6z-mc5,Chipotle Mexican Grill,946 Patton Ave Ste 30,Asheville,2019-04-01T00:00:00-04:00,35.586707,-82.58743,160,3,Gold's Gym,4,Walmart,48
+225-222@8gf-r6z-mc5,Chipotle Mexican Grill,946 Patton Ave Ste 30,Asheville,2019-04-01T00:00:00-04:00,35.586707,-82.58743,160,4,Starbucks,4,Ingles Markets,48
+225-222@8gf-r6z-mc5,Chipotle Mexican Grill,946 Patton Ave Ste 30,Asheville,2019-04-01T00:00:00-04:00,35.586707,-82.58743,160,5,Ingles Markets,4,Starbucks,37
+224-222@63t-q79-whq,Chipotle Mexican Grill,7689 Crile Rd,Concord Township,2020-07-01T00:00:00-04:00,41.66228,-81.240635,787,1,McDonald's,7,McDonald's,56
+224-222@63t-q79-whq,Chipotle Mexican Grill,7689 Crile Rd,Concord Township,2020-07-01T00:00:00-04:00,41.66228,-81.240635,787,2,Walmart,5,Walmart,49
+224-222@63t-q79-whq,Chipotle Mexican Grill,7689 Crile Rd,Concord Township,2020-07-01T00:00:00-04:00,41.66228,-81.240635,787,3,Starbucks,3,Chick-fil-A,39
+224-222@63t-q79-whq,Chipotle Mexican Grill,7689 Crile Rd,Concord Township,2020-07-01T00:00:00-04:00,41.66228,-81.240635,787,4,Sheetz,3,Sheetz,33
+224-222@63t-q79-whq,Chipotle Mexican Grill,7689 Crile Rd,Concord Township,2020-07-01T00:00:00-04:00,41.66228,-81.240635,787,5,Shell Oil,3,Dairy Queen,33
+225-222@5sb-94j-n5z,Chipotle Mexican Grill,751 S Perryville Rd,Rockford,2019-09-01T00:00:00-05:00,42.26449,-88.980621,825,1,Walmart,7,McDonald's,60
+225-222@5sb-94j-n5z,Chipotle Mexican Grill,751 S Perryville Rd,Rockford,2019-09-01T00:00:00-05:00,42.26449,-88.980621,825,2,McDonald's,5,Walmart,56
+225-222@5sb-94j-n5z,Chipotle Mexican Grill,751 S Perryville Rd,Rockford,2019-09-01T00:00:00-05:00,42.26449,-88.980621,825,3,Target,5,Target,37
+225-222@5sb-94j-n5z,Chipotle Mexican Grill,751 S Perryville Rd,Rockford,2019-09-01T00:00:00-05:00,42.26449,-88.980621,825,4,Woodman's Market,3,Culver's,35
+225-222@5sb-94j-n5z,Chipotle Mexican Grill,751 S Perryville Rd,Rockford,2019-09-01T00:00:00-05:00,42.26449,-88.980621,825,5,Starbucks,3,Mobil,33
+222-222@8fx-zdp-85f,Chipotle Mexican Grill,1563 W New Haven Ave,West Melbourne,2021-10-01T00:00:00-04:00,28.078442,-80.647515,887,1,Walmart,9,Walmart,69
+222-222@8fx-zdp-85f,Chipotle Mexican Grill,1563 W New Haven Ave,West Melbourne,2021-10-01T00:00:00-04:00,28.078442,-80.647515,887,2,McDonald's,9,McDonald's,62
+222-222@8fx-zdp-85f,Chipotle Mexican Grill,1563 W New Haven Ave,West Melbourne,2021-10-01T00:00:00-04:00,28.078442,-80.647515,887,3,Wawa,8,Wawa,52
+222-222@8fx-zdp-85f,Chipotle Mexican Grill,1563 W New Haven Ave,West Melbourne,2021-10-01T00:00:00-04:00,28.078442,-80.647515,887,4,7-Eleven,5,7-Eleven,48
+222-222@8fx-zdp-85f,Chipotle Mexican Grill,1563 W New Haven Ave,West Melbourne,2021-10-01T00:00:00-04:00,28.078442,-80.647515,887,5,Starbucks,5,Chick-fil-A,41
+223-222@5qv-258-8gk,Chipotle Mexican Grill,415 E Hall of Fame Ave,Stillwater,2020-12-01T00:00:00-06:00,36.126472,-97.053388,470,1,Walmart,14,Walmart,83
+223-222@5qv-258-8gk,Chipotle Mexican Grill,415 E Hall of Fame Ave,Stillwater,2020-12-01T00:00:00-06:00,36.126472,-97.053388,470,2,Chick-fil-A,7,Chick-fil-A,51
+223-222@5qv-258-8gk,Chipotle Mexican Grill,415 E Hall of Fame Ave,Stillwater,2020-12-01T00:00:00-06:00,36.126472,-97.053388,470,3,OnCue,6,McDonald's,51
+223-222@5qv-258-8gk,Chipotle Mexican Grill,415 E Hall of Fame Ave,Stillwater,2020-12-01T00:00:00-06:00,36.126472,-97.053388,470,4,Sonic,5,Sonic,48
+223-222@5qv-258-8gk,Chipotle Mexican Grill,415 E Hall of Fame Ave,Stillwater,2020-12-01T00:00:00-06:00,36.126472,-97.053388,470,5,T.J. Maxx,5,OnCue,42
+zzw-224@8fw-5fh-xwk,Chipotle Mexican Grill,19151 S Dixie Hwy,Cutler Bay,2021-09-01T00:00:00-04:00,25.589608,-80.358702,582,1,McDonald's,6,McDonald's,62
+zzw-224@8fw-5fh-xwk,Chipotle Mexican Grill,19151 S Dixie Hwy,Cutler Bay,2021-09-01T00:00:00-04:00,25.589608,-80.358702,582,2,Walmart,5,Shell Oil,48
+zzw-224@8fw-5fh-xwk,Chipotle Mexican Grill,19151 S Dixie Hwy,Cutler Bay,2021-09-01T00:00:00-04:00,25.589608,-80.358702,582,3,Starbucks,5,Starbucks,42
+zzw-224@8fw-5fh-xwk,Chipotle Mexican Grill,19151 S Dixie Hwy,Cutler Bay,2021-09-01T00:00:00-04:00,25.589608,-80.358702,582,4,Publix Super Markets,4,Walmart,42
+zzw-224@8fw-5fh-xwk,Chipotle Mexican Grill,19151 S Dixie Hwy,Cutler Bay,2021-09-01T00:00:00-04:00,25.589608,-80.358702,582,5,Shell Oil,4,Publix Super Markets,40
+227-222@627-s8j-2kz,Chipotle Mexican Grill,117 E 14th St,New York,2021-11-01T00:00:00-04:00,40.734249,-73.98883,506,1,Starbucks,5,Starbucks,36
+227-222@627-s8j-2kz,Chipotle Mexican Grill,117 E 14th St,New York,2021-11-01T00:00:00-04:00,40.734249,-73.98883,506,2,Dunkin',4,McDonald's,32
+227-222@627-s8j-2kz,Chipotle Mexican Grill,117 E 14th St,New York,2021-11-01T00:00:00-04:00,40.734249,-73.98883,506,3,Target,2,Dunkin',31
+227-222@627-s8j-2kz,Chipotle Mexican Grill,117 E 14th St,New York,2021-11-01T00:00:00-04:00,40.734249,-73.98883,506,4,McDonald's,2,Subway,21
+227-222@627-s8j-2kz,Chipotle Mexican Grill,117 E 14th St,New York,2021-11-01T00:00:00-04:00,40.734249,-73.98883,506,5,CVS,2,Target,19
+225-222@63r-7y3-4n5,Chipotle Mexican Grill,6770 Richmond Hwy,Groveton,2021-09-01T00:00:00-04:00,38.770636,-77.082257,484,1,McDonald's,10,McDonald's,64
+225-222@63r-7y3-4n5,Chipotle Mexican Grill,6770 Richmond Hwy,Groveton,2021-09-01T00:00:00-04:00,38.770636,-77.082257,484,2,Walmart,9,Walmart,59
+225-222@63r-7y3-4n5,Chipotle Mexican Grill,6770 Richmond Hwy,Groveton,2021-09-01T00:00:00-04:00,38.770636,-77.082257,484,3,7-Eleven,8,7-Eleven,56
+225-222@63r-7y3-4n5,Chipotle Mexican Grill,6770 Richmond Hwy,Groveton,2021-09-01T00:00:00-04:00,38.770636,-77.082257,484,4,Shell Oil,6,Target,40
+225-222@63r-7y3-4n5,Chipotle Mexican Grill,6770 Richmond Hwy,Groveton,2021-09-01T00:00:00-04:00,38.770636,-77.082257,484,5,CVS,5,Shell Oil,40
+226-222@8fz-thw-wp9,Chipotle Mexican Grill,6274 W Indiantown Rd Ste A,Jupiter,2019-06-01T00:00:00-04:00,26.934231,-80.130647,1405,1,Walmart,5,Walmart,47
+226-222@8fz-thw-wp9,Chipotle Mexican Grill,6274 W Indiantown Rd Ste A,Jupiter,2019-06-01T00:00:00-04:00,26.934231,-80.130647,1405,2,McDonald's,4,McDonald's,45
+226-222@8fz-thw-wp9,Chipotle Mexican Grill,6274 W Indiantown Rd Ste A,Jupiter,2019-06-01T00:00:00-04:00,26.934231,-80.130647,1405,3,Starbucks,4,Publix Super Markets,43
+226-222@8fz-thw-wp9,Chipotle Mexican Grill,6274 W Indiantown Rd Ste A,Jupiter,2019-06-01T00:00:00-04:00,26.934231,-80.130647,1405,4,Leslie's Swimming Pool Supplies,4,Starbucks,39
+226-222@8fz-thw-wp9,Chipotle Mexican Grill,6274 W Indiantown Rd Ste A,Jupiter,2019-06-01T00:00:00-04:00,26.934231,-80.130647,1405,5,Mobil,4,Mobil,38
+zzw-222@8fw-779-snq,Chipotle Mexican Grill,10141 W Flagler St Ste 100,Miami,2019-02-01T00:00:00-05:00,25.769278,-80.359828,466,1,Panera Bread,5,McDonald's,48
+zzw-222@8fw-779-snq,Chipotle Mexican Grill,10141 W Flagler St Ste 100,Miami,2019-02-01T00:00:00-05:00,25.769278,-80.359828,466,2,Walmart,5,Walmart,43
+zzw-222@8fw-779-snq,Chipotle Mexican Grill,10141 W Flagler St Ste 100,Miami,2019-02-01T00:00:00-05:00,25.769278,-80.359828,466,3,McDonald's,5,Simon mall,41
+zzw-222@8fw-779-snq,Chipotle Mexican Grill,10141 W Flagler St Ste 100,Miami,2019-02-01T00:00:00-05:00,25.769278,-80.359828,466,4,Publix Super Markets,5,Publix Super Markets,38
+zzw-222@8fw-779-snq,Chipotle Mexican Grill,10141 W Flagler St Ste 100,Miami,2019-02-01T00:00:00-05:00,25.769278,-80.359828,466,5,T.J. Maxx,3,CVS,31
+228-222@63s-yb6-y5f,Chipotle Mexican Grill,631 Baltimore Blvd Unit 102,Westminster,2021-07-01T00:00:00-04:00,39.562076,-76.971639,278,1,Wawa,9,Walmart,65
+228-222@63s-yb6-y5f,Chipotle Mexican Grill,631 Baltimore Blvd Unit 102,Westminster,2021-07-01T00:00:00-04:00,39.562076,-76.971639,278,2,Chick-fil-A,8,McDonald's,63
+228-222@63s-yb6-y5f,Chipotle Mexican Grill,631 Baltimore Blvd Unit 102,Westminster,2021-07-01T00:00:00-04:00,39.562076,-76.971639,278,3,McDonald's,8,Chick-fil-A,59
+228-222@63s-yb6-y5f,Chipotle Mexican Grill,631 Baltimore Blvd Unit 102,Westminster,2021-07-01T00:00:00-04:00,39.562076,-76.971639,278,4,Sheetz,7,Sheetz,54
+228-222@63s-yb6-y5f,Chipotle Mexican Grill,631 Baltimore Blvd Unit 102,Westminster,2021-07-01T00:00:00-04:00,39.562076,-76.971639,278,5,Burger King,7,Dunkin',43
+224-222@5ny-ws2-8jv,Chipotle Mexican Grill,2801 Pine Lake Rd Ste V,Lincoln,2020-01-01T00:00:00-06:00,40.739225,-96.679444,270,1,Phillips 66,7,Walmart,53
+224-222@5ny-ws2-8jv,Chipotle Mexican Grill,2801 Pine Lake Rd Ste V,Lincoln,2020-01-01T00:00:00-06:00,40.739225,-96.679444,270,2,Walmart,5,Phillips 66,45
+224-222@5ny-ws2-8jv,Chipotle Mexican Grill,2801 Pine Lake Rd Ste V,Lincoln,2020-01-01T00:00:00-06:00,40.739225,-96.679444,270,3,Costco,4,Target,40
+224-222@5ny-ws2-8jv,Chipotle Mexican Grill,2801 Pine Lake Rd Ste V,Lincoln,2020-01-01T00:00:00-06:00,40.739225,-96.679444,270,4,McDonald's,4,McDonald's,34
+224-222@5ny-ws2-8jv,Chipotle Mexican Grill,2801 Pine Lake Rd Ste V,Lincoln,2020-01-01T00:00:00-06:00,40.739225,-96.679444,270,5,Target,4,Runza,32
+222-222@8dk-mkx-c5z,Chipotle Mexican Grill,17019 Tamiami Trl,North Port,2020-12-01T00:00:00-05:00,27.037403,-82.21618,357,1,Walmart,19,Walmart,77
+222-222@8dk-mkx-c5z,Chipotle Mexican Grill,17019 Tamiami Trl,North Port,2020-12-01T00:00:00-05:00,27.037403,-82.21618,357,2,Publix Super Markets,12,McDonald's,61
+222-222@8dk-mkx-c5z,Chipotle Mexican Grill,17019 Tamiami Trl,North Port,2020-12-01T00:00:00-05:00,27.037403,-82.21618,357,3,McDonald's,6,Publix Super Markets,45
+222-222@8dk-mkx-c5z,Chipotle Mexican Grill,17019 Tamiami Trl,North Port,2020-12-01T00:00:00-05:00,27.037403,-82.21618,357,4,Starbucks,5,Target,44
+222-222@8dk-mkx-c5z,Chipotle Mexican Grill,17019 Tamiami Trl,North Port,2020-12-01T00:00:00-05:00,27.037403,-82.21618,357,5,T.J. Maxx,5,Shell Oil,43
+222-222@8dk-mkx-c5z,Chipotle Mexican Grill,17019 Tamiami Trl,North Port,2019-03-01T00:00:00-05:00,27.037403,-82.21618,213,1,Publix Super Markets,16,Walmart,72
+222-222@8dk-mkx-c5z,Chipotle Mexican Grill,17019 Tamiami Trl,North Port,2019-03-01T00:00:00-05:00,27.037403,-82.21618,213,2,Walmart,11,Publix Super Markets,52
+222-222@8dk-mkx-c5z,Chipotle Mexican Grill,17019 Tamiami Trl,North Port,2019-03-01T00:00:00-05:00,27.037403,-82.21618,213,3,RaceTrac,6,McDonald's,50
+222-222@8dk-mkx-c5z,Chipotle Mexican Grill,17019 Tamiami Trl,North Port,2019-03-01T00:00:00-05:00,27.037403,-82.21618,213,4,The Home Depot,4,RaceTrac,37
+222-222@8dk-mkx-c5z,Chipotle Mexican Grill,17019 Tamiami Trl,North Port,2019-03-01T00:00:00-05:00,27.037403,-82.21618,213,5,Kay Jewelers,4,Chick-fil-A,37
+zzw-222@63r-6np-249,Chipotle Mexican Grill,2600 Connecticut Ave NW Ste 200,Washington,2022-03-01T00:00:00-05:00,38.923724,-77.052,108,1,McDonald's,14,McDonald's,56
+zzw-222@63r-6np-249,Chipotle Mexican Grill,2600 Connecticut Ave NW Ste 200,Washington,2022-03-01T00:00:00-05:00,38.923724,-77.052,108,2,Omni Hotels & Resorts,12,Starbucks,44
+zzw-222@63r-6np-249,Chipotle Mexican Grill,2600 Connecticut Ave NW Ste 200,Washington,2022-03-01T00:00:00-05:00,38.923724,-77.052,108,3,Marriott Hotels,8,Walmart,43
+zzw-222@63r-6np-249,Chipotle Mexican Grill,2600 Connecticut Ave NW Ste 200,Washington,2022-03-01T00:00:00-05:00,38.923724,-77.052,108,4,Elevation Burger,6,CVS,38
+zzw-222@63r-6np-249,Chipotle Mexican Grill,2600 Connecticut Ave NW Ste 200,Washington,2022-03-01T00:00:00-05:00,38.923724,-77.052,108,5,Motto by Hilton,5,Chick-fil-A,36
+zzw-222@8g7-44k-9j9,Chipotle Mexican Grill,3999 Austell Rd,Austell,2021-11-01T00:00:00-04:00,33.855531,-84.5993,457,1,RaceTrac,16,Walmart,65
+zzw-222@8g7-44k-9j9,Chipotle Mexican Grill,3999 Austell Rd,Austell,2021-11-01T00:00:00-04:00,33.855531,-84.5993,457,2,Walmart,15,Chick-fil-A,62
+zzw-222@8g7-44k-9j9,Chipotle Mexican Grill,3999 Austell Rd,Austell,2021-11-01T00:00:00-04:00,33.855531,-84.5993,457,3,McDonald's,13,RaceTrac,61
+zzw-222@8g7-44k-9j9,Chipotle Mexican Grill,3999 Austell Rd,Austell,2021-11-01T00:00:00-04:00,33.855531,-84.5993,457,4,QuikTrip,9,McDonald's,61
+zzw-222@8g7-44k-9j9,Chipotle Mexican Grill,3999 Austell Rd,Austell,2021-11-01T00:00:00-04:00,33.855531,-84.5993,457,5,Chick-fil-A,7,QuikTrip,51
+222-222@8dk-nc4-dvz,Chipotle Mexican Grill,97 N Cattlemen Rd,Sarasota,2019-04-01T00:00:00-04:00,27.387623,-82.458131,327,1,Target,16,Walmart,57
+222-222@8dk-nc4-dvz,Chipotle Mexican Grill,97 N Cattlemen Rd,Sarasota,2019-04-01T00:00:00-04:00,27.387623,-82.458131,327,2,Tesla Motors,13,Publix Super Markets,49
+222-222@8dk-nc4-dvz,Chipotle Mexican Grill,97 N Cattlemen Rd,Sarasota,2019-04-01T00:00:00-04:00,27.387623,-82.458131,327,3,GameStop,6,Tesla Motors,49
+222-222@8dk-nc4-dvz,Chipotle Mexican Grill,97 N Cattlemen Rd,Sarasota,2019-04-01T00:00:00-04:00,27.387623,-82.458131,327,4,Starbucks,6,Target,48
+222-222@8dk-nc4-dvz,Chipotle Mexican Grill,97 N Cattlemen Rd,Sarasota,2019-04-01T00:00:00-04:00,27.387623,-82.458131,327,5,Walmart,5,Starbucks,43
+222-223@63j-8zn-jqf,Chipotle Mexican Grill,7903 Crossings of Beckett Dr,Beckett Ridge,2020-04-01T00:00:00-04:00,39.360216,-84.460196,318,1,Kroger Fuel Center,13,Kroger Fuel Center,58
+222-223@63j-8zn-jqf,Chipotle Mexican Grill,7903 Crossings of Beckett Dr,Beckett Ridge,2020-04-01T00:00:00-04:00,39.360216,-84.460196,318,2,McDonald's,11,McDonald's,47
+222-223@63j-8zn-jqf,Chipotle Mexican Grill,7903 Crossings of Beckett Dr,Beckett Ridge,2020-04-01T00:00:00-04:00,39.360216,-84.460196,318,3,UDF (United Dairy Farmers),4,Walmart,41
+222-223@63j-8zn-jqf,Chipotle Mexican Grill,7903 Crossings of Beckett Dr,Beckett Ridge,2020-04-01T00:00:00-04:00,39.360216,-84.460196,318,4,Walmart,3,UDF (United Dairy Farmers),36
+222-223@63j-8zn-jqf,Chipotle Mexican Grill,7903 Crossings of Beckett Dr,Beckett Ridge,2020-04-01T00:00:00-04:00,39.360216,-84.460196,318,5,Shell Oil,3,Chick-fil-A,31
+zzw-223@5nz-vjf-xt9,Chipotle Mexican Grill,3737 Merle Hay Rd Ste 100,Des Moines,2021-11-01T00:00:00-05:00,41.628867,-93.697242,423,1,Casey's General Stores,11,Casey's General Stores,61
+zzw-223@5nz-vjf-xt9,Chipotle Mexican Grill,3737 Merle Hay Rd Ste 100,Des Moines,2021-11-01T00:00:00-05:00,41.628867,-93.697242,423,2,Walmart,9,McDonald's,60
+zzw-223@5nz-vjf-xt9,Chipotle Mexican Grill,3737 Merle Hay Rd Ste 100,Des Moines,2021-11-01T00:00:00-05:00,41.628867,-93.697242,423,3,McDonald's,8,Walmart,57
+zzw-223@5nz-vjf-xt9,Chipotle Mexican Grill,3737 Merle Hay Rd Ste 100,Des Moines,2021-11-01T00:00:00-05:00,41.628867,-93.697242,423,4,Target,5,Kum & Go,43
+zzw-223@5nz-vjf-xt9,Chipotle Mexican Grill,3737 Merle Hay Rd Ste 100,Des Moines,2021-11-01T00:00:00-05:00,41.628867,-93.697242,423,5,Starbucks,5,Target,38
+zzw-223@63r-bv9-td9,Chipotle Mexican Grill,10150 Reisterstown Rd,Garrison,2020-04-01T00:00:00-04:00,39.412702,-76.772287,89,1,McDonald's,15,Chick-fil-A,64
+zzw-223@63r-bv9-td9,Chipotle Mexican Grill,10150 Reisterstown Rd,Garrison,2020-04-01T00:00:00-04:00,39.412702,-76.772287,89,2,Chick-fil-A,13,Walmart,59
+zzw-223@63r-bv9-td9,Chipotle Mexican Grill,10150 Reisterstown Rd,Garrison,2020-04-01T00:00:00-04:00,39.412702,-76.772287,89,3,Walmart,10,McDonald's,51
+zzw-223@63r-bv9-td9,Chipotle Mexican Grill,10150 Reisterstown Rd,Garrison,2020-04-01T00:00:00-04:00,39.412702,-76.772287,89,4,Petco,6,Target,35
+zzw-223@63r-bv9-td9,Chipotle Mexican Grill,10150 Reisterstown Rd,Garrison,2020-04-01T00:00:00-04:00,39.412702,-76.772287,89,5,Buffalo Wild Wings,6,Spencer's,27
+223-222@5pw-624-bzf,Chipotle Mexican Grill,233 W Lake St,Chicago,2019-07-01T00:00:00-05:00,41.885576,-87.635232,453,1,Dunkin',6,McDonald's,38
+223-222@5pw-624-bzf,Chipotle Mexican Grill,233 W Lake St,Chicago,2019-07-01T00:00:00-05:00,41.885576,-87.635232,453,2,7-Eleven,4,Starbucks,37
+223-222@5pw-624-bzf,Chipotle Mexican Grill,233 W Lake St,Chicago,2019-07-01T00:00:00-05:00,41.885576,-87.635232,453,3,McDonald's,3,Dunkin',32
+223-222@5pw-624-bzf,Chipotle Mexican Grill,233 W Lake St,Chicago,2019-07-01T00:00:00-05:00,41.885576,-87.635232,453,4,Potbelly Sandwich Works,3,Walgreens,25
+223-222@5pw-624-bzf,Chipotle Mexican Grill,233 W Lake St,Chicago,2019-07-01T00:00:00-05:00,41.885576,-87.635232,453,5,Starbucks,3,BP,23
+223-222@5qv-xjj-j9z,Chipotle Mexican Grill,340 Coit Rd Ste A,Plano,2021-02-01T00:00:00-06:00,33.002131,-96.767114,66,1,Walmart,15,Walmart,56
+223-222@5qv-xjj-j9z,Chipotle Mexican Grill,340 Coit Rd Ste A,Plano,2021-02-01T00:00:00-06:00,33.002131,-96.767114,66,2,McDonald's,14,Target,43
+223-222@5qv-xjj-j9z,Chipotle Mexican Grill,340 Coit Rd Ste A,Plano,2021-02-01T00:00:00-06:00,33.002131,-96.767114,66,3,Starbucks,9,Starbucks,41
+223-222@5qv-xjj-j9z,Chipotle Mexican Grill,340 Coit Rd Ste A,Plano,2021-02-01T00:00:00-06:00,33.002131,-96.767114,66,4,7-Eleven,6,Whataburger,39
+223-222@5qv-xjj-j9z,Chipotle Mexican Grill,340 Coit Rd Ste A,Plano,2021-02-01T00:00:00-06:00,33.002131,-96.767114,66,5,Panda Express,6,McDonald's,38
+226-222@8fy-f26-pd9,Chipotle Mexican Grill,3317 Daniels Rd Ste 102,Winter Garden,2021-07-01T00:00:00-04:00,28.520946,-81.586778,1116,1,Target,11,McDonald's,65
+226-222@8fy-f26-pd9,Chipotle Mexican Grill,3317 Daniels Rd Ste 102,Winter Garden,2021-07-01T00:00:00-04:00,28.520946,-81.586778,1116,2,Speedway,8,Target,56
+226-222@8fy-f26-pd9,Chipotle Mexican Grill,3317 Daniels Rd Ste 102,Winter Garden,2021-07-01T00:00:00-04:00,28.520946,-81.586778,1116,3,McDonald's,7,Walmart,55
+226-222@8fy-f26-pd9,Chipotle Mexican Grill,3317 Daniels Rd Ste 102,Winter Garden,2021-07-01T00:00:00-04:00,28.520946,-81.586778,1116,4,Walmart,6,Chick-fil-A,54
+226-222@8fy-f26-pd9,Chipotle Mexican Grill,3317 Daniels Rd Ste 102,Winter Garden,2021-07-01T00:00:00-04:00,28.520946,-81.586778,1116,5,Chick-fil-A,6,7-Eleven,49
+223-222@63s-t8s-qpv,Chipotle Mexican Grill,997 W Patrick St,Frederick,2019-12-01T00:00:00-05:00,39.416484,-77.437964,686,1,Walmart,5,McDonald's,59
+223-222@63s-t8s-qpv,Chipotle Mexican Grill,997 W Patrick St,Frederick,2019-12-01T00:00:00-05:00,39.416484,-77.437964,686,2,McDonald's,4,Walmart,59
+223-222@63s-t8s-qpv,Chipotle Mexican Grill,997 W Patrick St,Frederick,2019-12-01T00:00:00-05:00,39.416484,-77.437964,686,3,Planet Fitness,4,Sheetz,36
+223-222@63s-t8s-qpv,Chipotle Mexican Grill,997 W Patrick St,Frederick,2019-12-01T00:00:00-05:00,39.416484,-77.437964,686,4,Wawa,3,CVS,36
+223-222@63s-t8s-qpv,Chipotle Mexican Grill,997 W Patrick St,Frederick,2019-12-01T00:00:00-05:00,39.416484,-77.437964,686,5,Sheetz,3,Chick-fil-A,34
+zzw-224@8fw-2hy-rtv,Chipotle Mexican Grill,4220 N State Road 7,Coral Springs,2020-06-01T00:00:00-04:00,26.283488,-80.202644,387,1,Jersey Mike's,7,Walmart,59
+zzw-224@8fw-2hy-rtv,Chipotle Mexican Grill,4220 N State Road 7,Coral Springs,2020-06-01T00:00:00-04:00,26.283488,-80.202644,387,2,Walmart,6,McDonald's,53
+zzw-224@8fw-2hy-rtv,Chipotle Mexican Grill,4220 N State Road 7,Coral Springs,2020-06-01T00:00:00-04:00,26.283488,-80.202644,387,3,Target,6,Target,44
+zzw-224@8fw-2hy-rtv,Chipotle Mexican Grill,4220 N State Road 7,Coral Springs,2020-06-01T00:00:00-04:00,26.283488,-80.202644,387,4,McDonald's,6,Publix Super Markets,43
+zzw-224@8fw-2hy-rtv,Chipotle Mexican Grill,4220 N State Road 7,Coral Springs,2020-06-01T00:00:00-04:00,26.283488,-80.202644,387,5,Wawa,5,Chevron,35
+zzw-222@5pk-8gm-jqf,Chipotle Mexican Grill,2579 Wabash Ave,Springfield,2021-04-01T00:00:00-05:00,39.764487,-89.704356,383,1,Simon mall,100,Simon mall,100
+zzw-222@5pk-8gm-jqf,Chipotle Mexican Grill,2579 Wabash Ave,Springfield,2021-04-01T00:00:00-05:00,39.764487,-89.704356,383,2,Noodles & Company,21,McDonald's,70
+zzw-222@5pk-8gm-jqf,Chipotle Mexican Grill,2579 Wabash Ave,Springfield,2021-04-01T00:00:00-05:00,39.764487,-89.704356,383,3,McDonald's,11,Walmart,66
+zzw-222@5pk-8gm-jqf,Chipotle Mexican Grill,2579 Wabash Ave,Springfield,2021-04-01T00:00:00-05:00,39.764487,-89.704356,383,4,Walmart,9,Casey's General Stores,49
+zzw-222@5pk-8gm-jqf,Chipotle Mexican Grill,2579 Wabash Ave,Springfield,2021-04-01T00:00:00-05:00,39.764487,-89.704356,383,5,Starbucks,8,Walgreens,48
+224-222@5pq-zcz-xwk,Chipotle Mexican Grill,2540 Broadway Bluffs Dr Ste 101,Columbia,2020-10-01T00:00:00-05:00,38.947407,-92.300055,885,1,Walmart,12,Walmart,71
+224-222@5pq-zcz-xwk,Chipotle Mexican Grill,2540 Broadway Bluffs Dr Ste 101,Columbia,2020-10-01T00:00:00-05:00,38.947407,-92.300055,885,2,McDonald's,7,McDonald's,56
+224-222@5pq-zcz-xwk,Chipotle Mexican Grill,2540 Broadway Bluffs Dr Ste 101,Columbia,2020-10-01T00:00:00-05:00,38.947407,-92.300055,885,3,Break Time,6,Break Time,39
+224-222@5pq-zcz-xwk,Chipotle Mexican Grill,2540 Broadway Bluffs Dr Ste 101,Columbia,2020-10-01T00:00:00-05:00,38.947407,-92.300055,885,4,Sam's Club,5,Taco Bell,37
+224-222@5pq-zcz-xwk,Chipotle Mexican Grill,2540 Broadway Bluffs Dr Ste 101,Columbia,2020-10-01T00:00:00-05:00,38.947407,-92.300055,885,5,Starbucks,5,Sonic,35
+226-222@63j-8k8-z75,Chipotle Mexican Grill,8154 Montgomery Rd Unit 4,Madeira,2020-08-01T00:00:00-04:00,39.204021,-84.368016,218,1,Pottery Barn Kids,8,Kroger,58
+226-222@63j-8k8-z75,Chipotle Mexican Grill,8154 Montgomery Rd Unit 4,Madeira,2020-08-01T00:00:00-04:00,39.204021,-84.368016,218,2,McDonald's,7,McDonald's,53
+226-222@63j-8k8-z75,Chipotle Mexican Grill,8154 Montgomery Rd Unit 4,Madeira,2020-08-01T00:00:00-04:00,39.204021,-84.368016,218,3,Kroger,5,UDF (United Dairy Farmers),44
+226-222@63j-8k8-z75,Chipotle Mexican Grill,8154 Montgomery Rd Unit 4,Madeira,2020-08-01T00:00:00-04:00,39.204021,-84.368016,218,4,UDF (United Dairy Farmers),5,Target,43
+226-222@63j-8k8-z75,Chipotle Mexican Grill,8154 Montgomery Rd Unit 4,Madeira,2020-08-01T00:00:00-04:00,39.204021,-84.368016,218,5,Target,4,Walmart,40
+22s-222@627-wff-d7q,Chipotle Mexican Grill,463 86th St,Brooklyn,2019-01-01T00:00:00-05:00,40.622072,-74.026709,477,1,McDonald's,6,McDonald's,43
+22s-222@627-wff-d7q,Chipotle Mexican Grill,463 86th St,Brooklyn,2019-01-01T00:00:00-05:00,40.622072,-74.026709,477,2,Dunkin',4,Dunkin',40
+22s-222@627-wff-d7q,Chipotle Mexican Grill,463 86th St,Brooklyn,2019-01-01T00:00:00-05:00,40.622072,-74.026709,477,3,New York Sports Club,4,Starbucks,32
+22s-222@627-wff-d7q,Chipotle Mexican Grill,463 86th St,Brooklyn,2019-01-01T00:00:00-05:00,40.622072,-74.026709,477,4,Starbucks,4,BP,22
+22s-222@627-wff-d7q,Chipotle Mexican Grill,463 86th St,Brooklyn,2019-01-01T00:00:00-05:00,40.622072,-74.026709,477,5,T.J. Maxx,3,Wendy's,20
+222-222@5qc-x6v-2c5,Chipotle Mexican Grill,715 E University Pkwy,Orem,2019-05-01T00:00:00-06:00,40.27354,-111.678715,452,1,Walmart,8,Walmart,67
+222-222@5qc-x6v-2c5,Chipotle Mexican Grill,715 E University Pkwy,Orem,2019-05-01T00:00:00-06:00,40.27354,-111.678715,452,2,Vasa Fitness,6,McDonald's,45
+222-222@5qc-x6v-2c5,Chipotle Mexican Grill,715 E University Pkwy,Orem,2019-05-01T00:00:00-06:00,40.27354,-111.678715,452,3,Costco,5,Chevron,42
+222-222@5qc-x6v-2c5,Chipotle Mexican Grill,715 E University Pkwy,Orem,2019-05-01T00:00:00-06:00,40.27354,-111.678715,452,4,McDonald's,5,Costco,40
+222-222@5qc-x6v-2c5,Chipotle Mexican Grill,715 E University Pkwy,Orem,2019-05-01T00:00:00-06:00,40.27354,-111.678715,452,5,Build A Bear Workshop,4,Target,36
+226-222@63h-j3z-gp9,Chipotle Mexican Grill,6759 Miller Ln,Dayton,2021-11-01T00:00:00-04:00,39.845579,-84.192831,303,1,Speedway,11,McDonald's,73
+226-222@63h-j3z-gp9,Chipotle Mexican Grill,6759 Miller Ln,Dayton,2021-11-01T00:00:00-04:00,39.845579,-84.192831,303,2,Walmart,10,Speedway,69
+226-222@63h-j3z-gp9,Chipotle Mexican Grill,6759 Miller Ln,Dayton,2021-11-01T00:00:00-04:00,39.845579,-84.192831,303,3,McDonald's,9,Walmart,65
+226-222@63h-j3z-gp9,Chipotle Mexican Grill,6759 Miller Ln,Dayton,2021-11-01T00:00:00-04:00,39.845579,-84.192831,303,4,Kroger,6,Kroger,57
+226-222@63h-j3z-gp9,Chipotle Mexican Grill,6759 Miller Ln,Dayton,2021-11-01T00:00:00-04:00,39.845579,-84.192831,303,5,Sam's Club,6,Taco Bell,41
+224-222@5sb-782-w8v,Chipotle Mexican Grill,412 S Randall Rd,Algonquin,2020-09-01T00:00:00-05:00,42.171623,-88.335883,114,1,Walmart,7,McDonald's,59
+224-222@5sb-782-w8v,Chipotle Mexican Grill,412 S Randall Rd,Algonquin,2020-09-01T00:00:00-05:00,42.171623,-88.335883,114,2,Target,7,Starbucks,46
+224-222@5sb-782-w8v,Chipotle Mexican Grill,412 S Randall Rd,Algonquin,2020-09-01T00:00:00-05:00,42.171623,-88.335883,114,3,McDonald's,7,Walmart,43
+224-222@5sb-782-w8v,Chipotle Mexican Grill,412 S Randall Rd,Algonquin,2020-09-01T00:00:00-05:00,42.171623,-88.335883,114,4,GameStop,5,Target,41
+224-222@5sb-782-w8v,Chipotle Mexican Grill,412 S Randall Rd,Algonquin,2020-09-01T00:00:00-05:00,42.171623,-88.335883,114,5,Costco,4,Jewel-Osco,36
+222-222@5pv-ysd-389,Chipotle Mexican Grill,6040 US Highway 6,Portage,2020-06-01T00:00:00-05:00,41.551196,-87.180865,270,1,McDonald's,12,McDonald's,68
+222-222@5pv-ysd-389,Chipotle Mexican Grill,6040 US Highway 6,Portage,2020-06-01T00:00:00-05:00,41.551196,-87.180865,270,2,Walmart,8,Walmart,64
+222-222@5pv-ysd-389,Chipotle Mexican Grill,6040 US Highway 6,Portage,2020-06-01T00:00:00-05:00,41.551196,-87.180865,270,3,Meijer,7,Speedway,47
+222-222@5pv-ysd-389,Chipotle Mexican Grill,6040 US Highway 6,Portage,2020-06-01T00:00:00-05:00,41.551196,-87.180865,270,4,Mattress Firm,6,Meijer,45
+222-222@5pv-ysd-389,Chipotle Mexican Grill,6040 US Highway 6,Portage,2020-06-01T00:00:00-05:00,41.551196,-87.180865,270,5,Family Express,6,Dairy Queen,42
+224-223@8fc-fp7-rff,Chipotle Mexican Grill,24004 Southwest Fwy Ste 102,Rosenberg,2019-03-01T00:00:00-06:00,29.546262,-95.750284,9,1,GameStop,22,Chevron,63
+224-223@8fc-fp7-rff,Chipotle Mexican Grill,24004 Southwest Fwy Ste 102,Rosenberg,2019-03-01T00:00:00-06:00,29.546262,-95.750284,9,2,Academy Sports + Outdoors,22,GameStop,63
+224-223@8fc-fp7-rff,Chipotle Mexican Grill,24004 Southwest Fwy Ste 102,Rosenberg,2019-03-01T00:00:00-06:00,29.546262,-95.750284,9,3,Love's Travel Stops and Country Stores,22,Valero Energy,63
+224-223@8fc-fp7-rff,Chipotle Mexican Grill,24004 Southwest Fwy Ste 102,Rosenberg,2019-03-01T00:00:00-06:00,29.546262,-95.750284,9,4,Shell Oil,22,Shell Oil,63
+224-223@8fc-fp7-rff,Chipotle Mexican Grill,24004 Southwest Fwy Ste 102,Rosenberg,2019-03-01T00:00:00-06:00,29.546262,-95.750284,9,5,Dollar Tree,22,Walmart,50
+222-222@63j-rkj-bx5,Chipotle Mexican Grill,1558 E Wooster St,Bowling Green,2020-10-01T00:00:00-04:00,41.373959,-83.624627,1128,1,McDonald's,8,McDonald's,64
+222-222@63j-rkj-bx5,Chipotle Mexican Grill,1558 E Wooster St,Bowling Green,2020-10-01T00:00:00-04:00,41.373959,-83.624627,1128,2,Walmart,8,Walmart,56
+222-222@63j-rkj-bx5,Chipotle Mexican Grill,1558 E Wooster St,Bowling Green,2020-10-01T00:00:00-04:00,41.373959,-83.624627,1128,3,Starbucks,4,Starbucks,46
+222-222@63j-rkj-bx5,Chipotle Mexican Grill,1558 E Wooster St,Bowling Green,2020-10-01T00:00:00-04:00,41.373959,-83.624627,1128,4,Kroger,4,Kroger,42
+222-222@63j-rkj-bx5,Chipotle Mexican Grill,1558 E Wooster St,Bowling Green,2020-10-01T00:00:00-04:00,41.373959,-83.624627,1128,5,Circle K Gas,4,Taco Bell,34
+223-222@8gp-48j-8vz,Chipotle Mexican Grill,13920 Old Saint Augustine Rd Ste 105,Jacksonville,2021-03-01T00:00:00-05:00,30.141237,-81.546351,446,1,McDonald's,8,Walmart,58
+223-222@8gp-48j-8vz,Chipotle Mexican Grill,13920 Old Saint Augustine Rd Ste 105,Jacksonville,2021-03-01T00:00:00-05:00,30.141237,-81.546351,446,2,GATE,8,GATE,57
+223-222@8gp-48j-8vz,Chipotle Mexican Grill,13920 Old Saint Augustine Rd Ste 105,Jacksonville,2021-03-01T00:00:00-05:00,30.141237,-81.546351,446,3,Walmart,7,Publix Super Markets,56
+223-222@8gp-48j-8vz,Chipotle Mexican Grill,13920 Old Saint Augustine Rd Ste 105,Jacksonville,2021-03-01T00:00:00-05:00,30.141237,-81.546351,446,4,Zoës Kitchen,6,Shell Oil,55
+223-222@8gp-48j-8vz,Chipotle Mexican Grill,13920 Old Saint Augustine Rd Ste 105,Jacksonville,2021-03-01T00:00:00-05:00,30.141237,-81.546351,446,5,Shell Oil,6,McDonald's,53
+223-222@8gp-48j-8vz,Chipotle Mexican Grill,13920 Old Saint Augustine Rd Ste 105,Jacksonville,2019-06-01T00:00:00-04:00,30.141237,-81.546351,493,1,Walmart,11,Walmart,60
+223-222@8gp-48j-8vz,Chipotle Mexican Grill,13920 Old Saint Augustine Rd Ste 105,Jacksonville,2019-06-01T00:00:00-04:00,30.141237,-81.546351,493,2,McDonald's,7,Publix Super Markets,49
+223-222@8gp-48j-8vz,Chipotle Mexican Grill,13920 Old Saint Augustine Rd Ste 105,Jacksonville,2019-06-01T00:00:00-04:00,30.141237,-81.546351,493,3,Publix Super Markets,4,McDonald's,47
+223-222@8gp-48j-8vz,Chipotle Mexican Grill,13920 Old Saint Augustine Rd Ste 105,Jacksonville,2019-06-01T00:00:00-04:00,30.141237,-81.546351,493,4,Simon mall,4,Shell Oil,46
+223-222@8gp-48j-8vz,Chipotle Mexican Grill,13920 Old Saint Augustine Rd Ste 105,Jacksonville,2019-06-01T00:00:00-04:00,30.141237,-81.546351,493,5,GATE,4,GATE,43
+223-222@5x4-48d-brk,Chipotle Mexican Grill,401 NE Northgate Way Spc 1119,Seattle,2019-08-01T00:00:00-07:00,47.705,-122.326616,1135,1,Simon mall,100,Simon mall,100
+223-222@5x4-48d-brk,Chipotle Mexican Grill,401 NE Northgate Way Spc 1119,Seattle,2019-08-01T00:00:00-07:00,47.705,-122.326616,1135,2,ULTA Beauty,8,Starbucks,47
+223-222@5x4-48d-brk,Chipotle Mexican Grill,401 NE Northgate Way Spc 1119,Seattle,2019-08-01T00:00:00-07:00,47.705,-122.326616,1135,3,Starbucks,5,Costco,36
+223-222@5x4-48d-brk,Chipotle Mexican Grill,401 NE Northgate Way Spc 1119,Seattle,2019-08-01T00:00:00-07:00,47.705,-122.326616,1135,4,Barnes and Noble,3,McDonald's,32
+223-222@5x4-48d-brk,Chipotle Mexican Grill,401 NE Northgate Way Spc 1119,Seattle,2019-08-01T00:00:00-07:00,47.705,-122.326616,1135,5,Five Guys,3,Safeway Pharmacy,27
+22c-222@8fz-rzs-gkz,Chipotle Mexican Grill,6714 Forest Hill Blvd,Greenacres,2019-09-01T00:00:00-04:00,26.648224,-80.146188,385,1,Walmart,6,Walmart,61
+22c-222@8fz-rzs-gkz,Chipotle Mexican Grill,6714 Forest Hill Blvd,Greenacres,2019-09-01T00:00:00-04:00,26.648224,-80.146188,385,2,McDonald's,5,McDonald's,51
+22c-222@8fz-rzs-gkz,Chipotle Mexican Grill,6714 Forest Hill Blvd,Greenacres,2019-09-01T00:00:00-04:00,26.648224,-80.146188,385,3,Goodwill Industries,3,Publix Super Markets,42
+22c-222@8fz-rzs-gkz,Chipotle Mexican Grill,6714 Forest Hill Blvd,Greenacres,2019-09-01T00:00:00-04:00,26.648224,-80.146188,385,4,Publix Super Markets,3,Dunkin',38
+22c-222@8fz-rzs-gkz,Chipotle Mexican Grill,6714 Forest Hill Blvd,Greenacres,2019-09-01T00:00:00-04:00,26.648224,-80.146188,385,5,Dunkin',3,Mobil,35
+zzy-222@8g7-2p8-v2k,Chipotle Mexican Grill,1650 Scenic Highway S,Snellville,2021-06-01T00:00:00-04:00,33.882403,-84.010515,539,1,QuikTrip,9,QuikTrip,65
+zzy-222@8g7-2p8-v2k,Chipotle Mexican Grill,1650 Scenic Highway S,Snellville,2021-06-01T00:00:00-04:00,33.882403,-84.010515,539,2,Kroger Fuel Center,9,Walmart,63
+zzy-222@8g7-2p8-v2k,Chipotle Mexican Grill,1650 Scenic Highway S,Snellville,2021-06-01T00:00:00-04:00,33.882403,-84.010515,539,3,Chick-fil-A,7,Chick-fil-A,62
+zzy-222@8g7-2p8-v2k,Chipotle Mexican Grill,1650 Scenic Highway S,Snellville,2021-06-01T00:00:00-04:00,33.882403,-84.010515,539,4,McDonald's,6,McDonald's,60
+zzy-222@8g7-2p8-v2k,Chipotle Mexican Grill,1650 Scenic Highway S,Snellville,2021-06-01T00:00:00-04:00,33.882403,-84.010515,539,5,Walmart,5,Kroger Fuel Center,45
+223-222@5pw-2kx-bp9,Chipotle Mexican Grill,7173 S Kingery Hwy,Willowbrook,2020-03-01T00:00:00-06:00,41.758677,-87.94432,361,1,Jewel-Osco,7,Jewel-Osco,42
+223-222@5pw-2kx-bp9,Chipotle Mexican Grill,7173 S Kingery Hwy,Willowbrook,2020-03-01T00:00:00-06:00,41.758677,-87.94432,361,2,Portillo's Restaurants,6,Target,42
+223-222@5pw-2kx-bp9,Chipotle Mexican Grill,7173 S Kingery Hwy,Willowbrook,2020-03-01T00:00:00-06:00,41.758677,-87.94432,361,3,Target,5,McDonald's,39
+223-222@5pw-2kx-bp9,Chipotle Mexican Grill,7173 S Kingery Hwy,Willowbrook,2020-03-01T00:00:00-06:00,41.758677,-87.94432,361,4,Speedway,5,Walgreens,35
+223-222@5pw-2kx-bp9,Chipotle Mexican Grill,7173 S Kingery Hwy,Willowbrook,2020-03-01T00:00:00-06:00,41.758677,-87.94432,361,5,Starbucks,4,Walmart,35
+zzw-229@5pw-6rk-pd9,Chipotle Mexican Grill,5373 Touhy Ave,Skokie,2021-10-01T00:00:00-05:00,42.011392,-87.762841,291,1,Starbucks,7,McDonald's,64
+zzw-229@5pw-6rk-pd9,Chipotle Mexican Grill,5373 Touhy Ave,Skokie,2021-10-01T00:00:00-05:00,42.011392,-87.762841,291,2,McDonald's,6,Starbucks,50
+zzw-229@5pw-6rk-pd9,Chipotle Mexican Grill,5373 Touhy Ave,Skokie,2021-10-01T00:00:00-05:00,42.011392,-87.762841,291,3,BP,6,Target,47
+zzw-229@5pw-6rk-pd9,Chipotle Mexican Grill,5373 Touhy Ave,Skokie,2021-10-01T00:00:00-05:00,42.011392,-87.762841,291,4,Walmart,4,Walmart,42
+zzw-229@5pw-6rk-pd9,Chipotle Mexican Grill,5373 Touhy Ave,Skokie,2021-10-01T00:00:00-05:00,42.011392,-87.762841,291,5,Target,4,Jewel-Osco,38
+223-222@5xc-q5g-p5f,Chipotle Mexican Grill,29991 SW Town Center Loop W Ste A,Wilsonville,2021-12-01T00:00:00-08:00,45.303136,-122.766208,160,1,McDonald's,10,Starbucks,65
+223-222@5xc-q5g-p5f,Chipotle Mexican Grill,29991 SW Town Center Loop W Ste A,Wilsonville,2021-12-01T00:00:00-08:00,45.303136,-122.766208,160,2,Dutch Bros Coffee,9,McDonald's,62
+223-222@5xc-q5g-p5f,Chipotle Mexican Grill,29991 SW Town Center Loop W Ste A,Wilsonville,2021-12-01T00:00:00-08:00,45.303136,-122.766208,160,3,Starbucks,8,Target,61
+223-222@5xc-q5g-p5f,Chipotle Mexican Grill,29991 SW Town Center Loop W Ste A,Wilsonville,2021-12-01T00:00:00-08:00,45.303136,-122.766208,160,4,Target,6,Taco Bell,47
+223-222@5xc-q5g-p5f,Chipotle Mexican Grill,29991 SW Town Center Loop W Ste A,Wilsonville,2021-12-01T00:00:00-08:00,45.303136,-122.766208,160,5,Noodles & Company,6,Dutch Bros Coffee,47
+223-222@5pr-66b-gc5,Chipotle Mexican Grill,20080 W 153rd St,Olathe,2021-11-01T00:00:00-05:00,38.851175,-94.817544,1148,1,McDonald's,11,Walmart,74
+223-222@5pr-66b-gc5,Chipotle Mexican Grill,20080 W 153rd St,Olathe,2021-11-01T00:00:00-05:00,38.851175,-94.817544,1148,2,QuikTrip,10,McDonald's,71
+223-222@5pr-66b-gc5,Chipotle Mexican Grill,20080 W 153rd St,Olathe,2021-11-01T00:00:00-05:00,38.851175,-94.817544,1148,3,Walmart,9,QuikTrip,69
+223-222@5pr-66b-gc5,Chipotle Mexican Grill,20080 W 153rd St,Olathe,2021-11-01T00:00:00-05:00,38.851175,-94.817544,1148,4,Target,9,Target,50
+223-222@5pr-66b-gc5,Chipotle Mexican Grill,20080 W 153rd St,Olathe,2021-11-01T00:00:00-05:00,38.851175,-94.817544,1148,5,Phillips 66,6,Sonic,47
+223-223@63r-6r3-6c5,Chipotle Mexican Grill,3333 Olney Sandy Spring Rd,Olney,2022-03-01T00:00:00-05:00,39.153228,-77.066173,874,1,McDonald's,13,McDonald's,68
+223-223@63r-6r3-6c5,Chipotle Mexican Grill,3333 Olney Sandy Spring Rd,Olney,2022-03-01T00:00:00-05:00,39.153228,-77.066173,874,2,Chick-fil-A,10,Chick-fil-A,50
+223-223@63r-6r3-6c5,Chipotle Mexican Grill,3333 Olney Sandy Spring Rd,Olney,2022-03-01T00:00:00-05:00,39.153228,-77.066173,874,3,Safeway,9,Starbucks,44
+223-223@63r-6r3-6c5,Chipotle Mexican Grill,3333 Olney Sandy Spring Rd,Olney,2022-03-01T00:00:00-05:00,39.153228,-77.066173,874,4,IHOP,7,Exxon Mobil,42
+223-223@63r-6r3-6c5,Chipotle Mexican Grill,3333 Olney Sandy Spring Rd,Olney,2022-03-01T00:00:00-05:00,39.153228,-77.066173,874,5,Popeyes Louisiana Kitchen,6,Subway,42
+225-222@8g9-fdv-q9f,Chipotle Mexican Grill,1713 Parkway,Sevierville,2020-07-01T00:00:00-04:00,35.830609,-83.572937,922,1,TangerOutlets,20,Walmart,69
+225-222@8g9-fdv-q9f,Chipotle Mexican Grill,1713 Parkway,Sevierville,2020-07-01T00:00:00-04:00,35.830609,-83.572937,922,2,Walmart,9,McDonald's,65
+225-222@8g9-fdv-q9f,Chipotle Mexican Grill,1713 Parkway,Sevierville,2020-07-01T00:00:00-04:00,35.830609,-83.572937,922,3,Shell Oil,8,Chick-fil-A,51
+225-222@8g9-fdv-q9f,Chipotle Mexican Grill,1713 Parkway,Sevierville,2020-07-01T00:00:00-04:00,35.830609,-83.572937,922,4,McDonald's,8,Shell Oil,51
+225-222@8g9-fdv-q9f,Chipotle Mexican Grill,1713 Parkway,Sevierville,2020-07-01T00:00:00-04:00,35.830609,-83.572937,922,5,Kroger,6,TangerOutlets,47
+226-222@5sb-83x-2c5,Chipotle Mexican Grill,3821 E Main St,Saint Charles,2019-12-01T00:00:00-06:00,41.920557,-88.265905,662,1,Target,10,Target,58
+226-222@5sb-83x-2c5,Chipotle Mexican Grill,3821 E Main St,Saint Charles,2019-12-01T00:00:00-06:00,41.920557,-88.265905,662,2,Walmart,7,McDonald's,55
+226-222@5sb-83x-2c5,Chipotle Mexican Grill,3821 E Main St,Saint Charles,2019-12-01T00:00:00-06:00,41.920557,-88.265905,662,3,McDonald's,7,Starbucks,44
+226-222@5sb-83x-2c5,Chipotle Mexican Grill,3821 E Main St,Saint Charles,2019-12-01T00:00:00-06:00,41.920557,-88.265905,662,4,Portillo's Restaurants,4,Walmart,41
+226-222@5sb-83x-2c5,Chipotle Mexican Grill,3821 E Main St,Saint Charles,2019-12-01T00:00:00-06:00,41.920557,-88.265905,662,5,Starbucks,3,Portillo's Restaurants,39
+222-222@628-r67-5s5,Chipotle Mexican Grill,2150 Highway 35,Sea Girt,2020-06-01T00:00:00-04:00,40.139536,-74.060895,85,1,Starbucks,6,Starbucks,40
+222-222@628-r67-5s5,Chipotle Mexican Grill,2150 Highway 35,Sea Girt,2020-06-01T00:00:00-04:00,40.139536,-74.060895,85,2,Target,4,Wawa,37
+222-222@628-r67-5s5,Chipotle Mexican Grill,2150 Highway 35,Sea Girt,2020-06-01T00:00:00-04:00,40.139536,-74.060895,85,3,QuickChek,2,Target,34
+222-222@628-r67-5s5,Chipotle Mexican Grill,2150 Highway 35,Sea Girt,2020-06-01T00:00:00-04:00,40.139536,-74.060895,85,4,Rita's Italian Ice,1,Dunkin',32
+222-222@628-r67-5s5,Chipotle Mexican Grill,2150 Highway 35,Sea Girt,2020-06-01T00:00:00-04:00,40.139536,-74.060895,85,5,Planet Fitness,1,7-Eleven,22
+222-222@8fy-9q5-zfz,Chipotle Mexican Grill,400 W State Road 436,Altamonte Springs,2022-01-01T00:00:00-05:00,28.66124,-81.396683,872,1,McDonald's,10,McDonald's,60
+222-222@8fy-9q5-zfz,Chipotle Mexican Grill,400 W State Road 436,Altamonte Springs,2022-01-01T00:00:00-05:00,28.66124,-81.396683,872,2,Chick-fil-A,8,Chick-fil-A,55
+222-222@8fy-9q5-zfz,Chipotle Mexican Grill,400 W State Road 436,Altamonte Springs,2022-01-01T00:00:00-05:00,28.66124,-81.396683,872,3,Wawa,7,Walmart,52
+222-222@8fy-9q5-zfz,Chipotle Mexican Grill,400 W State Road 436,Altamonte Springs,2022-01-01T00:00:00-05:00,28.66124,-81.396683,872,4,David's Bridal,6,7-Eleven,48
+222-222@8fy-9q5-zfz,Chipotle Mexican Grill,400 W State Road 436,Altamonte Springs,2022-01-01T00:00:00-05:00,28.66124,-81.396683,872,5,7-Eleven,6,Wawa,47
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2021-10-01T00:00:00-07:00,36.144763,-115.297403,601,1,Chevron,6,Chevron,62
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2021-10-01T00:00:00-07:00,36.144763,-115.297403,601,2,Starbucks,6,McDonald's,58
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2021-10-01T00:00:00-07:00,36.144763,-115.297403,601,3,McDonald's,6,Starbucks,58
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2021-10-01T00:00:00-07:00,36.144763,-115.297403,601,4,ARCO,5,Walmart,45
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2021-10-01T00:00:00-07:00,36.144763,-115.297403,601,5,Walmart,4,Target,37
+225-222@8gp-47p-zmk,Chipotle Mexican Grill,11113 San Jose Blvd Ste 101,Jacksonville,2021-06-01T00:00:00-04:00,30.173647,-81.627796,671,1,Walmart,10,Walmart,57
+225-222@8gp-47p-zmk,Chipotle Mexican Grill,11113 San Jose Blvd Ste 101,Jacksonville,2021-06-01T00:00:00-04:00,30.173647,-81.627796,671,2,Bailey's Health & Fitness,7,Publix Super Markets,51
+225-222@8gp-47p-zmk,Chipotle Mexican Grill,11113 San Jose Blvd Ste 101,Jacksonville,2021-06-01T00:00:00-04:00,30.173647,-81.627796,671,3,GATE,7,McDonald's,51
+225-222@8gp-47p-zmk,Chipotle Mexican Grill,11113 San Jose Blvd Ste 101,Jacksonville,2021-06-01T00:00:00-04:00,30.173647,-81.627796,671,4,Publix Super Markets,7,Chick-fil-A,50
+225-222@8gp-47p-zmk,Chipotle Mexican Grill,11113 San Jose Blvd Ste 101,Jacksonville,2021-06-01T00:00:00-04:00,30.173647,-81.627796,671,5,McDonald's,6,GATE,48
+227-225@62j-rjp-z75,Chipotle Mexican Grill,90 Pleasant Valley St,Methuen Town,2020-03-01T00:00:00-05:00,42.744038,-71.156588,17,1,GameStop,18,McDonald's,59
+227-225@62j-rjp-z75,Chipotle Mexican Grill,90 Pleasant Valley St,Methuen Town,2020-03-01T00:00:00-05:00,42.744038,-71.156588,17,2,Walmart,12,Market Basket,47
+227-225@62j-rjp-z75,Chipotle Mexican Grill,90 Pleasant Valley St,Methuen Town,2020-03-01T00:00:00-05:00,42.744038,-71.156588,17,3,Target,12,Dunkin',47
+227-225@62j-rjp-z75,Chipotle Mexican Grill,90 Pleasant Valley St,Methuen Town,2020-03-01T00:00:00-05:00,42.744038,-71.156588,17,4,Chick-fil-A,12,GameStop,41
+227-225@62j-rjp-z75,Chipotle Mexican Grill,90 Pleasant Valley St,Methuen Town,2020-03-01T00:00:00-05:00,42.744038,-71.156588,17,5,Planet Fitness,6,Walmart,35
+223-223@627-w2p-gff,Chipotle Mexican Grill,349 Lake Ave,Metuchen,2020-02-01T00:00:00-05:00,40.540914,-74.366081,357,1,Costco,4,Dunkin',45
+223-223@627-w2p-gff,Chipotle Mexican Grill,349 Lake Ave,Metuchen,2020-02-01T00:00:00-05:00,40.540914,-74.366081,357,2,McDonald's,4,Simon mall,39
+223-223@627-w2p-gff,Chipotle Mexican Grill,349 Lake Ave,Metuchen,2020-02-01T00:00:00-05:00,40.540914,-74.366081,357,3,Dunkin',3,Walmart,33
+223-223@627-w2p-gff,Chipotle Mexican Grill,349 Lake Ave,Metuchen,2020-02-01T00:00:00-05:00,40.540914,-74.366081,357,4,Simon mall,3,Starbucks,31
+223-223@627-w2p-gff,Chipotle Mexican Grill,349 Lake Ave,Metuchen,2020-02-01T00:00:00-05:00,40.540914,-74.366081,357,5,Barnes and Noble College,3,McDonald's,31
+222-222@63v-byv-wp9,Chipotle Mexican Grill,9754 State Route 14,Streetsboro,2020-01-01T00:00:00-05:00,41.251005,-81.36344,2,1,Sheetz,50,Walmart,100
+zzw-222@645-9tc-nkf,Chipotle Mexican Grill,941 International Dr Ste 1,Wilmington,2020-11-01T00:00:00-04:00,34.242669,-77.828314,380,1,Chick-fil-A,8,Chick-fil-A,61
+zzw-222@645-9tc-nkf,Chipotle Mexican Grill,941 International Dr Ste 1,Wilmington,2020-11-01T00:00:00-04:00,34.242669,-77.828314,380,2,Walmart,6,Walmart,56
+zzw-222@645-9tc-nkf,Chipotle Mexican Grill,941 International Dr Ste 1,Wilmington,2020-11-01T00:00:00-04:00,34.242669,-77.828314,380,3,McDonald's,5,McDonald's,51
+zzw-222@645-9tc-nkf,Chipotle Mexican Grill,941 International Dr Ste 1,Wilmington,2020-11-01T00:00:00-04:00,34.242669,-77.828314,380,4,Barnes and Noble,5,Starbucks,41
+zzw-222@645-9tc-nkf,Chipotle Mexican Grill,941 International Dr Ste 1,Wilmington,2020-11-01T00:00:00-04:00,34.242669,-77.828314,380,5,Starbucks,4,Target,30
+222-222@63j-vvj-975,Chipotle Mexican Grill,515 Hebron Rd,Heath,2019-01-01T00:00:00-05:00,40.038366,-82.429939,630,1,Walmart,5,Kroger,55
+222-222@63j-vvj-975,Chipotle Mexican Grill,515 Hebron Rd,Heath,2019-01-01T00:00:00-05:00,40.038366,-82.429939,630,2,Kroger,4,Walmart,53
+222-222@63j-vvj-975,Chipotle Mexican Grill,515 Hebron Rd,Heath,2019-01-01T00:00:00-05:00,40.038366,-82.429939,630,3,McDonald's,4,McDonald's,52
+222-222@63j-vvj-975,Chipotle Mexican Grill,515 Hebron Rd,Heath,2019-01-01T00:00:00-05:00,40.038366,-82.429939,630,4,Target,3,Wendy's,40
+222-222@63j-vvj-975,Chipotle Mexican Grill,515 Hebron Rd,Heath,2019-01-01T00:00:00-05:00,40.038366,-82.429939,630,5,Speedway,3,BP,38
+225-222@63j-c3y-7t9,Chipotle Mexican Grill,589 Ring Rd,Harrison,2021-08-01T00:00:00-04:00,39.260603,-84.79342,470,1,The Little Clinic,9,McDonald's,71
+225-222@63j-c3y-7t9,Chipotle Mexican Grill,589 Ring Rd,Harrison,2021-08-01T00:00:00-04:00,39.260603,-84.79342,470,2,McDonald's,8,Skyline Chili,66
+225-222@63j-c3y-7t9,Chipotle Mexican Grill,589 Ring Rd,Harrison,2021-08-01T00:00:00-04:00,39.260603,-84.79342,470,3,UDF (United Dairy Farmers),7,The Little Clinic,59
+225-222@63j-c3y-7t9,Chipotle Mexican Grill,589 Ring Rd,Harrison,2021-08-01T00:00:00-04:00,39.260603,-84.79342,470,4,Staples,6,Shell Oil,57
+225-222@63j-c3y-7t9,Chipotle Mexican Grill,589 Ring Rd,Harrison,2021-08-01T00:00:00-04:00,39.260603,-84.79342,470,5,Dairy Queen,6,UDF (United Dairy Farmers),52
+zzw-222@8dy-ry5-qmk,Chipotle Mexican Grill,1934 Hammond Square Dr,Hammond,2022-02-01T00:00:00-06:00,30.482037,-90.459484,73,1,Walmart,17,Walmart,79
+zzw-222@8dy-ry5-qmk,Chipotle Mexican Grill,1934 Hammond Square Dr,Hammond,2022-02-01T00:00:00-06:00,30.482037,-90.459484,73,2,Sonic,10,Dollar General,68
+zzw-222@8dy-ry5-qmk,Chipotle Mexican Grill,1934 Hammond Square Dr,Hammond,2022-02-01T00:00:00-06:00,30.482037,-90.459484,73,3,T.J. Maxx,9,McDonald's,61
+zzw-222@8dy-ry5-qmk,Chipotle Mexican Grill,1934 Hammond Square Dr,Hammond,2022-02-01T00:00:00-06:00,30.482037,-90.459484,73,4,Dollar General,9,RaceTrac,55
+zzw-222@8dy-ry5-qmk,Chipotle Mexican Grill,1934 Hammond Square Dr,Hammond,2022-02-01T00:00:00-06:00,30.482037,-90.459484,73,5,Walgreens,9,Sonic,52
+223-222@8fy-7xv-26k,Chipotle Mexican Grill,2610 S Semoran Blvd,Orlando,2021-10-01T00:00:00-04:00,28.514251,-81.311075,532,1,Walmart,10,Walmart,74
+223-222@8fy-7xv-26k,Chipotle Mexican Grill,2610 S Semoran Blvd,Orlando,2021-10-01T00:00:00-04:00,28.514251,-81.311075,532,2,Wawa,9,McDonald's,64
+223-222@8fy-7xv-26k,Chipotle Mexican Grill,2610 S Semoran Blvd,Orlando,2021-10-01T00:00:00-04:00,28.514251,-81.311075,532,3,McDonald's,9,Wawa,61
+223-222@8fy-7xv-26k,Chipotle Mexican Grill,2610 S Semoran Blvd,Orlando,2021-10-01T00:00:00-04:00,28.514251,-81.311075,532,4,Starbucks,8,7-Eleven,57
+223-222@8fy-7xv-26k,Chipotle Mexican Grill,2610 S Semoran Blvd,Orlando,2021-10-01T00:00:00-04:00,28.514251,-81.311075,532,5,7-Eleven,5,Starbucks,56
+224-222@63r-tx9-jqf,Chipotle Mexican Grill,2457 Prince William Pkwy,Woodbridge,2020-08-01T00:00:00-04:00,38.652783,-77.286052,470,1,Street Corner,13,McDonald's,60
+224-222@63r-tx9-jqf,Chipotle Mexican Grill,2457 Prince William Pkwy,Woodbridge,2020-08-01T00:00:00-04:00,38.652783,-77.286052,470,2,McDonald's,6,Walmart,53
+224-222@63r-tx9-jqf,Chipotle Mexican Grill,2457 Prince William Pkwy,Woodbridge,2020-08-01T00:00:00-04:00,38.652783,-77.286052,470,3,Chick-fil-A,6,Chick-fil-A,50
+224-222@63r-tx9-jqf,Chipotle Mexican Grill,2457 Prince William Pkwy,Woodbridge,2020-08-01T00:00:00-04:00,38.652783,-77.286052,470,4,IKEA,5,Target,49
+224-222@63r-tx9-jqf,Chipotle Mexican Grill,2457 Prince William Pkwy,Woodbridge,2020-08-01T00:00:00-04:00,38.652783,-77.286052,470,5,Walmart,5,Street Corner,48
+224-223@8gg-3jh-c3q,Chipotle Mexican Grill,9821 Northlake Centre Pkwy,Charlotte,2019-09-01T00:00:00-04:00,35.348785,-80.857777,331,1,Chick-fil-A,8,Chick-fil-A,55
+224-223@8gg-3jh-c3q,Chipotle Mexican Grill,9821 Northlake Centre Pkwy,Charlotte,2019-09-01T00:00:00-04:00,35.348785,-80.857777,331,2,McDonald's,7,McDonald's,53
+224-223@8gg-3jh-c3q,Chipotle Mexican Grill,9821 Northlake Centre Pkwy,Charlotte,2019-09-01T00:00:00-04:00,35.348785,-80.857777,331,3,Target,6,Walmart,52
+224-223@8gg-3jh-c3q,Chipotle Mexican Grill,9821 Northlake Centre Pkwy,Charlotte,2019-09-01T00:00:00-04:00,35.348785,-80.857777,331,4,Walmart,6,Exxon Mobil,40
+224-223@8gg-3jh-c3q,Chipotle Mexican Grill,9821 Northlake Centre Pkwy,Charlotte,2019-09-01T00:00:00-04:00,35.348785,-80.857777,331,5,Scrubs & Beyond,5,Target,37
+zzy-223@8fc-8ks-p5f,Chipotle Mexican Grill,4996 Garth Rd,Baytown,2021-06-01T00:00:00-05:00,29.7797,-94.977222,797,1,Walmart,10,Walmart,74
+zzy-223@8fc-8ks-p5f,Chipotle Mexican Grill,4996 Garth Rd,Baytown,2021-06-01T00:00:00-05:00,29.7797,-94.977222,797,2,McDonald's,7,McDonald's,65
+zzy-223@8fc-8ks-p5f,Chipotle Mexican Grill,4996 Garth Rd,Baytown,2021-06-01T00:00:00-05:00,29.7797,-94.977222,797,3,Lowe's,6,Whataburger,50
+zzy-223@8fc-8ks-p5f,Chipotle Mexican Grill,4996 Garth Rd,Baytown,2021-06-01T00:00:00-05:00,29.7797,-94.977222,797,4,Target,6,Chick-fil-A,49
+zzy-223@8fc-8ks-p5f,Chipotle Mexican Grill,4996 Garth Rd,Baytown,2021-06-01T00:00:00-05:00,29.7797,-94.977222,797,5,Whataburger,5,Sonic,48
+222-222@63j-x67-zpv,Chipotle Mexican Grill,695 W Waterloo St,Canal Winchester,2019-05-01T00:00:00-04:00,39.854879,-82.825124,866,1,Walmart,10,McDonald's,62
+222-222@63j-x67-zpv,Chipotle Mexican Grill,695 W Waterloo St,Canal Winchester,2019-05-01T00:00:00-04:00,39.854879,-82.825124,866,2,McDonald's,7,Walmart,59
+222-222@63j-x67-zpv,Chipotle Mexican Grill,695 W Waterloo St,Canal Winchester,2019-05-01T00:00:00-04:00,39.854879,-82.825124,866,3,The Home Depot,5,Kroger,52
+222-222@63j-x67-zpv,Chipotle Mexican Grill,695 W Waterloo St,Canal Winchester,2019-05-01T00:00:00-04:00,39.854879,-82.825124,866,4,Wendy's,5,Wendy's,46
+222-222@63j-x67-zpv,Chipotle Mexican Grill,695 W Waterloo St,Canal Winchester,2019-05-01T00:00:00-04:00,39.854879,-82.825124,866,5,Meijer,4,Starbucks,39
+22t-222@5pw-5zw-9pv,Chipotle Mexican Grill,1132 S Clinton St,Chicago,2019-02-01T00:00:00-06:00,41.868009,-87.64108,406,1,Starbucks,7,McDonald's,47
+22t-222@5pw-5zw-9pv,Chipotle Mexican Grill,1132 S Clinton St,Chicago,2019-02-01T00:00:00-06:00,41.868009,-87.64108,406,2,BP,5,Starbucks,41
+22t-222@5pw-5zw-9pv,Chipotle Mexican Grill,1132 S Clinton St,Chicago,2019-02-01T00:00:00-06:00,41.868009,-87.64108,406,3,Dunkin',5,Walgreens,37
+22t-222@5pw-5zw-9pv,Chipotle Mexican Grill,1132 S Clinton St,Chicago,2019-02-01T00:00:00-06:00,41.868009,-87.64108,406,4,Walgreens,4,Dunkin',33
+22t-222@5pw-5zw-9pv,Chipotle Mexican Grill,1132 S Clinton St,Chicago,2019-02-01T00:00:00-06:00,41.868009,-87.64108,406,5,McDonald's,4,Walmart,31
+zzw-222@628-pdz-4d9,Chipotle Mexican Grill,10 Centerton Rd,Mount Laurel,2019-08-01T00:00:00-04:00,39.969946,-74.914134,296,1,Target,10,Wawa,68
+zzw-222@628-pdz-4d9,Chipotle Mexican Grill,10 Centerton Rd,Mount Laurel,2019-08-01T00:00:00-04:00,39.969946,-74.914134,296,2,Wawa,8,Chick-fil-A,50
+zzw-222@628-pdz-4d9,Chipotle Mexican Grill,10 Centerton Rd,Mount Laurel,2019-08-01T00:00:00-04:00,39.969946,-74.914134,296,3,GameStop,8,Target,48
+zzw-222@628-pdz-4d9,Chipotle Mexican Grill,10 Centerton Rd,Mount Laurel,2019-08-01T00:00:00-04:00,39.969946,-74.914134,296,4,Chick-fil-A,7,Walmart,48
+zzw-222@628-pdz-4d9,Chipotle Mexican Grill,10 Centerton Rd,Mount Laurel,2019-08-01T00:00:00-04:00,39.969946,-74.914134,296,5,T.J. Maxx,6,McDonald's,42
+223-222@5sb-85s-yqf,Chipotle Mexican Grill,28251 Diehl Rd Ste A,Warrenville,2019-05-01T00:00:00-05:00,41.801637,-88.172366,465,1,Lifetime Fitness,6,McDonald's,53
+223-222@5sb-85s-yqf,Chipotle Mexican Grill,28251 Diehl Rd Ste A,Warrenville,2019-05-01T00:00:00-05:00,41.801637,-88.172366,465,2,McDonald's,6,Starbucks,48
+223-222@5sb-85s-yqf,Chipotle Mexican Grill,28251 Diehl Rd Ste A,Warrenville,2019-05-01T00:00:00-05:00,41.801637,-88.172366,465,3,BP,5,Walgreens,41
+223-222@5sb-85s-yqf,Chipotle Mexican Grill,28251 Diehl Rd Ste A,Warrenville,2019-05-01T00:00:00-05:00,41.801637,-88.172366,465,4,Starbucks,5,Walmart,36
+223-222@5sb-85s-yqf,Chipotle Mexican Grill,28251 Diehl Rd Ste A,Warrenville,2019-05-01T00:00:00-05:00,41.801637,-88.172366,465,5,Walgreens,4,BP,36
+223-222@5sb-85s-yqf,Chipotle Mexican Grill,28251 Diehl Rd Ste A,Warrenville,2020-10-01T00:00:00-05:00,41.801637,-88.172366,201,1,Target,15,Target,55
+223-222@5sb-85s-yqf,Chipotle Mexican Grill,28251 Diehl Rd Ste A,Warrenville,2020-10-01T00:00:00-05:00,41.801637,-88.172366,201,2,McDonald's,5,McDonald's,51
+223-222@5sb-85s-yqf,Chipotle Mexican Grill,28251 Diehl Rd Ste A,Warrenville,2020-10-01T00:00:00-05:00,41.801637,-88.172366,201,3,Walgreens,5,Starbucks,43
+223-222@5sb-85s-yqf,Chipotle Mexican Grill,28251 Diehl Rd Ste A,Warrenville,2020-10-01T00:00:00-05:00,41.801637,-88.172366,201,4,Lifetime Fitness,5,Jewel-Osco,37
+223-222@5sb-85s-yqf,Chipotle Mexican Grill,28251 Diehl Rd Ste A,Warrenville,2020-10-01T00:00:00-05:00,41.801637,-88.172366,201,5,Starbucks,4,BP,32
+224-222@8fy-d6h-yn5,Chipotle Mexican Grill,6210 W Irlo Bronson Memorial Hwy,Kissimmee,2020-05-01T00:00:00-04:00,28.332102,-81.532711,158,1,Walmart,11,Walmart,59
+224-222@8fy-d6h-yn5,Chipotle Mexican Grill,6210 W Irlo Bronson Memorial Hwy,Kissimmee,2020-05-01T00:00:00-04:00,28.332102,-81.532711,158,2,Walt Disney Parks and Resorts,8,7-Eleven,53
+224-222@8fy-d6h-yn5,Chipotle Mexican Grill,6210 W Irlo Bronson Memorial Hwy,Kissimmee,2020-05-01T00:00:00-04:00,28.332102,-81.532711,158,3,AdventHealth,6,Publix Super Markets,47
+224-222@8fy-d6h-yn5,Chipotle Mexican Grill,6210 W Irlo Bronson Memorial Hwy,Kissimmee,2020-05-01T00:00:00-04:00,28.332102,-81.532711,158,4,Publix Super Markets,6,McDonald's,42
+224-222@8fy-d6h-yn5,Chipotle Mexican Grill,6210 W Irlo Bronson Memorial Hwy,Kissimmee,2020-05-01T00:00:00-04:00,28.332102,-81.532711,158,5,Target,4,Walgreens,42
+22b-222@63v-b36-xwk,Chipotle Mexican Grill,28077 Chagrin Blvd,Woodmere,2021-08-01T00:00:00-04:00,41.462861,-81.480623,449,1,McDonald's,7,Starbucks,59
+22b-222@63v-b36-xwk,Chipotle Mexican Grill,28077 Chagrin Blvd,Woodmere,2021-08-01T00:00:00-04:00,41.462861,-81.480623,449,2,BP,6,McDonald's,50
+22b-222@63v-b36-xwk,Chipotle Mexican Grill,28077 Chagrin Blvd,Woodmere,2021-08-01T00:00:00-04:00,41.462861,-81.480623,449,3,Starbucks,6,Target,47
+22b-222@63v-b36-xwk,Chipotle Mexican Grill,28077 Chagrin Blvd,Woodmere,2021-08-01T00:00:00-04:00,41.462861,-81.480623,449,4,CVS,3,BP,44
+22b-222@63v-b36-xwk,Chipotle Mexican Grill,28077 Chagrin Blvd,Woodmere,2021-08-01T00:00:00-04:00,41.462861,-81.480623,449,5,Trader Joe's,3,Chick-fil-A,40
+zzw-222@5pw-692-mzf,Chipotle Mexican Grill,3227 W Addison St,Chicago,2021-01-01T00:00:00-06:00,41.945739,-87.709057,753,1,Jewel-Osco,8,McDonald's,48
+zzw-222@5pw-692-mzf,Chipotle Mexican Grill,3227 W Addison St,Chicago,2021-01-01T00:00:00-06:00,41.945739,-87.709057,753,2,McDonald's,8,Target,45
+zzw-222@5pw-692-mzf,Chipotle Mexican Grill,3227 W Addison St,Chicago,2021-01-01T00:00:00-06:00,41.945739,-87.709057,753,3,Shell Oil,5,Jewel-Osco,44
+zzw-222@5pw-692-mzf,Chipotle Mexican Grill,3227 W Addison St,Chicago,2021-01-01T00:00:00-06:00,41.945739,-87.709057,753,4,Target,5,Walgreens,39
+zzw-222@5pw-692-mzf,Chipotle Mexican Grill,3227 W Addison St,Chicago,2021-01-01T00:00:00-06:00,41.945739,-87.709057,753,5,Five Below,5,Walmart,36
+222-222@8dg-gtw-nwk,Chipotle Mexican Grill,9100 Strada Pl Ste 2110,Naples,2020-12-01T00:00:00-05:00,26.25412,-81.800212,1378,1,Walmart,6,Walmart,43
+222-222@8dg-gtw-nwk,Chipotle Mexican Grill,9100 Strada Pl Ste 2110,Naples,2020-12-01T00:00:00-05:00,26.25412,-81.800212,1378,2,McDonald's,5,McDonald's,41
+222-222@8dg-gtw-nwk,Chipotle Mexican Grill,9100 Strada Pl Ste 2110,Naples,2020-12-01T00:00:00-05:00,26.25412,-81.800212,1378,3,Publix Super Markets,4,Target,41
+222-222@8dg-gtw-nwk,Chipotle Mexican Grill,9100 Strada Pl Ste 2110,Naples,2020-12-01T00:00:00-05:00,26.25412,-81.800212,1378,4,Target,3,Starbucks,39
+222-222@8dg-gtw-nwk,Chipotle Mexican Grill,9100 Strada Pl Ste 2110,Naples,2020-12-01T00:00:00-05:00,26.25412,-81.800212,1378,5,Starbucks,3,Publix Super Markets,35
+223-222@63s-kpx-skf,Chipotle Mexican Grill,1141 N DuPont Hwy Ste 101,Dover,2019-02-01T00:00:00-05:00,39.186788,-75.536508,454,1,Wawa,9,Walmart,59
+223-222@63s-kpx-skf,Chipotle Mexican Grill,1141 N DuPont Hwy Ste 101,Dover,2019-02-01T00:00:00-05:00,39.186788,-75.536508,454,2,Walmart,8,Wawa,52
+223-222@63s-kpx-skf,Chipotle Mexican Grill,1141 N DuPont Hwy Ste 101,Dover,2019-02-01T00:00:00-05:00,39.186788,-75.536508,454,3,Chick-fil-A,8,Chick-fil-A,45
+223-222@63s-kpx-skf,Chipotle Mexican Grill,1141 N DuPont Hwy Ste 101,Dover,2019-02-01T00:00:00-05:00,39.186788,-75.536508,454,4,McDonald's,3,McDonald's,39
+223-222@63s-kpx-skf,Chipotle Mexican Grill,1141 N DuPont Hwy Ste 101,Dover,2019-02-01T00:00:00-05:00,39.186788,-75.536508,454,5,Dunkin',3,Royal Farms,38
+zzw-229@8dj-f8n-gp9,Chipotle Mexican Grill,12827 N Dale Mabry Hwy,Tampa,2019-08-01T00:00:00-04:00,28.063605,-82.503362,528,1,Walmart,8,Walmart,57
+zzw-229@8dj-f8n-gp9,Chipotle Mexican Grill,12827 N Dale Mabry Hwy,Tampa,2019-08-01T00:00:00-04:00,28.063605,-82.503362,528,2,Shell Oil,5,McDonald's,51
+zzw-229@8dj-f8n-gp9,Chipotle Mexican Grill,12827 N Dale Mabry Hwy,Tampa,2019-08-01T00:00:00-04:00,28.063605,-82.503362,528,3,Publix Super Markets,4,Publix Super Markets,49
+zzw-229@8dj-f8n-gp9,Chipotle Mexican Grill,12827 N Dale Mabry Hwy,Tampa,2019-08-01T00:00:00-04:00,28.063605,-82.503362,528,4,GolfTec,4,Chick-fil-A,45
+zzw-229@8dj-f8n-gp9,Chipotle Mexican Grill,12827 N Dale Mabry Hwy,Tampa,2019-08-01T00:00:00-04:00,28.063605,-82.503362,528,5,McDonald's,4,Shell Oil,43
+224-222@63v-4nw-p9z,Chipotle Mexican Grill,13975 Lakeside Cir,Sterling Heights,2020-03-01T00:00:00-05:00,42.626401,-82.987868,400,1,McDonald's,5,McDonald's,54
+224-222@63v-4nw-p9z,Chipotle Mexican Grill,13975 Lakeside Cir,Sterling Heights,2020-03-01T00:00:00-05:00,42.626401,-82.987868,400,2,Kroger,4,Kroger,38
+224-222@63v-4nw-p9z,Chipotle Mexican Grill,13975 Lakeside Cir,Sterling Heights,2020-03-01T00:00:00-05:00,42.626401,-82.987868,400,3,Target,4,Target,33
+224-222@63v-4nw-p9z,Chipotle Mexican Grill,13975 Lakeside Cir,Sterling Heights,2020-03-01T00:00:00-05:00,42.626401,-82.987868,400,4,Taco Bell,3,Meijer,33
+224-222@63v-4nw-p9z,Chipotle Mexican Grill,13975 Lakeside Cir,Sterling Heights,2020-03-01T00:00:00-05:00,42.626401,-82.987868,400,5,Meijer,3,Taco Bell,32
+zzw-222@8gp-2fb-wx5,Chipotle Mexican Grill,1607 County Road 220,Fleming Island,2021-10-01T00:00:00-04:00,30.101665,-81.715514,189,1,Walmart,11,Walmart,63
+zzw-222@8gp-2fb-wx5,Chipotle Mexican Grill,1607 County Road 220,Fleming Island,2021-10-01T00:00:00-04:00,30.101665,-81.715514,189,2,McDonald's,8,McDonald's,57
+zzw-222@8gp-2fb-wx5,Chipotle Mexican Grill,1607 County Road 220,Fleming Island,2021-10-01T00:00:00-04:00,30.101665,-81.715514,189,3,Shell Oil,8,Shell Oil,49
+zzw-222@8gp-2fb-wx5,Chipotle Mexican Grill,1607 County Road 220,Fleming Island,2021-10-01T00:00:00-04:00,30.101665,-81.715514,189,4,Target,6,Chick-fil-A,44
+zzw-222@8gp-2fb-wx5,Chipotle Mexican Grill,1607 County Road 220,Fleming Island,2021-10-01T00:00:00-04:00,30.101665,-81.715514,189,5,Starbucks,6,Winn Dixie,43
+225-222@63j-kdb-cbk,Chipotle Mexican Grill,135 Edgefield Blvd,Marion,2021-11-01T00:00:00-04:00,40.580844,-83.083076,683,1,McDonald's,13,McDonald's,72
+225-222@63j-kdb-cbk,Chipotle Mexican Grill,135 Edgefield Blvd,Marion,2021-11-01T00:00:00-04:00,40.580844,-83.083076,683,2,Walmart,13,Walmart,71
+225-222@63j-kdb-cbk,Chipotle Mexican Grill,135 Edgefield Blvd,Marion,2021-11-01T00:00:00-04:00,40.580844,-83.083076,683,3,Speedway,6,Wendy's,53
+225-222@63j-kdb-cbk,Chipotle Mexican Grill,135 Edgefield Blvd,Marion,2021-11-01T00:00:00-04:00,40.580844,-83.083076,683,4,Starbucks,6,Speedway,48
+225-222@63j-kdb-cbk,Chipotle Mexican Grill,135 Edgefield Blvd,Marion,2021-11-01T00:00:00-04:00,40.580844,-83.083076,683,5,Menard's,6,Starbucks,46
+zzw-222@5pr-6dr-djv,Chipotle Mexican Grill,6879 W 91st St,Overland Park,2021-02-01T00:00:00-06:00,38.963517,-94.665848,89,1,QuikTrip,10,QuikTrip,60
+zzw-222@5pr-6dr-djv,Chipotle Mexican Grill,6879 W 91st St,Overland Park,2021-02-01T00:00:00-06:00,38.963517,-94.665848,89,2,Walmart,9,McDonald's,56
+zzw-222@5pr-6dr-djv,Chipotle Mexican Grill,6879 W 91st St,Overland Park,2021-02-01T00:00:00-06:00,38.963517,-94.665848,89,3,Starbucks,6,Walmart,54
+zzw-222@5pr-6dr-djv,Chipotle Mexican Grill,6879 W 91st St,Overland Park,2021-02-01T00:00:00-06:00,38.963517,-94.665848,89,4,McDonald's,6,Phillips 66,37
+zzw-222@5pr-6dr-djv,Chipotle Mexican Grill,6879 W 91st St,Overland Park,2021-02-01T00:00:00-06:00,38.963517,-94.665848,89,5,Hy-Vee,3,Chick-fil-A,32
+224-222@5ps-j55-vvf,Chipotle Mexican Grill,11525 Cantrell Rd Ste 1000,Little Rock,2020-03-01T00:00:00-06:00,34.793535,-92.400394,72,1,Walmart,8,Walmart,64
+224-222@5ps-j55-vvf,Chipotle Mexican Grill,11525 Cantrell Rd Ste 1000,Little Rock,2020-03-01T00:00:00-06:00,34.793535,-92.400394,72,2,Chick-fil-A,8,Chick-fil-A,57
+224-222@5ps-j55-vvf,Chipotle Mexican Grill,11525 Cantrell Rd Ste 1000,Little Rock,2020-03-01T00:00:00-06:00,34.793535,-92.400394,72,3,Sonic,7,Kroger,53
+224-222@5ps-j55-vvf,Chipotle Mexican Grill,11525 Cantrell Rd Ste 1000,Little Rock,2020-03-01T00:00:00-06:00,34.793535,-92.400394,72,4,Kroger,7,Sonic,46
+224-222@5ps-j55-vvf,Chipotle Mexican Grill,11525 Cantrell Rd Ste 1000,Little Rock,2020-03-01T00:00:00-06:00,34.793535,-92.400394,72,5,Shell Oil,6,McDonald's,43
+222-222@8fy-8c5-9fz,Chipotle Mexican Grill,525 S Orlando Ave,Winter Park,2020-01-01T00:00:00-05:00,28.593631,-81.365321,1186,1,Walmart,6,Walmart,45
+222-222@8fy-8c5-9fz,Chipotle Mexican Grill,525 S Orlando Ave,Winter Park,2020-01-01T00:00:00-05:00,28.593631,-81.365321,1186,2,Walgreens,4,Chick-fil-A,45
+222-222@8fy-8c5-9fz,Chipotle Mexican Grill,525 S Orlando Ave,Winter Park,2020-01-01T00:00:00-05:00,28.593631,-81.365321,1186,3,Starbucks,4,McDonald's,45
+222-222@8fy-8c5-9fz,Chipotle Mexican Grill,525 S Orlando Ave,Winter Park,2020-01-01T00:00:00-05:00,28.593631,-81.365321,1186,4,Chick-fil-A,4,Publix Super Markets,43
+222-222@8fy-8c5-9fz,Chipotle Mexican Grill,525 S Orlando Ave,Winter Park,2020-01-01T00:00:00-05:00,28.593631,-81.365321,1186,5,McDonald's,4,7-Eleven,38
+227-222@5s5-kb5-975,Chipotle Mexican Grill,5363B W Main St,Kalamazoo,2022-01-01T00:00:00-05:00,42.295414,-85.655212,244,1,Office Depot,9,McDonald's,66
+227-222@5s5-kb5-975,Chipotle Mexican Grill,5363B W Main St,Kalamazoo,2022-01-01T00:00:00-05:00,42.295414,-85.655212,244,2,Speedway,7,Meijer,50
+227-222@5s5-kb5-975,Chipotle Mexican Grill,5363B W Main St,Kalamazoo,2022-01-01T00:00:00-05:00,42.295414,-85.655212,244,3,McDonald's,7,Shell Oil,49
+227-222@5s5-kb5-975,Chipotle Mexican Grill,5363B W Main St,Kalamazoo,2022-01-01T00:00:00-05:00,42.295414,-85.655212,244,4,Starbucks,6,Walmart,45
+227-222@5s5-kb5-975,Chipotle Mexican Grill,5363B W Main St,Kalamazoo,2022-01-01T00:00:00-05:00,42.295414,-85.655212,244,5,Shell Oil,6,Speedway,44
+227-222@5xc-jv6-y35,Chipotle Mexican Grill,704 NE Weidler St,Portland,2021-09-01T00:00:00-07:00,45.534179,-122.658355,218,1,Starbucks,10,McDonald's,58
+227-222@5xc-jv6-y35,Chipotle Mexican Grill,704 NE Weidler St,Portland,2021-09-01T00:00:00-07:00,45.534179,-122.658355,218,2,McDonald's,8,Starbucks,48
+227-222@5xc-jv6-y35,Chipotle Mexican Grill,704 NE Weidler St,Portland,2021-09-01T00:00:00-07:00,45.534179,-122.658355,218,3,Burger King,7,Chevron,43
+227-222@5xc-jv6-y35,Chipotle Mexican Grill,704 NE Weidler St,Portland,2021-09-01T00:00:00-07:00,45.534179,-122.658355,218,4,Shell Oil,5,Fred Meyer,37
+227-222@5xc-jv6-y35,Chipotle Mexican Grill,704 NE Weidler St,Portland,2021-09-01T00:00:00-07:00,45.534179,-122.658355,218,5,Taco Bell,4,Shell Oil,36
+227-222@63j-8wv-gx5,Chipotle Mexican Grill,93 Carothers Rd,Newport,2019-01-01T00:00:00-05:00,39.087094,-84.477958,612,1,Kroger,10,Kroger,69
+227-222@63j-8wv-gx5,Chipotle Mexican Grill,93 Carothers Rd,Newport,2019-01-01T00:00:00-05:00,39.087094,-84.477958,612,2,Planet Fitness,6,McDonald's,44
+227-222@63j-8wv-gx5,Chipotle Mexican Grill,93 Carothers Rd,Newport,2019-01-01T00:00:00-05:00,39.087094,-84.477958,612,3,Target,6,Chick-fil-A,42
+227-222@63j-8wv-gx5,Chipotle Mexican Grill,93 Carothers Rd,Newport,2019-01-01T00:00:00-05:00,39.087094,-84.477958,612,4,Chick-fil-A,4,Target,38
+227-222@63j-8wv-gx5,Chipotle Mexican Grill,93 Carothers Rd,Newport,2019-01-01T00:00:00-05:00,39.087094,-84.477958,612,5,McDonald's,3,Kroger Fuel Center,36
+223-222@5r5-gr2-nh5,Chipotle Mexican Grill,535 S Rock Rd,Wichita,2019-02-01T00:00:00-06:00,37.678717,-97.245015,492,1,QuikTrip,11,Walmart,63
+223-222@5r5-gr2-nh5,Chipotle Mexican Grill,535 S Rock Rd,Wichita,2019-02-01T00:00:00-06:00,37.678717,-97.245015,492,2,Walmart,8,QuikTrip,57
+223-222@5r5-gr2-nh5,Chipotle Mexican Grill,535 S Rock Rd,Wichita,2019-02-01T00:00:00-06:00,37.678717,-97.245015,492,3,McDonald's,5,McDonald's,53
+223-222@5r5-gr2-nh5,Chipotle Mexican Grill,535 S Rock Rd,Wichita,2019-02-01T00:00:00-06:00,37.678717,-97.245015,492,4,Dillons Supermarkets,4,Dillons Supermarkets,40
+223-222@5r5-gr2-nh5,Chipotle Mexican Grill,535 S Rock Rd,Wichita,2019-02-01T00:00:00-06:00,37.678717,-97.245015,492,5,Holiday Inn,3,Starbucks,33
+223-222@5nz-vzd-3dv,Chipotle Mexican Grill,490 S 68th St Ste 110,West Des Moines,2019-06-01T00:00:00-05:00,41.562531,-93.799381,417,1,Kum & Go,11,Walmart,56
+223-222@5nz-vzd-3dv,Chipotle Mexican Grill,490 S 68th St Ste 110,West Des Moines,2019-06-01T00:00:00-05:00,41.562531,-93.799381,417,2,Walmart,7,Kum & Go,54
+223-222@5nz-vzd-3dv,Chipotle Mexican Grill,490 S 68th St Ste 110,West Des Moines,2019-06-01T00:00:00-05:00,41.562531,-93.799381,417,3,Casey's General Stores,6,Casey's General Stores,50
+223-222@5nz-vzd-3dv,Chipotle Mexican Grill,490 S 68th St Ste 110,West Des Moines,2019-06-01T00:00:00-05:00,41.562531,-93.799381,417,4,McDonald's,5,Target,43
+223-222@5nz-vzd-3dv,Chipotle Mexican Grill,490 S 68th St Ste 110,West Des Moines,2019-06-01T00:00:00-05:00,41.562531,-93.799381,417,5,Target,4,McDonald's,43
+zzy-223@8fc-f8d-tn5,Chipotle Mexican Grill,19235 W Bellfort St,Richmond,2021-09-01T00:00:00-05:00,29.660793,-95.719386,3597,1,Target,5,Whataburger,53
+zzy-223@8fc-f8d-tn5,Chipotle Mexican Grill,19235 W Bellfort St,Richmond,2021-09-01T00:00:00-05:00,29.660793,-95.719386,3597,2,Whataburger,5,Chick-fil-A,50
+zzy-223@8fc-f8d-tn5,Chipotle Mexican Grill,19235 W Bellfort St,Richmond,2021-09-01T00:00:00-05:00,29.660793,-95.719386,3597,3,Starbucks,5,Shell Oil,49
+zzy-223@8fc-f8d-tn5,Chipotle Mexican Grill,19235 W Bellfort St,Richmond,2021-09-01T00:00:00-05:00,29.660793,-95.719386,3597,4,Shell Oil,4,Starbucks,46
+zzy-223@8fc-f8d-tn5,Chipotle Mexican Grill,19235 W Bellfort St,Richmond,2021-09-01T00:00:00-05:00,29.660793,-95.719386,3597,5,Walmart,4,Walmart,45
+22g-222@8fc-fhj-f4v,Chipotle Mexican Grill,1120 Eldridge Pkwy Ste 100,Houston,2019-01-01T00:00:00-06:00,29.768399,-95.624127,412,1,Walmart,5,Walmart,51
+22g-222@8fc-fhj-f4v,Chipotle Mexican Grill,1120 Eldridge Pkwy Ste 100,Houston,2019-01-01T00:00:00-06:00,29.768399,-95.624127,412,2,Shell Oil,5,Shell Oil,42
+22g-222@8fc-fhj-f4v,Chipotle Mexican Grill,1120 Eldridge Pkwy Ste 100,Houston,2019-01-01T00:00:00-06:00,29.768399,-95.624127,412,3,McDonald's,3,Chick-fil-A,41
+22g-222@8fc-fhj-f4v,Chipotle Mexican Grill,1120 Eldridge Pkwy Ste 100,Houston,2019-01-01T00:00:00-06:00,29.768399,-95.624127,412,4,Jimmy John's,3,Starbucks,40
+22g-222@8fc-fhj-f4v,Chipotle Mexican Grill,1120 Eldridge Pkwy Ste 100,Houston,2019-01-01T00:00:00-06:00,29.768399,-95.624127,412,5,LA Fitness,2,McDonald's,37
+226-222@63r-vjh-8qf,Chipotle Mexican Grill,14416 Chantilly Crossing Ln,Chantilly,2019-08-01T00:00:00-04:00,38.897572,-77.443539,272,1,Costco,11,Walmart,56
+226-222@63r-vjh-8qf,Chipotle Mexican Grill,14416 Chantilly Crossing Ln,Chantilly,2019-08-01T00:00:00-04:00,38.897572,-77.443539,272,2,Target,8,Chick-fil-A,51
+226-222@63r-vjh-8qf,Chipotle Mexican Grill,14416 Chantilly Crossing Ln,Chantilly,2019-08-01T00:00:00-04:00,38.897572,-77.443539,272,3,McDonald's,6,McDonald's,49
+226-222@63r-vjh-8qf,Chipotle Mexican Grill,14416 Chantilly Crossing Ln,Chantilly,2019-08-01T00:00:00-04:00,38.897572,-77.443539,272,4,Walmart,5,Costco,43
+226-222@63r-vjh-8qf,Chipotle Mexican Grill,14416 Chantilly Crossing Ln,Chantilly,2019-08-01T00:00:00-04:00,38.897572,-77.443539,272,5,Costco Gasoline,5,Target,42
+zzw-227@5pw-58x-xdv,Chipotle Mexican Grill,2505 Laporte Ave Ste 121,Valparaiso,2022-02-01T00:00:00-06:00,41.469078,-87.030094,795,1,Target,11,McDonald's,58
+zzw-227@5pw-58x-xdv,Chipotle Mexican Grill,2505 Laporte Ave Ste 121,Valparaiso,2022-02-01T00:00:00-06:00,41.469078,-87.030094,795,2,Family Express,9,Family Express,56
+zzw-227@5pw-58x-xdv,Chipotle Mexican Grill,2505 Laporte Ave Ste 121,Valparaiso,2022-02-01T00:00:00-06:00,41.469078,-87.030094,795,3,Walmart,7,Walmart,54
+zzw-227@5pw-58x-xdv,Chipotle Mexican Grill,2505 Laporte Ave Ste 121,Valparaiso,2022-02-01T00:00:00-06:00,41.469078,-87.030094,795,4,McDonald's,6,Target,43
+zzw-227@5pw-58x-xdv,Chipotle Mexican Grill,2505 Laporte Ave Ste 121,Valparaiso,2022-02-01T00:00:00-06:00,41.469078,-87.030094,795,5,Chick-fil-A,6,Chick-fil-A,42
+zzw-222@62k-n35-3nq,Chipotle Mexican Grill,30 Salem Tpke,Norwich,2019-11-01T00:00:00-04:00,41.513428,-72.106965,71,1,Walmart,14,Walmart,61
+zzw-222@62k-n35-3nq,Chipotle Mexican Grill,30 Salem Tpke,Norwich,2019-11-01T00:00:00-04:00,41.513428,-72.106965,71,2,McDonald's,9,McDonald's,52
+zzw-222@62k-n35-3nq,Chipotle Mexican Grill,30 Salem Tpke,Norwich,2019-11-01T00:00:00-04:00,41.513428,-72.106965,71,3,Mobil,7,Dunkin',48
+zzw-222@62k-n35-3nq,Chipotle Mexican Grill,30 Salem Tpke,Norwich,2019-11-01T00:00:00-04:00,41.513428,-72.106965,71,4,Stop & Shop,6,Mobil,43
+zzw-222@62k-n35-3nq,Chipotle Mexican Grill,30 Salem Tpke,Norwich,2019-11-01T00:00:00-04:00,41.513428,-72.106965,71,5,Big Y Foods,6,Stop & Shop,39
+zzw-222@63r-6cb-wc5,Chipotle Mexican Grill,625 Monroe St NE Ste A8,Washington,2021-11-01T00:00:00-04:00,38.932156,-76.996472,230,1,Which Wich,14,Starbucks,47
+zzw-222@63r-6cb-wc5,Chipotle Mexican Grill,625 Monroe St NE Ste A8,Washington,2021-11-01T00:00:00-04:00,38.932156,-76.996472,230,2,Barnes and Noble College,11,McDonald's,47
+zzw-222@63r-6cb-wc5,Chipotle Mexican Grill,625 Monroe St NE Ste A8,Washington,2021-11-01T00:00:00-04:00,38.932156,-76.996472,230,3,Starbucks,6,Barnes and Noble College,36
+zzw-222@63r-6cb-wc5,Chipotle Mexican Grill,625 Monroe St NE Ste A8,Washington,2021-11-01T00:00:00-04:00,38.932156,-76.996472,230,4,McDonald's,6,Walmart,35
+zzw-222@63r-6cb-wc5,Chipotle Mexican Grill,625 Monroe St NE Ste A8,Washington,2021-11-01T00:00:00-04:00,38.932156,-76.996472,230,5,7-Eleven,5,Exxon Mobil,34
+223-222@5sb-7yg-85f,Chipotle Mexican Grill,2103 Clearwater Dr,Oak Brook,2019-01-01T00:00:00-06:00,41.848465,-87.932279,159,1,McDonald's,9,McDonald's,47
+223-222@5sb-7yg-85f,Chipotle Mexican Grill,2103 Clearwater Dr,Oak Brook,2019-01-01T00:00:00-06:00,41.848465,-87.932279,159,2,Starbucks,5,Walgreens,39
+223-222@5sb-7yg-85f,Chipotle Mexican Grill,2103 Clearwater Dr,Oak Brook,2019-01-01T00:00:00-06:00,41.848465,-87.932279,159,3,Walgreens,5,Starbucks,38
+223-222@5sb-7yg-85f,Chipotle Mexican Grill,2103 Clearwater Dr,Oak Brook,2019-01-01T00:00:00-06:00,41.848465,-87.932279,159,4,Thorntons,5,Jewel-Osco,37
+223-222@5sb-7yg-85f,Chipotle Mexican Grill,2103 Clearwater Dr,Oak Brook,2019-01-01T00:00:00-06:00,41.848465,-87.932279,159,5,Panera Bread,4,Walmart,33
+zzw-224@62k-p67-hqz,Chipotle Mexican Grill,287 School St,Mansfield,2019-08-01T00:00:00-04:00,42.015356,-71.231638,433,1,Dunkin',5,Dunkin',66
+zzw-224@62k-p67-hqz,Chipotle Mexican Grill,287 School St,Mansfield,2019-08-01T00:00:00-04:00,42.015356,-71.231638,433,2,Target,5,Target,45
+zzw-224@62k-p67-hqz,Chipotle Mexican Grill,287 School St,Mansfield,2019-08-01T00:00:00-04:00,42.015356,-71.231638,433,3,Cumberland Farms,4,CVS,43
+zzw-224@62k-p67-hqz,Chipotle Mexican Grill,287 School St,Mansfield,2019-08-01T00:00:00-04:00,42.015356,-71.231638,433,4,CVS,4,Stop & Shop,41
+zzw-224@62k-p67-hqz,Chipotle Mexican Grill,287 School St,Mansfield,2019-08-01T00:00:00-04:00,42.015356,-71.231638,433,5,Simon mall,4,Cumberland Farms,39
+227-222@8fw-6nq-f4v,Chipotle Mexican Grill,15880 Pines Blvd,Pembroke Pines,2020-02-01T00:00:00-05:00,26.006785,-80.35632,1994,1,Walmart,6,Walmart,52
+227-222@8fw-6nq-f4v,Chipotle Mexican Grill,15880 Pines Blvd,Pembroke Pines,2020-02-01T00:00:00-05:00,26.006785,-80.35632,1994,2,McDonald's,4,McDonald's,46
+227-222@8fw-6nq-f4v,Chipotle Mexican Grill,15880 Pines Blvd,Pembroke Pines,2020-02-01T00:00:00-05:00,26.006785,-80.35632,1994,3,Subway,4,Starbucks,40
+227-222@8fw-6nq-f4v,Chipotle Mexican Grill,15880 Pines Blvd,Pembroke Pines,2020-02-01T00:00:00-05:00,26.006785,-80.35632,1994,4,Chevron,3,Publix Super Markets,37
+227-222@8fw-6nq-f4v,Chipotle Mexican Grill,15880 Pines Blvd,Pembroke Pines,2020-02-01T00:00:00-05:00,26.006785,-80.35632,1994,5,Starbucks,3,Walgreens,33
+223-222@63j-ghd-z75,Chipotle Mexican Grill,1510 S Erie Hwy,Hamilton,2021-12-01T00:00:00-05:00,39.381038,-84.54915,239,1,McDonald's,13,McDonald's,83
+223-222@63j-ghd-z75,Chipotle Mexican Grill,1510 S Erie Hwy,Hamilton,2021-12-01T00:00:00-05:00,39.381038,-84.54915,239,2,Walmart,10,Walmart,72
+223-222@63j-ghd-z75,Chipotle Mexican Grill,1510 S Erie Hwy,Hamilton,2021-12-01T00:00:00-05:00,39.381038,-84.54915,239,3,Speedway,7,Kroger,68
+223-222@63j-ghd-z75,Chipotle Mexican Grill,1510 S Erie Hwy,Hamilton,2021-12-01T00:00:00-05:00,39.381038,-84.54915,239,4,Kroger,6,Wendy's,52
+223-222@63j-ghd-z75,Chipotle Mexican Grill,1510 S Erie Hwy,Hamilton,2021-12-01T00:00:00-05:00,39.381038,-84.54915,239,5,Wendy's,6,Speedway,50
+227-222@8fw-6p2-tgk,Chipotle Mexican Grill,18461 NW 67th Ave,Hialeah,2020-06-01T00:00:00-04:00,25.941295,-80.306455,256,1,McDonald's,10,McDonald's,59
+227-222@8fw-6p2-tgk,Chipotle Mexican Grill,18461 NW 67th Ave,Hialeah,2020-06-01T00:00:00-04:00,25.941295,-80.306455,256,2,Walmart,8,Walmart,55
+227-222@8fw-6p2-tgk,Chipotle Mexican Grill,18461 NW 67th Ave,Hialeah,2020-06-01T00:00:00-04:00,25.941295,-80.306455,256,3,Wendy's,6,CVS,39
+227-222@8fw-6p2-tgk,Chipotle Mexican Grill,18461 NW 67th Ave,Hialeah,2020-06-01T00:00:00-04:00,25.941295,-80.306455,256,4,Publix Super Markets,4,Publix Super Markets,37
+227-222@8fw-6p2-tgk,Chipotle Mexican Grill,18461 NW 67th Ave,Hialeah,2020-06-01T00:00:00-04:00,25.941295,-80.306455,256,5,Taco Bell,4,Goodwill Industries,37
+zzw-222@63j-r6p-6x5,Chipotle Mexican Grill,10711 Fremont Pike,Perrysburg,2019-10-01T00:00:00-04:00,41.548496,-83.600682,670,1,McDonald's,8,McDonald's,64
+zzw-222@63j-r6p-6x5,Chipotle Mexican Grill,10711 Fremont Pike,Perrysburg,2019-10-01T00:00:00-04:00,41.548496,-83.600682,670,2,Walmart,7,Walmart,47
+zzw-222@63j-r6p-6x5,Chipotle Mexican Grill,10711 Fremont Pike,Perrysburg,2019-10-01T00:00:00-04:00,41.548496,-83.600682,670,3,Kroger,5,Kroger,40
+zzw-222@63j-r6p-6x5,Chipotle Mexican Grill,10711 Fremont Pike,Perrysburg,2019-10-01T00:00:00-04:00,41.548496,-83.600682,670,4,Speedway,4,Speedway,33
+zzw-222@63j-r6p-6x5,Chipotle Mexican Grill,10711 Fremont Pike,Perrysburg,2019-10-01T00:00:00-04:00,41.548496,-83.600682,670,5,BP,4,Taco Bell,32
+224-222@63j-cwx-yy9,Chipotle Mexican Grill,9039 US Highway 42 Ste A,Union,2020-09-01T00:00:00-04:00,38.962019,-84.678418,439,1,Kroger,23,Kroger,80
+224-222@63j-cwx-yy9,Chipotle Mexican Grill,9039 US Highway 42 Ste A,Union,2020-09-01T00:00:00-04:00,38.962019,-84.678418,439,2,McDonald's,6,McDonald's,60
+224-222@63j-cwx-yy9,Chipotle Mexican Grill,9039 US Highway 42 Ste A,Union,2020-09-01T00:00:00-04:00,38.962019,-84.678418,439,3,Starbucks,4,Kroger Fuel Center,42
+224-222@63j-cwx-yy9,Chipotle Mexican Grill,9039 US Highway 42 Ste A,Union,2020-09-01T00:00:00-04:00,38.962019,-84.678418,439,4,Kroger Fuel Center,4,Chick-fil-A,36
+224-222@63j-cwx-yy9,Chipotle Mexican Grill,9039 US Highway 42 Ste A,Union,2020-09-01T00:00:00-04:00,38.962019,-84.678418,439,5,PetPeople,4,Wendy's,35
+223-222@63d-vqw-ndv,Chipotle Mexican Grill,1472 N Main St,North Canton,2022-02-01T00:00:00-05:00,40.892454,-81.405156,861,1,YMCA,9,McDonald's,56
+223-222@63d-vqw-ndv,Chipotle Mexican Grill,1472 N Main St,North Canton,2022-02-01T00:00:00-05:00,40.892454,-81.405156,861,2,McDonald's,5,Sheetz,48
+223-222@63d-vqw-ndv,Chipotle Mexican Grill,1472 N Main St,North Canton,2022-02-01T00:00:00-05:00,40.892454,-81.405156,861,3,Sheetz,5,Starbucks,43
+223-222@63d-vqw-ndv,Chipotle Mexican Grill,1472 N Main St,North Canton,2022-02-01T00:00:00-05:00,40.892454,-81.405156,861,4,Starbucks,4,Target,36
+223-222@63d-vqw-ndv,Chipotle Mexican Grill,1472 N Main St,North Canton,2022-02-01T00:00:00-05:00,40.892454,-81.405156,861,5,Speedway,4,Walmart,35
+222-229@628-hz2-7qz,Chipotle Mexican Grill,25 Mountainview Blvd,Basking Ridge,2019-11-01T00:00:00-04:00,40.644189,-74.577273,616,1,Starbucks,7,Starbucks,42
+222-229@628-hz2-7qz,Chipotle Mexican Grill,25 Mountainview Blvd,Basking Ridge,2019-11-01T00:00:00-04:00,40.644189,-74.577273,616,2,Dunkin',4,Dunkin',38
+222-229@628-hz2-7qz,Chipotle Mexican Grill,25 Mountainview Blvd,Basking Ridge,2019-11-01T00:00:00-04:00,40.644189,-74.577273,616,3,Spencer's,3,Spencer's,32
+222-229@628-hz2-7qz,Chipotle Mexican Grill,25 Mountainview Blvd,Basking Ridge,2019-11-01T00:00:00-04:00,40.644189,-74.577273,616,4,Exxon Mobil,3,ShopRite,28
+222-229@628-hz2-7qz,Chipotle Mexican Grill,25 Mountainview Blvd,Basking Ridge,2019-11-01T00:00:00-04:00,40.644189,-74.577273,616,5,Costco,2,Costco,28
+224-222@5pb-5bc-wkz,Chipotle Mexican Grill,435 S Duff Ave Ste 102,Ames,2019-11-01T00:00:00-05:00,42.017612,-93.610966,429,1,Walmart,8,Walmart,58
+224-222@5pb-5bc-wkz,Chipotle Mexican Grill,435 S Duff Ave Ste 102,Ames,2019-11-01T00:00:00-05:00,42.017612,-93.610966,429,2,Kum & Go,6,Target,45
+224-222@5pb-5bc-wkz,Chipotle Mexican Grill,435 S Duff Ave Ste 102,Ames,2019-11-01T00:00:00-05:00,42.017612,-93.610966,429,3,Target,5,McDonald's,45
+224-222@5pb-5bc-wkz,Chipotle Mexican Grill,435 S Duff Ave Ste 102,Ames,2019-11-01T00:00:00-05:00,42.017612,-93.610966,429,4,Casey's General Stores,5,Casey's General Stores,38
+224-222@5pb-5bc-wkz,Chipotle Mexican Grill,435 S Duff Ave Ste 102,Ames,2019-11-01T00:00:00-05:00,42.017612,-93.610966,429,5,Starbucks,4,Hy-Vee,34
+zzw-222@5sb-d2n-st9,Chipotle Mexican Grill,3846 Willow Rd,Northbrook,2020-12-01T00:00:00-06:00,42.104761,-87.814236,98,1,Target,13,Target,66
+zzw-222@5sb-d2n-st9,Chipotle Mexican Grill,3846 Willow Rd,Northbrook,2020-12-01T00:00:00-06:00,42.104761,-87.814236,98,2,Kohl's,5,Starbucks,51
+zzw-222@5sb-d2n-st9,Chipotle Mexican Grill,3846 Willow Rd,Northbrook,2020-12-01T00:00:00-06:00,42.104761,-87.814236,98,3,McDonald's,5,McDonald's,46
+zzw-222@5sb-d2n-st9,Chipotle Mexican Grill,3846 Willow Rd,Northbrook,2020-12-01T00:00:00-06:00,42.104761,-87.814236,98,4,Jersey Mike's,4,Walgreens,38
+zzw-222@5sb-d2n-st9,Chipotle Mexican Grill,3846 Willow Rd,Northbrook,2020-12-01T00:00:00-06:00,42.104761,-87.814236,98,5,LA Fitness,4,Jewel-Osco,34
+zzw-224@8fw-2kq-nh5,Chipotle Mexican Grill,5435 N University Dr,Lauderhill,2022-02-01T00:00:00-05:00,26.191566,-80.252629,432,1,McDonald's,9,Walmart,66
+zzw-224@8fw-2kq-nh5,Chipotle Mexican Grill,5435 N University Dr,Lauderhill,2022-02-01T00:00:00-05:00,26.191566,-80.252629,432,2,Walmart,7,McDonald's,59
+zzw-224@8fw-2kq-nh5,Chipotle Mexican Grill,5435 N University Dr,Lauderhill,2022-02-01T00:00:00-05:00,26.191566,-80.252629,432,3,Publix Super Markets,5,Publix Super Markets,52
+zzw-224@8fw-2kq-nh5,Chipotle Mexican Grill,5435 N University Dr,Lauderhill,2022-02-01T00:00:00-05:00,26.191566,-80.252629,432,4,Dollar Tree,5,Simon mall,47
+zzw-224@8fw-2kq-nh5,Chipotle Mexican Grill,5435 N University Dr,Lauderhill,2022-02-01T00:00:00-05:00,26.191566,-80.252629,432,5,Chick-fil-A,5,Dollar Tree,43
+zzw-222@8dj-gr4-vfz,Chipotle Mexican Grill,4204 US Highway 98 N,Lakeland,2020-11-01T00:00:00-04:00,28.095835,-81.974729,700,1,Walmart,9,Walmart,69
+zzw-222@8dj-gr4-vfz,Chipotle Mexican Grill,4204 US Highway 98 N,Lakeland,2020-11-01T00:00:00-04:00,28.095835,-81.974729,700,2,McDonald's,9,McDonald's,55
+zzw-222@8dj-gr4-vfz,Chipotle Mexican Grill,4204 US Highway 98 N,Lakeland,2020-11-01T00:00:00-04:00,28.095835,-81.974729,700,3,Chick-fil-A,7,Chick-fil-A,42
+zzw-222@8dj-gr4-vfz,Chipotle Mexican Grill,4204 US Highway 98 N,Lakeland,2020-11-01T00:00:00-04:00,28.095835,-81.974729,700,4,Starbucks,5,Publix Super Markets,33
+zzw-222@8dj-gr4-vfz,Chipotle Mexican Grill,4204 US Highway 98 N,Lakeland,2020-11-01T00:00:00-04:00,28.095835,-81.974729,700,5,Target,5,Wendy's,33
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2022-01-01T00:00:00-08:00,45.43777,-122.829271,224,1,Dutch Bros Coffee,7,Starbucks,62
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2022-01-01T00:00:00-08:00,45.43777,-122.829271,224,2,Starbucks,6,McDonald's,53
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2022-01-01T00:00:00-08:00,45.43777,-122.829271,224,3,Target,5,Target,46
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2022-01-01T00:00:00-08:00,45.43777,-122.829271,224,4,Safeway,5,Safeway,45
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2022-01-01T00:00:00-08:00,45.43777,-122.829271,224,5,Panda Express,4,Dutch Bros Coffee,43
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2021-08-01T00:00:00-07:00,45.43777,-122.829271,220,1,Starbucks,9,Starbucks,66
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2021-08-01T00:00:00-07:00,45.43777,-122.829271,220,2,McDonald's,8,McDonald's,59
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2021-08-01T00:00:00-07:00,45.43777,-122.829271,220,3,Dutch Bros Coffee,6,Target,54
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2021-08-01T00:00:00-07:00,45.43777,-122.829271,220,4,Walmart,5,Walmart,46
+22c-222@5xc-kjn-fcq,Chipotle Mexican Grill,14795 SW Murray Scholls Dr Ste 112,Beaverton,2021-08-01T00:00:00-07:00,45.43777,-122.829271,220,5,Target,5,Chevron,46
+222-229@8dj-jw3-389,Chipotle Mexican Grill,533 S Howard Ave,Tampa,2021-11-01T00:00:00-04:00,27.939654,-82.483391,814,1,Starbucks,12,Starbucks,60
+222-229@8dj-jw3-389,Chipotle Mexican Grill,533 S Howard Ave,Tampa,2021-11-01T00:00:00-04:00,27.939654,-82.483391,814,2,Dairy Queen,8,Walmart,54
+222-229@8dj-jw3-389,Chipotle Mexican Grill,533 S Howard Ave,Tampa,2021-11-01T00:00:00-04:00,27.939654,-82.483391,814,3,Barnes and Noble College,7,McDonald's,51
+222-229@8dj-jw3-389,Chipotle Mexican Grill,533 S Howard Ave,Tampa,2021-11-01T00:00:00-04:00,27.939654,-82.483391,814,4,McDonald's,5,Chick-fil-A,45
+222-229@8dj-jw3-389,Chipotle Mexican Grill,533 S Howard Ave,Tampa,2021-11-01T00:00:00-04:00,27.939654,-82.483391,814,5,Walmart,5,Walgreens,36
+zzw-222@62k-hvs-9fz,Chipotle Mexican Grill,1386 Atwood Ave,Johnston,2019-09-01T00:00:00-04:00,41.814541,-71.496456,379,1,Dunkin',7,Dunkin',65
+zzw-222@62k-hvs-9fz,Chipotle Mexican Grill,1386 Atwood Ave,Johnston,2019-09-01T00:00:00-04:00,41.814541,-71.496456,379,2,BJ's Wholesale Club,6,Walmart,48
+zzw-222@62k-hvs-9fz,Chipotle Mexican Grill,1386 Atwood Ave,Johnston,2019-09-01T00:00:00-04:00,41.814541,-71.496456,379,3,Dollar Tree,5,McDonald's,44
+zzw-222@62k-hvs-9fz,Chipotle Mexican Grill,1386 Atwood Ave,Johnston,2019-09-01T00:00:00-04:00,41.814541,-71.496456,379,4,Cumberland Farms,5,CVS,42
+zzw-222@62k-hvs-9fz,Chipotle Mexican Grill,1386 Atwood Ave,Johnston,2019-09-01T00:00:00-04:00,41.814541,-71.496456,379,5,CVS,5,Dollar Tree,42
+223-222@63j-cwz-3wk,Chipotle Mexican Grill,7516 Mall Rd,Florence,2019-12-01T00:00:00-05:00,39.001421,-84.652758,541,1,Kroger,9,Kroger,69
+223-222@63j-cwz-3wk,Chipotle Mexican Grill,7516 Mall Rd,Florence,2019-12-01T00:00:00-05:00,39.001421,-84.652758,541,2,Walmart,8,Walmart,60
+223-222@63j-cwz-3wk,Chipotle Mexican Grill,7516 Mall Rd,Florence,2019-12-01T00:00:00-05:00,39.001421,-84.652758,541,3,T.J. Maxx,5,McDonald's,55
+223-222@63j-cwz-3wk,Chipotle Mexican Grill,7516 Mall Rd,Florence,2019-12-01T00:00:00-05:00,39.001421,-84.652758,541,4,Speedway,5,Chick-fil-A,42
+223-222@63j-cwz-3wk,Chipotle Mexican Grill,7516 Mall Rd,Florence,2019-12-01T00:00:00-05:00,39.001421,-84.652758,541,5,Kohl's,5,Wendy's,39
+226-222@8fw-64m-5j9,Chipotle Mexican Grill,2500 NE 10th Ct,Homestead,2020-07-01T00:00:00-04:00,25.478969,-80.441953,124,1,RaceTrac,9,Walmart,58
+226-222@8fw-64m-5j9,Chipotle Mexican Grill,2500 NE 10th Ct,Homestead,2020-07-01T00:00:00-04:00,25.478969,-80.441953,124,2,Walmart,8,Walgreens,50
+226-222@8fw-64m-5j9,Chipotle Mexican Grill,2500 NE 10th Ct,Homestead,2020-07-01T00:00:00-04:00,25.478969,-80.441953,124,3,McDonald's,8,McDonald's,47
+226-222@8fw-64m-5j9,Chipotle Mexican Grill,2500 NE 10th Ct,Homestead,2020-07-01T00:00:00-04:00,25.478969,-80.441953,124,4,Simon mall,7,Publix Super Markets,42
+226-222@8fw-64m-5j9,Chipotle Mexican Grill,2500 NE 10th Ct,Homestead,2020-07-01T00:00:00-04:00,25.478969,-80.441953,124,5,Pollo Tropical,7,Shell Oil,40
+zzw-223@5xc-k2b-6p9,Chipotle Mexican Grill,2048 NE Stucki Ave,Hillsboro,2019-10-01T00:00:00-07:00,45.534836,-122.877334,377,1,Starbucks,7,Starbucks,56
+zzw-223@5xc-k2b-6p9,Chipotle Mexican Grill,2048 NE Stucki Ave,Hillsboro,2019-10-01T00:00:00-07:00,45.534836,-122.877334,377,2,Target,5,McDonald's,42
+zzw-223@5xc-k2b-6p9,Chipotle Mexican Grill,2048 NE Stucki Ave,Hillsboro,2019-10-01T00:00:00-07:00,45.534836,-122.877334,377,3,McDonald's,4,Target,38
+zzw-223@5xc-k2b-6p9,Chipotle Mexican Grill,2048 NE Stucki Ave,Hillsboro,2019-10-01T00:00:00-07:00,45.534836,-122.877334,377,4,Kaiser Permanente,3,Costco,35
+zzw-223@5xc-k2b-6p9,Chipotle Mexican Grill,2048 NE Stucki Ave,Hillsboro,2019-10-01T00:00:00-07:00,45.534836,-122.877334,377,5,Chick-fil-A,3,Walmart,29
+zzw-222@5pr-6cf-st9,Chipotle Mexican Grill,6920 Mission Rd Ste C,Prairie Village,2020-01-01T00:00:00-06:00,39.003568,-94.629873,693,1,QuikTrip,7,Starbucks,62
+zzw-222@5pr-6cf-st9,Chipotle Mexican Grill,6920 Mission Rd Ste C,Prairie Village,2020-01-01T00:00:00-06:00,39.003568,-94.629873,693,2,Starbucks,7,QuikTrip,47
+zzw-222@5pr-6cf-st9,Chipotle Mexican Grill,6920 Mission Rd Ste C,Prairie Village,2020-01-01T00:00:00-06:00,39.003568,-94.629873,693,3,McDonald's,4,Target,45
+zzw-222@5pr-6cf-st9,Chipotle Mexican Grill,6920 Mission Rd Ste C,Prairie Village,2020-01-01T00:00:00-06:00,39.003568,-94.629873,693,4,Target,3,Chick-fil-A,40
+zzw-222@5pr-6cf-st9,Chipotle Mexican Grill,6920 Mission Rd Ste C,Prairie Village,2020-01-01T00:00:00-06:00,39.003568,-94.629873,693,5,Macy's,3,McDonald's,40
+224-222@5yz-n8j-zpv,Chipotle Mexican Grill,231 Red Cliffs Dr,Saint George,2019-03-01T00:00:00-07:00,37.111904,-113.554444,232,1,Walmart,6,Walmart,59
+224-222@5yz-n8j-zpv,Chipotle Mexican Grill,231 Red Cliffs Dr,Saint George,2019-03-01T00:00:00-07:00,37.111904,-113.554444,232,2,Chevron,5,Chevron,42
+224-222@5yz-n8j-zpv,Chipotle Mexican Grill,231 Red Cliffs Dr,Saint George,2019-03-01T00:00:00-07:00,37.111904,-113.554444,232,3,Target,4,Costco,39
+224-222@5yz-n8j-zpv,Chipotle Mexican Grill,231 Red Cliffs Dr,Saint George,2019-03-01T00:00:00-07:00,37.111904,-113.554444,232,4,Dick's Sporting Goods,4,McDonald's,39
+224-222@5yz-n8j-zpv,Chipotle Mexican Grill,231 Red Cliffs Dr,Saint George,2019-03-01T00:00:00-07:00,37.111904,-113.554444,232,5,McDonald's,4,Target,33
+225-222@5q6-7bm-9fz,Chipotle Mexican Grill,8797 Wadsworth Blvd,Westminster,2021-02-01T00:00:00-07:00,39.856148,-105.082459,314,1,Starbucks,6,King Soopers,53
+225-222@5q6-7bm-9fz,Chipotle Mexican Grill,8797 Wadsworth Blvd,Westminster,2021-02-01T00:00:00-07:00,39.856148,-105.082459,314,2,McDonald's,6,McDonald's,50
+225-222@5q6-7bm-9fz,Chipotle Mexican Grill,8797 Wadsworth Blvd,Westminster,2021-02-01T00:00:00-07:00,39.856148,-105.082459,314,3,Walmart,5,Walmart,49
+225-222@5q6-7bm-9fz,Chipotle Mexican Grill,8797 Wadsworth Blvd,Westminster,2021-02-01T00:00:00-07:00,39.856148,-105.082459,314,4,ConocoPhillips,5,Starbucks,47
+225-222@5q6-7bm-9fz,Chipotle Mexican Grill,8797 Wadsworth Blvd,Westminster,2021-02-01T00:00:00-07:00,39.856148,-105.082459,314,5,King Soopers,5,Chick-fil-A,38
+zzw-222@5sb-d2n-t5f,Chipotle Mexican Grill,2341 Willow Rd,Glenview,2019-08-01T00:00:00-05:00,42.104767,-87.814034,286,1,Starbucks,7,Starbucks,56
+zzw-222@5sb-d2n-t5f,Chipotle Mexican Grill,2341 Willow Rd,Glenview,2019-08-01T00:00:00-05:00,42.104767,-87.814034,286,2,Walgreens,3,McDonald's,49
+zzw-222@5sb-d2n-t5f,Chipotle Mexican Grill,2341 Willow Rd,Glenview,2019-08-01T00:00:00-05:00,42.104767,-87.814034,286,3,McDonald's,3,Walgreens,34
+zzw-222@5sb-d2n-t5f,Chipotle Mexican Grill,2341 Willow Rd,Glenview,2019-08-01T00:00:00-05:00,42.104767,-87.814034,286,4,Costco Gasoline,2,BP,33
+zzw-222@5sb-d2n-t5f,Chipotle Mexican Grill,2341 Willow Rd,Glenview,2019-08-01T00:00:00-05:00,42.104767,-87.814034,286,5,Meatheads Burgers & Fries,2,Costco,32
+222-222@8fy-6s4-h89,Chipotle Mexican Grill,2181 SE Federal Hwy,Stuart,2019-11-01T00:00:00-04:00,27.177999,-80.236066,623,1,Walmart,8,Walmart,53
+222-222@8fy-6s4-h89,Chipotle Mexican Grill,2181 SE Federal Hwy,Stuart,2019-11-01T00:00:00-04:00,27.177999,-80.236066,623,2,Simon mall,4,McDonald's,48
+222-222@8fy-6s4-h89,Chipotle Mexican Grill,2181 SE Federal Hwy,Stuart,2019-11-01T00:00:00-04:00,27.177999,-80.236066,623,3,The Home Depot,4,Publix Super Markets,45
+222-222@8fy-6s4-h89,Chipotle Mexican Grill,2181 SE Federal Hwy,Stuart,2019-11-01T00:00:00-04:00,27.177999,-80.236066,623,4,Publix Super Markets,4,Simon mall,44
+222-222@8fy-6s4-h89,Chipotle Mexican Grill,2181 SE Federal Hwy,Stuart,2019-11-01T00:00:00-04:00,27.177999,-80.236066,623,5,Chick-fil-A,3,Chick-fil-A,42
+222-222@8fy-6s4-h89,Chipotle Mexican Grill,2181 SE Federal Hwy,Stuart,2020-03-01T00:00:00-05:00,27.177999,-80.236066,605,1,Walmart,7,Walmart,53
+222-222@8fy-6s4-h89,Chipotle Mexican Grill,2181 SE Federal Hwy,Stuart,2020-03-01T00:00:00-05:00,27.177999,-80.236066,605,2,Publix Super Markets,5,Publix Super Markets,48
+222-222@8fy-6s4-h89,Chipotle Mexican Grill,2181 SE Federal Hwy,Stuart,2020-03-01T00:00:00-05:00,27.177999,-80.236066,605,3,Wawa,5,McDonald's,40
+222-222@8fy-6s4-h89,Chipotle Mexican Grill,2181 SE Federal Hwy,Stuart,2020-03-01T00:00:00-05:00,27.177999,-80.236066,605,4,McDonald's,5,Walgreens,38
+222-222@8fy-6s4-h89,Chipotle Mexican Grill,2181 SE Federal Hwy,Stuart,2020-03-01T00:00:00-05:00,27.177999,-80.236066,605,5,Mobil,4,Chick-fil-A,36
+225-222@8gf-r6z-mc5,Chipotle Mexican Grill,946 Patton Ave Ste 30,Asheville,2021-12-01T00:00:00-05:00,35.586707,-82.58743,200,1,McDonald's,12,Starbucks,72
+225-222@8gf-r6z-mc5,Chipotle Mexican Grill,946 Patton Ave Ste 30,Asheville,2021-12-01T00:00:00-05:00,35.586707,-82.58743,200,2,Starbucks,8,Shell Oil,64
+225-222@8gf-r6z-mc5,Chipotle Mexican Grill,946 Patton Ave Ste 30,Asheville,2021-12-01T00:00:00-05:00,35.586707,-82.58743,200,3,Walmart,7,McDonald's,63
+225-222@8gf-r6z-mc5,Chipotle Mexican Grill,946 Patton Ave Ste 30,Asheville,2021-12-01T00:00:00-05:00,35.586707,-82.58743,200,4,Target,7,Walmart,62
+225-222@8gf-r6z-mc5,Chipotle Mexican Grill,946 Patton Ave Ste 30,Asheville,2021-12-01T00:00:00-05:00,35.586707,-82.58743,200,5,Chick-fil-A,6,Chick-fil-A,62
+229-222@5sb-892-6tv,Chipotle Mexican Grill,601 N Martingale Rd Ste 330,Schaumburg,2021-11-01T00:00:00-05:00,42.040255,-88.033702,406,1,Simon mall,20,McDonald's,61
+229-222@5sb-892-6tv,Chipotle Mexican Grill,601 N Martingale Rd Ste 330,Schaumburg,2021-11-01T00:00:00-05:00,42.040255,-88.033702,406,2,aerie,13,Starbucks,60
+229-222@5sb-892-6tv,Chipotle Mexican Grill,601 N Martingale Rd Ste 330,Schaumburg,2021-11-01T00:00:00-05:00,42.040255,-88.033702,406,3,Armani Exchange (A/X),12,Simon mall,54
+229-222@5sb-892-6tv,Chipotle Mexican Grill,601 N Martingale Rd Ste 330,Schaumburg,2021-11-01T00:00:00-05:00,42.040255,-88.033702,406,4,McDonald's,9,Target,52
+229-222@5sb-892-6tv,Chipotle Mexican Grill,601 N Martingale Rd Ste 330,Schaumburg,2021-11-01T00:00:00-05:00,42.040255,-88.033702,406,5,Starbucks,7,Walmart,48
+224-222@8tf-qvk-d9z,Chipotle Mexican Grill,8889 Gateway Blvd W Ste 2510,El Paso,2019-08-01T00:00:00-06:00,31.770991,-106.374674,290,1,Simon mall,15,Walmart,73
+224-222@8tf-qvk-d9z,Chipotle Mexican Grill,8889 Gateway Blvd W Ste 2510,El Paso,2019-08-01T00:00:00-06:00,31.770991,-106.374674,290,2,Walmart,11,Simon mall,56
+224-222@8tf-qvk-d9z,Chipotle Mexican Grill,8889 Gateway Blvd W Ste 2510,El Paso,2019-08-01T00:00:00-06:00,31.770991,-106.374674,290,3,Walgreens,7,McDonald's,50
+224-222@8tf-qvk-d9z,Chipotle Mexican Grill,8889 Gateway Blvd W Ste 2510,El Paso,2019-08-01T00:00:00-06:00,31.770991,-106.374674,290,4,McDonald's,5,Whataburger,46
+224-222@8tf-qvk-d9z,Chipotle Mexican Grill,8889 Gateway Blvd W Ste 2510,El Paso,2019-08-01T00:00:00-06:00,31.770991,-106.374674,290,5,Circle K Gas,5,Circle K Gas,44
+222-222@5yy-mb8-qs5,Chipotle Mexican Grill,1351 S Providence Center Dr,Cedar City,2021-10-01T00:00:00-06:00,37.653677,-113.084663,595,1,Walmart,19,Walmart,80
+222-222@5yy-mb8-qs5,Chipotle Mexican Grill,1351 S Providence Center Dr,Cedar City,2021-10-01T00:00:00-06:00,37.653677,-113.084663,595,2,Maverik,10,Maverik,55
+222-222@5yy-mb8-qs5,Chipotle Mexican Grill,1351 S Providence Center Dr,Cedar City,2021-10-01T00:00:00-06:00,37.653677,-113.084663,595,3,Chevron,7,Chevron,48
+222-222@5yy-mb8-qs5,Chipotle Mexican Grill,1351 S Providence Center Dr,Cedar City,2021-10-01T00:00:00-06:00,37.653677,-113.084663,595,4,Starbucks,6,Starbucks,45
+222-222@5yy-mb8-qs5,Chipotle Mexican Grill,1351 S Providence Center Dr,Cedar City,2021-10-01T00:00:00-06:00,37.653677,-113.084663,595,5,The Home Depot,6,McDonald's,40
+223-222@63v-c6g-d9z,Chipotle Mexican Grill,3890 Medina Rd Ste A,Akron,2021-11-01T00:00:00-04:00,41.13539,-81.637778,663,1,Circle K,10,McDonald's,62
+223-222@63v-c6g-d9z,Chipotle Mexican Grill,3890 Medina Rd Ste A,Akron,2021-11-01T00:00:00-04:00,41.13539,-81.637778,663,2,Walmart,8,Walmart,53
+223-222@63v-c6g-d9z,Chipotle Mexican Grill,3890 Medina Rd Ste A,Akron,2021-11-01T00:00:00-04:00,41.13539,-81.637778,663,3,McDonald's,8,Circle K,43
+223-222@63v-c6g-d9z,Chipotle Mexican Grill,3890 Medina Rd Ste A,Akron,2021-11-01T00:00:00-04:00,41.13539,-81.637778,663,4,Chick-fil-A,6,Starbucks,43
+223-222@63v-c6g-d9z,Chipotle Mexican Grill,3890 Medina Rd Ste A,Akron,2021-11-01T00:00:00-04:00,41.13539,-81.637778,663,5,Planet Fitness,6,Target,43
+zzw-222@8fw-779-snq,Chipotle Mexican Grill,10141 W Flagler St Ste 100,Miami,2020-06-01T00:00:00-04:00,25.769278,-80.359828,227,1,Target,11,McDonald's,52
+zzw-222@8fw-779-snq,Chipotle Mexican Grill,10141 W Flagler St Ste 100,Miami,2020-06-01T00:00:00-04:00,25.769278,-80.359828,227,2,McDonald's,7,Target,42
+zzw-222@8fw-779-snq,Chipotle Mexican Grill,10141 W Flagler St Ste 100,Miami,2020-06-01T00:00:00-04:00,25.769278,-80.359828,227,3,Marathon,5,Walmart,42
+zzw-222@8fw-779-snq,Chipotle Mexican Grill,10141 W Flagler St Ste 100,Miami,2020-06-01T00:00:00-04:00,25.769278,-80.359828,227,4,Walmart,4,CVS,41
+zzw-222@8fw-779-snq,Chipotle Mexican Grill,10141 W Flagler St Ste 100,Miami,2020-06-01T00:00:00-04:00,25.769278,-80.359828,227,5,Goodwill Industries,4,Publix Super Markets,38
+239-222@64h-vpk-2hq,Chipotle Mexican Grill,100 Coastal Way,Chesapeake,2021-01-01T00:00:00-05:00,36.766188,-76.252406,10,1,Dodge,11,Walmart,67
+239-222@64h-vpk-2hq,Chipotle Mexican Grill,100 Coastal Way,Chesapeake,2021-01-01T00:00:00-05:00,36.766188,-76.252406,10,2,Chrysler,11,Walgreens,44
+239-222@64h-vpk-2hq,Chipotle Mexican Grill,100 Coastal Way,Chesapeake,2021-01-01T00:00:00-05:00,36.766188,-76.252406,10,3,Kroger,11,Target,33
+239-222@64h-vpk-2hq,Chipotle Mexican Grill,100 Coastal Way,Chesapeake,2021-01-01T00:00:00-05:00,36.766188,-76.252406,10,4,PetSmart,11,Cook Out,33
+239-222@64h-vpk-2hq,Chipotle Mexican Grill,100 Coastal Way,Chesapeake,2021-01-01T00:00:00-05:00,36.766188,-76.252406,10,5,7-Eleven,11,Kroger,33
+22r-222@627-txx-qs5,Chipotle Mexican Grill,240 Bloomfield Ave,Bloomfield,2019-01-01T00:00:00-05:00,40.781858,-74.191747,204,1,Wendy's,7,Dunkin',47
+22r-222@627-txx-qs5,Chipotle Mexican Grill,240 Bloomfield Ave,Bloomfield,2019-01-01T00:00:00-05:00,40.781858,-74.191747,204,2,McDonald's,7,McDonald's,41
+22r-222@627-txx-qs5,Chipotle Mexican Grill,240 Bloomfield Ave,Bloomfield,2019-01-01T00:00:00-05:00,40.781858,-74.191747,204,3,Dunkin',5,Wendy's,35
+22r-222@627-txx-qs5,Chipotle Mexican Grill,240 Bloomfield Ave,Bloomfield,2019-01-01T00:00:00-05:00,40.781858,-74.191747,204,4,ALDI,4,Walgreens,32
+22r-222@627-txx-qs5,Chipotle Mexican Grill,240 Bloomfield Ave,Bloomfield,2019-01-01T00:00:00-05:00,40.781858,-74.191747,204,5,The Home Depot,4,Dollar Tree,27
+226-222@5sb-bv7-rrk,Chipotle Mexican Grill,9370 76th St Ste B,Pleasant Prairie,2021-11-01T00:00:00-05:00,42.565909,-87.920878,484,1,Costco,11,McDonald's,64
+226-222@5sb-bv7-rrk,Chipotle Mexican Grill,9370 76th St Ste B,Pleasant Prairie,2021-11-01T00:00:00-05:00,42.565909,-87.920878,484,2,McDonald's,10,Kwik Trip,58
+226-222@5sb-bv7-rrk,Chipotle Mexican Grill,9370 76th St Ste B,Pleasant Prairie,2021-11-01T00:00:00-05:00,42.565909,-87.920878,484,3,Kwik Trip,9,Walmart,53
+226-222@5sb-bv7-rrk,Chipotle Mexican Grill,9370 76th St Ste B,Pleasant Prairie,2021-11-01T00:00:00-05:00,42.565909,-87.920878,484,4,Target,8,Target,49
+226-222@5sb-bv7-rrk,Chipotle Mexican Grill,9370 76th St Ste B,Pleasant Prairie,2021-11-01T00:00:00-05:00,42.565909,-87.920878,484,5,Walmart,6,Walgreens,49
+225-222@8gq-5ss-6zf,Chipotle Mexican Grill,1432 W University Ave,Gainesville,2021-11-01T00:00:00-04:00,29.652265,-82.341511,1538,1,Starbucks,10,Starbucks,65
+225-222@8gq-5ss-6zf,Chipotle Mexican Grill,1432 W University Ave,Gainesville,2021-11-01T00:00:00-04:00,29.652265,-82.341511,1538,2,Chick-fil-A,7,Chick-fil-A,54
+225-222@8gq-5ss-6zf,Chipotle Mexican Grill,1432 W University Ave,Gainesville,2021-11-01T00:00:00-04:00,29.652265,-82.341511,1538,3,Subway,6,Publix Super Markets,47
+225-222@8gq-5ss-6zf,Chipotle Mexican Grill,1432 W University Ave,Gainesville,2021-11-01T00:00:00-04:00,29.652265,-82.341511,1538,4,Firehouse Subs,5,Subway,45
+225-222@8gq-5ss-6zf,Chipotle Mexican Grill,1432 W University Ave,Gainesville,2021-11-01T00:00:00-04:00,29.652265,-82.341511,1538,5,Publix Super Markets,4,McDonald's,45
+222-222@8gn-zq3-q75,Chipotle Mexican Grill,9671 Argyle Forest Blvd,Jacksonville,2021-02-01T00:00:00-05:00,30.19636,-81.829912,658,1,McDonald's,12,McDonald's,63
+222-222@8gn-zq3-q75,Chipotle Mexican Grill,9671 Argyle Forest Blvd,Jacksonville,2021-02-01T00:00:00-05:00,30.19636,-81.829912,658,2,Chick-fil-A,9,Walmart,61
+222-222@8gn-zq3-q75,Chipotle Mexican Grill,9671 Argyle Forest Blvd,Jacksonville,2021-02-01T00:00:00-05:00,30.19636,-81.829912,658,3,Target,8,Chick-fil-A,56
+222-222@8gn-zq3-q75,Chipotle Mexican Grill,9671 Argyle Forest Blvd,Jacksonville,2021-02-01T00:00:00-05:00,30.19636,-81.829912,658,4,Speedway,7,Target,48
+222-222@8gn-zq3-q75,Chipotle Mexican Grill,9671 Argyle Forest Blvd,Jacksonville,2021-02-01T00:00:00-05:00,30.19636,-81.829912,658,5,Wawa,7,Wawa,42
+22d-222@5xc-kds-5cq,Chipotle Mexican Grill,7003 SW Nyberg St,Tualatin,2019-10-01T00:00:00-07:00,45.383057,-122.748234,234,1,76,5,Starbucks,54
+22d-222@5xc-kds-5cq,Chipotle Mexican Grill,7003 SW Nyberg St,Tualatin,2019-10-01T00:00:00-07:00,45.383057,-122.748234,234,2,Walmart,4,McDonald's,48
+22d-222@5xc-kds-5cq,Chipotle Mexican Grill,7003 SW Nyberg St,Tualatin,2019-10-01T00:00:00-07:00,45.383057,-122.748234,234,3,Starbucks,4,Costco,35
+22d-222@5xc-kds-5cq,Chipotle Mexican Grill,7003 SW Nyberg St,Tualatin,2019-10-01T00:00:00-07:00,45.383057,-122.748234,234,4,Fred Meyer,3,Fred Meyer,32
+22d-222@5xc-kds-5cq,Chipotle Mexican Grill,7003 SW Nyberg St,Tualatin,2019-10-01T00:00:00-07:00,45.383057,-122.748234,234,5,Costco,3,Chevron,32
+226-222@5sb-7yv-4y9,Chipotle Mexican Grill,298 W North Ave Unit 1,Villa Park,2019-09-01T00:00:00-05:00,41.905879,-87.985575,363,1,McDonald's,5,McDonald's,62
+226-222@5sb-7yv-4y9,Chipotle Mexican Grill,298 W North Ave Unit 1,Villa Park,2019-09-01T00:00:00-05:00,41.905879,-87.985575,363,2,Walmart,5,Walmart,47
+226-222@5sb-7yv-4y9,Chipotle Mexican Grill,298 W North Ave Unit 1,Villa Park,2019-09-01T00:00:00-05:00,41.905879,-87.985575,363,3,Starbucks,4,Walgreens,40
+226-222@5sb-7yv-4y9,Chipotle Mexican Grill,298 W North Ave Unit 1,Villa Park,2019-09-01T00:00:00-05:00,41.905879,-87.985575,363,4,Jewel-Osco,3,Jewel-Osco,36
+226-222@5sb-7yv-4y9,Chipotle Mexican Grill,298 W North Ave Unit 1,Villa Park,2019-09-01T00:00:00-05:00,41.905879,-87.985575,363,5,BP,3,BP,35
+224-222@628-p7j-b8v,Chipotle Mexican Grill,115 Route 130 S,Cinnaminson,2020-07-01T00:00:00-04:00,39.989006,-75.009649,428,1,Wawa,9,Wawa,65
+224-222@628-p7j-b8v,Chipotle Mexican Grill,115 Route 130 S,Cinnaminson,2020-07-01T00:00:00-04:00,39.989006,-75.009649,428,2,Walmart,6,Walmart,51
+224-222@628-p7j-b8v,Chipotle Mexican Grill,115 Route 130 S,Cinnaminson,2020-07-01T00:00:00-04:00,39.989006,-75.009649,428,3,Dunkin',6,McDonald's,46
+224-222@628-p7j-b8v,Chipotle Mexican Grill,115 Route 130 S,Cinnaminson,2020-07-01T00:00:00-04:00,39.989006,-75.009649,428,4,McDonald's,5,Dunkin',41
+224-222@628-p7j-b8v,Chipotle Mexican Grill,115 Route 130 S,Cinnaminson,2020-07-01T00:00:00-04:00,39.989006,-75.009649,428,5,Chick-fil-A,5,Target,39
+zzw-225@8gh-n2s-nbk,Chipotle Mexican Grill,3425 Thomasville Rd Unit 1,Tallahassee,2019-08-01T00:00:00-04:00,30.504473,-84.249684,629,1,Shell Oil,10,Walmart,64
+zzw-225@8gh-n2s-nbk,Chipotle Mexican Grill,3425 Thomasville Rd Unit 1,Tallahassee,2019-08-01T00:00:00-04:00,30.504473,-84.249684,629,2,Walmart,7,Shell Oil,62
+zzw-225@8gh-n2s-nbk,Chipotle Mexican Grill,3425 Thomasville Rd Unit 1,Tallahassee,2019-08-01T00:00:00-04:00,30.504473,-84.249684,629,3,Target,6,Chick-fil-A,57
+zzw-225@8gh-n2s-nbk,Chipotle Mexican Grill,3425 Thomasville Rd Unit 1,Tallahassee,2019-08-01T00:00:00-04:00,30.504473,-84.249684,629,4,Chick-fil-A,5,Publix Super Markets,53
+zzw-225@8gh-n2s-nbk,Chipotle Mexican Grill,3425 Thomasville Rd Unit 1,Tallahassee,2019-08-01T00:00:00-04:00,30.504473,-84.249684,629,5,T.J. Maxx,5,Target,44
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2019-05-01T00:00:00-04:00,29.673663,-82.338682,273,1,Walmart,7,Walmart,56
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2019-05-01T00:00:00-04:00,29.673663,-82.338682,273,2,Shell Oil,6,Publix Super Markets,56
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2019-05-01T00:00:00-04:00,29.673663,-82.338682,273,3,Dollar General,5,McDonald's,50
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2019-05-01T00:00:00-04:00,29.673663,-82.338682,273,4,Publix Super Markets,5,Shell Oil,48
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2019-05-01T00:00:00-04:00,29.673663,-82.338682,273,5,McDonald's,4,CVS,34
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2019-11-01T00:00:00-04:00,29.673663,-82.338682,290,1,Walmart,7,Publix Super Markets,63
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2019-11-01T00:00:00-04:00,29.673663,-82.338682,290,2,McDonald's,7,Walmart,51
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2019-11-01T00:00:00-04:00,29.673663,-82.338682,290,3,Publix Super Markets,6,McDonald's,49
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2019-11-01T00:00:00-04:00,29.673663,-82.338682,290,4,Starbucks,5,Shell Oil,42
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2019-11-01T00:00:00-04:00,29.673663,-82.338682,290,5,Circle K Gas,3,Starbucks,33
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2022-03-01T00:00:00-05:00,29.673663,-82.338682,557,1,McDonald's,8,McDonald's,57
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2022-03-01T00:00:00-05:00,29.673663,-82.338682,557,2,Starbucks,8,Walmart,48
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2022-03-01T00:00:00-05:00,29.673663,-82.338682,557,3,Wawa,5,Starbucks,47
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2022-03-01T00:00:00-05:00,29.673663,-82.338682,557,4,Circle K,5,Publix Super Markets,44
+zzy-222@8gq-5sk-8jv,Chipotle Mexican Grill,2225 NW 13th St Ste 100,Gainesville,2022-03-01T00:00:00-05:00,29.673663,-82.338682,557,5,Walmart,5,Wawa,44
+225-222@5pw-2pv-djv,Chipotle Mexican Grill,17700 Halsted St,Homewood,2022-01-01T00:00:00-06:00,41.568073,-87.636945,349,1,McDonald's,15,McDonald's,73
+225-222@5pw-2pv-djv,Chipotle Mexican Grill,17700 Halsted St,Homewood,2022-01-01T00:00:00-06:00,41.568073,-87.636945,349,2,Walmart,9,Walmart,64
+225-222@5pw-2pv-djv,Chipotle Mexican Grill,17700 Halsted St,Homewood,2022-01-01T00:00:00-06:00,41.568073,-87.636945,349,3,Walgreens,6,Walgreens,53
+225-222@5pw-2pv-djv,Chipotle Mexican Grill,17700 Halsted St,Homewood,2022-01-01T00:00:00-06:00,41.568073,-87.636945,349,4,Jewel-Osco,6,Jewel-Osco,42
+225-222@5pw-2pv-djv,Chipotle Mexican Grill,17700 Halsted St,Homewood,2022-01-01T00:00:00-06:00,41.568073,-87.636945,349,5,Speedway,6,Shell Oil,41
+222-222@63j-8x9-52k,Chipotle Mexican Grill,2527 Wilson Rd,Highland Heights,2020-09-01T00:00:00-04:00,39.037611,-84.454724,673,1,Kroger,7,Kroger,62
+222-222@63j-8x9-52k,Chipotle Mexican Grill,2527 Wilson Rd,Highland Heights,2020-09-01T00:00:00-04:00,39.037611,-84.454724,673,2,McDonald's,6,McDonald's,59
+222-222@63j-8x9-52k,Chipotle Mexican Grill,2527 Wilson Rd,Highland Heights,2020-09-01T00:00:00-04:00,39.037611,-84.454724,673,3,Walmart,5,Walmart,52
+222-222@63j-8x9-52k,Chipotle Mexican Grill,2527 Wilson Rd,Highland Heights,2020-09-01T00:00:00-04:00,39.037611,-84.454724,673,4,Lowe's,4,Wendy's,41
+222-222@63j-8x9-52k,Chipotle Mexican Grill,2527 Wilson Rd,Highland Heights,2020-09-01T00:00:00-04:00,39.037611,-84.454724,673,5,Speedway,3,Speedway,39
+222-222@5qv-x4x-vpv,Chipotle Mexican Grill,2427 Valley View Ln,Farmers Branch,2021-09-01T00:00:00-05:00,32.923617,-96.898811,346,1,McDonald's,10,Walmart,68
+222-222@5qv-x4x-vpv,Chipotle Mexican Grill,2427 Valley View Ln,Farmers Branch,2021-09-01T00:00:00-05:00,32.923617,-96.898811,346,2,Walmart,8,McDonald's,60
+222-222@5qv-x4x-vpv,Chipotle Mexican Grill,2427 Valley View Ln,Farmers Branch,2021-09-01T00:00:00-05:00,32.923617,-96.898811,346,3,QuikTrip,6,Starbucks,56
+222-222@5qv-x4x-vpv,Chipotle Mexican Grill,2427 Valley View Ln,Farmers Branch,2021-09-01T00:00:00-05:00,32.923617,-96.898811,346,4,Starbucks,6,Chick-fil-A,55
+222-222@5qv-x4x-vpv,Chipotle Mexican Grill,2427 Valley View Ln,Farmers Branch,2021-09-01T00:00:00-05:00,32.923617,-96.898811,346,5,RaceTrac,5,QuikTrip,44
+224-223@628-rmj-8qf,Chipotle Mexican Grill,4733 US Highway 9,Howell,2022-03-01T00:00:00-05:00,40.134297,-74.223033,56,1,Kohl's,33,Kohl's,69
+224-223@628-rmj-8qf,Chipotle Mexican Grill,4733 US Highway 9,Howell,2022-03-01T00:00:00-05:00,40.134297,-74.223033,56,2,Wawa,15,Wawa,66
+224-223@628-rmj-8qf,Chipotle Mexican Grill,4733 US Highway 9,Howell,2022-03-01T00:00:00-05:00,40.134297,-74.223033,56,3,LA Fitness,7,ShopRite,66
+224-223@628-rmj-8qf,Chipotle Mexican Grill,4733 US Highway 9,Howell,2022-03-01T00:00:00-05:00,40.134297,-74.223033,56,4,Walmart,5,Walmart,63
+224-223@628-rmj-8qf,Chipotle Mexican Grill,4733 US Highway 9,Howell,2022-03-01T00:00:00-05:00,40.134297,-74.223033,56,5,Applebee's,5,McDonald's,50
+226-222@627-wht-h3q,Chipotle Mexican Grill,697 Morris Tpke Ste 2,Springfield,2021-05-01T00:00:00-04:00,40.718646,-74.329485,147,1,Walgreens,5,CVS,44
+226-222@627-wht-h3q,Chipotle Mexican Grill,697 Morris Tpke Ste 2,Springfield,2021-05-01T00:00:00-04:00,40.718646,-74.329485,147,2,Target,4,Dunkin',42
+226-222@627-wht-h3q,Chipotle Mexican Grill,697 Morris Tpke Ste 2,Springfield,2021-05-01T00:00:00-04:00,40.718646,-74.329485,147,3,Starbucks,4,Walgreens,39
+226-222@627-wht-h3q,Chipotle Mexican Grill,697 Morris Tpke Ste 2,Springfield,2021-05-01T00:00:00-04:00,40.718646,-74.329485,147,4,CVS,4,Starbucks,36
+226-222@627-wht-h3q,Chipotle Mexican Grill,697 Morris Tpke Ste 2,Springfield,2021-05-01T00:00:00-04:00,40.718646,-74.329485,147,5,Panera Bread,3,Target,34
+zzy-223@627-s5p-y9z,Chipotle Mexican Grill,2199 74th St,North Bergen,2020-04-01T00:00:00-04:00,40.803182,-74.021265,71,1,Target,13,Target,43
+zzy-223@627-s5p-y9z,Chipotle Mexican Grill,2199 74th St,North Bergen,2020-04-01T00:00:00-04:00,40.803182,-74.021265,71,2,Walmart,11,Walmart,40
+zzy-223@627-s5p-y9z,Chipotle Mexican Grill,2199 74th St,North Bergen,2020-04-01T00:00:00-04:00,40.803182,-74.021265,71,3,The Home Depot,10,Dunkin',40
+zzy-223@627-s5p-y9z,Chipotle Mexican Grill,2199 74th St,North Bergen,2020-04-01T00:00:00-04:00,40.803182,-74.021265,71,4,Dunkin',9,McDonald's,39
+zzy-223@627-s5p-y9z,Chipotle Mexican Grill,2199 74th St,North Bergen,2020-04-01T00:00:00-04:00,40.803182,-74.021265,71,5,Lowe's,6,The Home Depot,33
+226-222@63j-8k8-z75,Chipotle Mexican Grill,8154 Montgomery Rd Unit 4,Madeira,2019-12-01T00:00:00-05:00,39.204021,-84.368016,282,1,Pottery Barn Kids,13,Kroger,58
+226-222@63j-8k8-z75,Chipotle Mexican Grill,8154 Montgomery Rd Unit 4,Madeira,2019-12-01T00:00:00-05:00,39.204021,-84.368016,282,2,TriHealth,7,McDonald's,56
+226-222@63j-8k8-z75,Chipotle Mexican Grill,8154 Montgomery Rd Unit 4,Madeira,2019-12-01T00:00:00-05:00,39.204021,-84.368016,282,3,Kroger,6,Pottery Barn Kids,54
+226-222@63j-8k8-z75,Chipotle Mexican Grill,8154 Montgomery Rd Unit 4,Madeira,2019-12-01T00:00:00-05:00,39.204021,-84.368016,282,4,McDonald's,6,Target,51
+226-222@63j-8k8-z75,Chipotle Mexican Grill,8154 Montgomery Rd Unit 4,Madeira,2019-12-01T00:00:00-05:00,39.204021,-84.368016,282,5,T.J. Maxx,5,Walmart,40
+226-222@63h-j3z-gp9,Chipotle Mexican Grill,6759 Miller Ln,Dayton,2020-06-01T00:00:00-04:00,39.845579,-84.192831,307,1,Walmart,12,Walmart,66
+226-222@63h-j3z-gp9,Chipotle Mexican Grill,6759 Miller Ln,Dayton,2020-06-01T00:00:00-04:00,39.845579,-84.192831,307,2,McDonald's,10,McDonald's,64
+226-222@63h-j3z-gp9,Chipotle Mexican Grill,6759 Miller Ln,Dayton,2020-06-01T00:00:00-04:00,39.845579,-84.192831,307,3,Speedway,10,Speedway,57
+226-222@63h-j3z-gp9,Chipotle Mexican Grill,6759 Miller Ln,Dayton,2020-06-01T00:00:00-04:00,39.845579,-84.192831,307,4,Kroger,6,Kroger,56
+226-222@63h-j3z-gp9,Chipotle Mexican Grill,6759 Miller Ln,Dayton,2020-06-01T00:00:00-04:00,39.845579,-84.192831,307,5,Target,4,Wendy's,48
+224-222@5sb-782-w8v,Chipotle Mexican Grill,412 S Randall Rd,Algonquin,2020-10-01T00:00:00-05:00,42.171623,-88.335883,111,1,Target,7,McDonald's,58
+224-222@5sb-782-w8v,Chipotle Mexican Grill,412 S Randall Rd,Algonquin,2020-10-01T00:00:00-05:00,42.171623,-88.335883,111,2,GameStop,7,Walmart,53
+224-222@5sb-782-w8v,Chipotle Mexican Grill,412 S Randall Rd,Algonquin,2020-10-01T00:00:00-05:00,42.171623,-88.335883,111,3,Starbucks,6,Jewel-Osco,42
+224-222@5sb-782-w8v,Chipotle Mexican Grill,412 S Randall Rd,Algonquin,2020-10-01T00:00:00-05:00,42.171623,-88.335883,111,4,Wendy's,6,Target,42
+224-222@5sb-782-w8v,Chipotle Mexican Grill,412 S Randall Rd,Algonquin,2020-10-01T00:00:00-05:00,42.171623,-88.335883,111,5,McDonald's,6,Walgreens,40
+222-222@8fc-8c8-hnq,Chipotle Mexican Grill,5866 E Sam Houston Pkwy N Ste F,Houston,2021-11-01T00:00:00-05:00,29.809985,-95.162528,385,1,Walmart,12,Walmart,75
+222-222@8fc-8c8-hnq,Chipotle Mexican Grill,5866 E Sam Houston Pkwy N Ste F,Houston,2021-11-01T00:00:00-05:00,29.809985,-95.162528,385,2,Chevron,11,Chick-fil-A,62
+222-222@8fc-8c8-hnq,Chipotle Mexican Grill,5866 E Sam Houston Pkwy N Ste F,Houston,2021-11-01T00:00:00-05:00,29.809985,-95.162528,385,3,Chick-fil-A,9,Chevron,56
+222-222@8fc-8c8-hnq,Chipotle Mexican Grill,5866 E Sam Houston Pkwy N Ste F,Houston,2021-11-01T00:00:00-05:00,29.809985,-95.162528,385,4,Whataburger,4,Whataburger,54
+222-222@8fc-8c8-hnq,Chipotle Mexican Grill,5866 E Sam Houston Pkwy N Ste F,Houston,2021-11-01T00:00:00-05:00,29.809985,-95.162528,385,5,Raising Cane's,4,McDonald's,53
+222-222@8fc-8c8-hnq,Chipotle Mexican Grill,5866 E Sam Houston Pkwy N Ste F,Houston,2020-08-01T00:00:00-05:00,29.809985,-95.162528,493,1,Walmart,12,Walmart,75
+222-222@8fc-8c8-hnq,Chipotle Mexican Grill,5866 E Sam Houston Pkwy N Ste F,Houston,2020-08-01T00:00:00-05:00,29.809985,-95.162528,493,2,Chevron,8,Chick-fil-A,54
+222-222@8fc-8c8-hnq,Chipotle Mexican Grill,5866 E Sam Houston Pkwy N Ste F,Houston,2020-08-01T00:00:00-05:00,29.809985,-95.162528,493,3,Chick-fil-A,8,Chevron,53
+222-222@8fc-8c8-hnq,Chipotle Mexican Grill,5866 E Sam Houston Pkwy N Ste F,Houston,2020-08-01T00:00:00-05:00,29.809985,-95.162528,493,4,Shell Oil,6,Shell Oil,51
+222-222@8fc-8c8-hnq,Chipotle Mexican Grill,5866 E Sam Houston Pkwy N Ste F,Houston,2020-08-01T00:00:00-05:00,29.809985,-95.162528,493,5,Valero Energy,5,Whataburger,46
+zzw-223@62k-sw5-whq,Chipotle Mexican Grill,11 Main St Ste 3,Westbrook,2022-03-01T00:00:00-05:00,43.677545,-70.329691,222,1,Irving Oil,11,Dunkin',72
+zzw-223@62k-sw5-whq,Chipotle Mexican Grill,11 Main St Ste 3,Westbrook,2022-03-01T00:00:00-05:00,43.677545,-70.329691,222,2,Dunkin',11,McDonald's,60
+zzw-223@62k-sw5-whq,Chipotle Mexican Grill,11 Main St Ste 3,Westbrook,2022-03-01T00:00:00-05:00,43.677545,-70.329691,222,3,McDonald's,10,Walmart,56
+zzw-223@62k-sw5-whq,Chipotle Mexican Grill,11 Main St Ste 3,Westbrook,2022-03-01T00:00:00-05:00,43.677545,-70.329691,222,4,Walmart,8,Cumberland Farms,46
+zzw-223@62k-sw5-whq,Chipotle Mexican Grill,11 Main St Ste 3,Westbrook,2022-03-01T00:00:00-05:00,43.677545,-70.329691,222,5,Cumberland Farms,7,Irving Oil,46
+224-223@5s6-kjq-xbk,Chipotle Mexican Grill,1720 S Mission St,Mount Pleasant,2020-11-01T00:00:00-04:00,43.585321,-84.768095,214,1,Sam's Club,13,Meijer,59
+224-223@5s6-kjq-xbk,Chipotle Mexican Grill,1720 S Mission St,Mount Pleasant,2020-11-01T00:00:00-04:00,43.585321,-84.768095,214,2,Meijer,13,Walmart,59
+224-223@5s6-kjq-xbk,Chipotle Mexican Grill,1720 S Mission St,Mount Pleasant,2020-11-01T00:00:00-04:00,43.585321,-84.768095,214,3,Walmart,11,McDonald's,58
+224-223@5s6-kjq-xbk,Chipotle Mexican Grill,1720 S Mission St,Mount Pleasant,2020-11-01T00:00:00-04:00,43.585321,-84.768095,214,4,McDonald's,10,Marathon,37
+224-223@5s6-kjq-xbk,Chipotle Mexican Grill,1720 S Mission St,Mount Pleasant,2020-11-01T00:00:00-04:00,43.585321,-84.768095,214,5,Target,7,Subway,34
+223-222@628-xjc-z4v,Chipotle Mexican Grill,1094 N Colony Rd Ste 20,Wallingford,2020-07-01T00:00:00-04:00,41.497605,-72.808776,576,1,Chick-fil-A,10,McDonald's,58
+223-222@628-xjc-z4v,Chipotle Mexican Grill,1094 N Colony Rd Ste 20,Wallingford,2020-07-01T00:00:00-04:00,41.497605,-72.808776,576,2,Lowe's,7,Dunkin',58
+223-222@628-xjc-z4v,Chipotle Mexican Grill,1094 N Colony Rd Ste 20,Wallingford,2020-07-01T00:00:00-04:00,41.497605,-72.808776,576,3,Dunkin',7,Walmart,47
+223-222@628-xjc-z4v,Chipotle Mexican Grill,1094 N Colony Rd Ste 20,Wallingford,2020-07-01T00:00:00-04:00,41.497605,-72.808776,576,4,McDonald's,6,Chick-fil-A,42
+223-222@628-xjc-z4v,Chipotle Mexican Grill,1094 N Colony Rd Ste 20,Wallingford,2020-07-01T00:00:00-04:00,41.497605,-72.808776,576,5,Walmart,6,Stop & Shop,42
+224-222@8fc-8dp-dqf,Chipotle Mexican Grill,3635 Spencer Hwy,Pasadena,2021-12-01T00:00:00-06:00,29.665722,-95.187698,303,1,McDonald's,9,Walmart,73
+224-222@8fc-8dp-dqf,Chipotle Mexican Grill,3635 Spencer Hwy,Pasadena,2021-12-01T00:00:00-06:00,29.665722,-95.187698,303,2,Chick-fil-A,8,McDonald's,72
+224-222@8fc-8dp-dqf,Chipotle Mexican Grill,3635 Spencer Hwy,Pasadena,2021-12-01T00:00:00-06:00,29.665722,-95.187698,303,3,Walmart,7,Chick-fil-A,61
+224-222@8fc-8dp-dqf,Chipotle Mexican Grill,3635 Spencer Hwy,Pasadena,2021-12-01T00:00:00-06:00,29.665722,-95.187698,303,4,Fitness Connection,6,Whataburger,56
+224-222@8fc-8dp-dqf,Chipotle Mexican Grill,3635 Spencer Hwy,Pasadena,2021-12-01T00:00:00-06:00,29.665722,-95.187698,303,5,Walgreens,5,Walgreens,52
+zzy-222@8g7-2p8-v2k,Chipotle Mexican Grill,1650 Scenic Highway S,Snellville,2021-02-01T00:00:00-05:00,33.882403,-84.010515,495,1,Kroger Fuel Center,8,QuikTrip,55
+zzy-222@8g7-2p8-v2k,Chipotle Mexican Grill,1650 Scenic Highway S,Snellville,2021-02-01T00:00:00-05:00,33.882403,-84.010515,495,2,Walmart,8,Chick-fil-A,55
+zzy-222@8g7-2p8-v2k,Chipotle Mexican Grill,1650 Scenic Highway S,Snellville,2021-02-01T00:00:00-05:00,33.882403,-84.010515,495,3,Chick-fil-A,6,Walmart,53
+zzy-222@8g7-2p8-v2k,Chipotle Mexican Grill,1650 Scenic Highway S,Snellville,2021-02-01T00:00:00-05:00,33.882403,-84.010515,495,4,QuikTrip,6,McDonald's,45
+zzy-222@8g7-2p8-v2k,Chipotle Mexican Grill,1650 Scenic Highway S,Snellville,2021-02-01T00:00:00-05:00,33.882403,-84.010515,495,5,McDonald's,6,Kroger Fuel Center,39
+zzw-227@63r-6cx-ht9,Chipotle Mexican Grill,2300 Washington Pl NE,Washington,2022-03-01T00:00:00-05:00,38.920869,-76.993996,302,1,McDonald's,12,McDonald's,65
+zzw-227@63r-6cx-ht9,Chipotle Mexican Grill,2300 Washington Pl NE,Washington,2022-03-01T00:00:00-05:00,38.920869,-76.993996,302,2,The Home Depot,8,Walmart,53
+zzw-227@63r-6cx-ht9,Chipotle Mexican Grill,2300 Washington Pl NE,Washington,2022-03-01T00:00:00-05:00,38.920869,-76.993996,302,3,Ross Stores,7,Shell Oil,43
+zzw-227@63r-6cx-ht9,Chipotle Mexican Grill,2300 Washington Pl NE,Washington,2022-03-01T00:00:00-05:00,38.920869,-76.993996,302,4,Giant Food,6,7-Eleven,42
+zzw-227@63r-6cx-ht9,Chipotle Mexican Grill,2300 Washington Pl NE,Washington,2022-03-01T00:00:00-05:00,38.920869,-76.993996,302,5,Walmart,5,Starbucks,40
+224-222@5pw-3b6-r6k,Chipotle Mexican Grill,1601 N State Route 50,Bradley,2020-05-01T00:00:00-05:00,41.173886,-87.852172,471,1,Walmart,12,Walmart,60
+224-222@5pw-3b6-r6k,Chipotle Mexican Grill,1601 N State Route 50,Bradley,2020-05-01T00:00:00-05:00,41.173886,-87.852172,471,2,Target,10,McDonald's,57
+224-222@5pw-3b6-r6k,Chipotle Mexican Grill,1601 N State Route 50,Bradley,2020-05-01T00:00:00-05:00,41.173886,-87.852172,471,3,McDonald's,8,Target,46
+224-222@5pw-3b6-r6k,Chipotle Mexican Grill,1601 N State Route 50,Bradley,2020-05-01T00:00:00-05:00,41.173886,-87.852172,471,4,Circle K Gas,5,Circle K Gas,40
+224-222@5pw-3b6-r6k,Chipotle Mexican Grill,1601 N State Route 50,Bradley,2020-05-01T00:00:00-05:00,41.173886,-87.852172,471,5,Mattress Firm,5,Dollar General,40
+22f-222@8fc-8q5-jqf,Chipotle Mexican Grill,2555 E League City Pkwy Ste 110,League City,2022-02-01T00:00:00-06:00,29.503412,-95.042801,458,1,H-E-B,6,McDonald's,55
+22f-222@8fc-8q5-jqf,Chipotle Mexican Grill,2555 E League City Pkwy Ste 110,League City,2022-02-01T00:00:00-06:00,29.503412,-95.042801,458,2,McDonald's,6,Walmart,52
+22f-222@8fc-8q5-jqf,Chipotle Mexican Grill,2555 E League City Pkwy Ste 110,League City,2022-02-01T00:00:00-06:00,29.503412,-95.042801,458,3,Chick-fil-A,5,H-E-B,50
+22f-222@8fc-8q5-jqf,Chipotle Mexican Grill,2555 E League City Pkwy Ste 110,League City,2022-02-01T00:00:00-06:00,29.503412,-95.042801,458,4,Buc-ee's,5,Chick-fil-A,50
+22f-222@8fc-8q5-jqf,Chipotle Mexican Grill,2555 E League City Pkwy Ste 110,League City,2022-02-01T00:00:00-06:00,29.503412,-95.042801,458,5,Walgreens,5,Walgreens,40
+zzw-226@63s-2qw-mtv,Chipotle Mexican Grill,1070 Virginia Center Pkwy Ste 101,Glen Allen,2021-04-01T00:00:00-04:00,37.667197,-77.458877,227,1,Chick-fil-A,11,McDonald's,65
+zzw-226@63s-2qw-mtv,Chipotle Mexican Grill,1070 Virginia Center Pkwy Ste 101,Glen Allen,2021-04-01T00:00:00-04:00,37.667197,-77.458877,227,2,McDonald's,8,Chick-fil-A,65
+zzw-226@63s-2qw-mtv,Chipotle Mexican Grill,1070 Virginia Center Pkwy Ste 101,Glen Allen,2021-04-01T00:00:00-04:00,37.667197,-77.458877,227,3,Wawa,8,Walmart,54
+zzw-226@63s-2qw-mtv,Chipotle Mexican Grill,1070 Virginia Center Pkwy Ste 101,Glen Allen,2021-04-01T00:00:00-04:00,37.667197,-77.458877,227,4,Taco Bell,4,Wawa,51
+zzw-226@63s-2qw-mtv,Chipotle Mexican Grill,1070 Virginia Center Pkwy Ste 101,Glen Allen,2021-04-01T00:00:00-04:00,37.667197,-77.458877,227,5,Target,4,Target,42
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2022-01-01T00:00:00-05:00,43.224525,-71.490088,530,1,Irving Oil,11,Irving Oil,63
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2022-01-01T00:00:00-05:00,43.224525,-71.490088,530,2,Target,9,McDonald's,58
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2022-01-01T00:00:00-05:00,43.224525,-71.490088,530,3,McDonald's,8,Walmart,56
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2022-01-01T00:00:00-05:00,43.224525,-71.490088,530,4,Walmart,7,Dunkin',56
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2022-01-01T00:00:00-05:00,43.224525,-71.490088,530,5,The Zoo Health Club,5,Mobil,46
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2021-11-01T00:00:00-04:00,43.224525,-71.490088,438,1,Target,11,Dunkin',63
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2021-11-01T00:00:00-04:00,43.224525,-71.490088,438,2,Walmart,9,Irving Oil,62
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2021-11-01T00:00:00-04:00,43.224525,-71.490088,438,3,Irving Oil,9,Walmart,59
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2021-11-01T00:00:00-04:00,43.224525,-71.490088,438,4,Dunkin',8,McDonald's,59
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2021-11-01T00:00:00-04:00,43.224525,-71.490088,438,5,McDonald's,8,Mobil,44
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2020-07-01T00:00:00-04:00,43.224525,-71.490088,453,1,Dunkin',10,Dunkin',59
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2020-07-01T00:00:00-04:00,43.224525,-71.490088,453,2,Walmart,8,Walmart,55
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2020-07-01T00:00:00-04:00,43.224525,-71.490088,453,3,Target,7,McDonald's,54
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2020-07-01T00:00:00-04:00,43.224525,-71.490088,453,4,McDonald's,6,Irving Oil,46
+222-222@62m-d7p-qxq,Chipotle Mexican Grill,265 Loudon Rd Ste 2,Concord,2020-07-01T00:00:00-04:00,43.224525,-71.490088,453,5,Irving Oil,6,Mobil,37
+zzw-222@5qw-sv8-gx5,Chipotle Mexican Grill,1715 N Town East Blvd Ste 100,Mesquite,2022-02-01T00:00:00-06:00,32.811167,-96.624498,735,1,Walmart,12,Walmart,77
+zzw-222@5qw-sv8-gx5,Chipotle Mexican Grill,1715 N Town East Blvd Ste 100,Mesquite,2022-02-01T00:00:00-06:00,32.811167,-96.624498,735,2,McDonald's,11,McDonald's,69
+zzw-222@5qw-sv8-gx5,Chipotle Mexican Grill,1715 N Town East Blvd Ste 100,Mesquite,2022-02-01T00:00:00-06:00,32.811167,-96.624498,735,3,QuikTrip,8,QuikTrip,52
+zzw-222@5qw-sv8-gx5,Chipotle Mexican Grill,1715 N Town East Blvd Ste 100,Mesquite,2022-02-01T00:00:00-06:00,32.811167,-96.624498,735,4,Chick-fil-A,7,Chick-fil-A,51
+zzw-222@5qw-sv8-gx5,Chipotle Mexican Grill,1715 N Town East Blvd Ste 100,Mesquite,2022-02-01T00:00:00-06:00,32.811167,-96.624498,735,5,Exxon Mobil,6,Exxon Mobil,49
+227-222@8fc-f5s-c5z,Chipotle Mexican Grill,6245 Highway 6 Ste 100,Missouri City,2019-06-01T00:00:00-05:00,29.564597,-95.562689,572,1,Walmart,6,Chick-fil-A,56
+227-222@8fc-f5s-c5z,Chipotle Mexican Grill,6245 Highway 6 Ste 100,Missouri City,2019-06-01T00:00:00-05:00,29.564597,-95.562689,572,2,Chick-fil-A,5,Walmart,55
+227-222@8fc-f5s-c5z,Chipotle Mexican Grill,6245 Highway 6 Ste 100,Missouri City,2019-06-01T00:00:00-05:00,29.564597,-95.562689,572,3,Shell Oil,4,Shell Oil,47
+227-222@8fc-f5s-c5z,Chipotle Mexican Grill,6245 Highway 6 Ste 100,Missouri City,2019-06-01T00:00:00-05:00,29.564597,-95.562689,572,4,Target,4,Whataburger,39
+227-222@8fc-f5s-c5z,Chipotle Mexican Grill,6245 Highway 6 Ste 100,Missouri City,2019-06-01T00:00:00-05:00,29.564597,-95.562689,572,5,Whataburger,3,Starbucks,36
+zzw-225@5sb-6vv-hnq,Chipotle Mexican Grill,2304 N Richmond Rd,McHenry,2021-09-01T00:00:00-05:00,42.359946,-88.26649,361,1,McDonald's,13,McDonald's,79
+zzw-225@5sb-6vv-hnq,Chipotle Mexican Grill,2304 N Richmond Rd,McHenry,2021-09-01T00:00:00-05:00,42.359946,-88.26649,361,2,Walmart,12,Walmart,62
+zzw-225@5sb-6vv-hnq,Chipotle Mexican Grill,2304 N Richmond Rd,McHenry,2021-09-01T00:00:00-05:00,42.359946,-88.26649,361,3,Meijer,5,Starbucks,57
+zzw-225@5sb-6vv-hnq,Chipotle Mexican Grill,2304 N Richmond Rd,McHenry,2021-09-01T00:00:00-05:00,42.359946,-88.26649,361,4,Starbucks,4,Meijer,47
+zzw-225@5sb-6vv-hnq,Chipotle Mexican Grill,2304 N Richmond Rd,McHenry,2021-09-01T00:00:00-05:00,42.359946,-88.26649,361,5,Taco Bell,3,BP,46
+223-222@5sb-8s4-j9z,Chipotle Mexican Grill,1570 W Lane Rd,Machesney Park,2020-06-01T00:00:00-05:00,42.366089,-89.023486,3,1,The Home Depot,67,Walmart,67
+223-222@5sb-8s4-j9z,Chipotle Mexican Grill,1570 W Lane Rd,Machesney Park,2020-06-01T00:00:00-05:00,42.366089,-89.023486,3,2,Hobby Lobby Stores,33,Casey's General Stores,67
+223-222@5sb-8s4-j9z,Chipotle Mexican Grill,1570 W Lane Rd,Machesney Park,2020-06-01T00:00:00-05:00,42.366089,-89.023486,3,3,McDonald's,33,ALDI,67
+223-222@5sb-8s4-j9z,Chipotle Mexican Grill,1570 W Lane Rd,Machesney Park,2020-06-01T00:00:00-05:00,42.366089,-89.023486,3,4,Taco Bell,33,Taco Bell,67
+222-222@5xc-kh3-5mk,Chipotle Mexican Grill,9375 SW Beaverton Hillsdale Hwy,Beaverton,2020-07-01T00:00:00-07:00,45.486854,-122.773631,152,1,WinCo Foods,9,McDonald's,48
+222-222@5xc-kh3-5mk,Chipotle Mexican Grill,9375 SW Beaverton Hillsdale Hwy,Beaverton,2020-07-01T00:00:00-07:00,45.486854,-122.773631,152,2,Walmart,7,Starbucks,47
+222-222@5xc-kh3-5mk,Chipotle Mexican Grill,9375 SW Beaverton Hillsdale Hwy,Beaverton,2020-07-01T00:00:00-07:00,45.486854,-122.773631,152,3,Fred Meyer,7,Fred Meyer,41
+222-222@5xc-kh3-5mk,Chipotle Mexican Grill,9375 SW Beaverton Hillsdale Hwy,Beaverton,2020-07-01T00:00:00-07:00,45.486854,-122.773631,152,4,Fred Meyer Jewelers,7,Fred Meyer Jewelers,37
+222-222@5xc-kh3-5mk,Chipotle Mexican Grill,9375 SW Beaverton Hillsdale Hwy,Beaverton,2020-07-01T00:00:00-07:00,45.486854,-122.773631,152,5,Goodwill Industries,6,Walmart,36
+222-224@65z-svk-xh5,Chipotle Mexican Grill,580 Shelburne Rd,South Burlington,2019-01-01T00:00:00-05:00,44.448579,-73.208055,130,1,Starbucks,7,Mobil,50
+222-224@65z-svk-xh5,Chipotle Mexican Grill,580 Shelburne Rd,South Burlington,2019-01-01T00:00:00-05:00,44.448579,-73.208055,130,2,Orangetheory Fitness,6,Starbucks,39
+222-224@65z-svk-xh5,Chipotle Mexican Grill,580 Shelburne Rd,South Burlington,2019-01-01T00:00:00-05:00,44.448579,-73.208055,130,3,McDonald's,5,Orangetheory Fitness,31
+222-224@65z-svk-xh5,Chipotle Mexican Grill,580 Shelburne Rd,South Burlington,2019-01-01T00:00:00-05:00,44.448579,-73.208055,130,4,Shell Oil,4,McDonald's,31
+222-224@65z-svk-xh5,Chipotle Mexican Grill,580 Shelburne Rd,South Burlington,2019-01-01T00:00:00-05:00,44.448579,-73.208055,130,5,T.J. Maxx,3,Shell Oil,27
+222-222@8fy-9q5-zfz,Chipotle Mexican Grill,400 W State Road 436,Altamonte Springs,2021-06-01T00:00:00-04:00,28.66124,-81.396683,734,1,7-Eleven,8,McDonald's,59
+222-222@8fy-9q5-zfz,Chipotle Mexican Grill,400 W State Road 436,Altamonte Springs,2021-06-01T00:00:00-04:00,28.66124,-81.396683,734,2,McDonald's,8,Chick-fil-A,54
+222-222@8fy-9q5-zfz,Chipotle Mexican Grill,400 W State Road 436,Altamonte Springs,2021-06-01T00:00:00-04:00,28.66124,-81.396683,734,3,Chick-fil-A,7,Walmart,54
+222-222@8fy-9q5-zfz,Chipotle Mexican Grill,400 W State Road 436,Altamonte Springs,2021-06-01T00:00:00-04:00,28.66124,-81.396683,734,4,Walmart,6,Publix Super Markets,50
+222-222@8fy-9q5-zfz,Chipotle Mexican Grill,400 W State Road 436,Altamonte Springs,2021-06-01T00:00:00-04:00,28.66124,-81.396683,734,5,David's Bridal,6,7-Eleven,47
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2019-11-01T00:00:00-07:00,36.144763,-115.297403,765,1,Starbucks,7,Starbucks,53
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2019-11-01T00:00:00-07:00,36.144763,-115.297403,765,2,Chevron,7,Chevron,49
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2019-11-01T00:00:00-07:00,36.144763,-115.297403,765,3,McDonald's,5,Walmart,43
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2019-11-01T00:00:00-07:00,36.144763,-115.297403,765,4,Target,4,McDonald's,42
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2019-11-01T00:00:00-07:00,36.144763,-115.297403,765,5,Walmart,4,Target,35
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2020-04-01T00:00:00-07:00,36.144763,-115.297403,389,1,Chevron,7,Chevron,50
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2020-04-01T00:00:00-07:00,36.144763,-115.297403,389,2,McDonald's,6,Walmart,48
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2020-04-01T00:00:00-07:00,36.144763,-115.297403,389,3,Walmart,6,Starbucks,47
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2020-04-01T00:00:00-07:00,36.144763,-115.297403,389,4,Starbucks,5,McDonald's,43
+zzw-225@5yv-hmc-9zz,Chipotle Mexican Grill,9240 W Sahara Ave Ste 150,Las Vegas,2020-04-01T00:00:00-07:00,36.144763,-115.297403,389,5,ARCO,5,Target,33
+222-222@8tn-zgq-gtv,Chipotle Mexican Grill,3600 Coors Blvd NW,Albuquerque,2021-07-01T00:00:00-06:00,35.123228,-106.701282,345,1,Walmart,12,Walmart,73
+222-222@8tn-zgq-gtv,Chipotle Mexican Grill,3600 Coors Blvd NW,Albuquerque,2021-07-01T00:00:00-06:00,35.123228,-106.701282,345,2,McDonald's,11,McDonald's,71
+222-222@8tn-zgq-gtv,Chipotle Mexican Grill,3600 Coors Blvd NW,Albuquerque,2021-07-01T00:00:00-06:00,35.123228,-106.701282,345,3,Chick-fil-A,7,Walgreens,53
+222-222@8tn-zgq-gtv,Chipotle Mexican Grill,3600 Coors Blvd NW,Albuquerque,2021-07-01T00:00:00-06:00,35.123228,-106.701282,345,4,Circle K Gas,6,Starbucks,52
+222-222@8tn-zgq-gtv,Chipotle Mexican Grill,3600 Coors Blvd NW,Albuquerque,2021-07-01T00:00:00-06:00,35.123228,-106.701282,345,5,Sonic,6,Sonic,50
+zzw-224@5ny-wqy-dvz,Chipotle Mexican Grill,6005 O St Ste A,Lincoln,2019-10-01T00:00:00-05:00,40.813127,-96.640107,1212,1,Phillips 66,4,Walmart,52
+zzw-224@5ny-wqy-dvz,Chipotle Mexican Grill,6005 O St Ste A,Lincoln,2019-10-01T00:00:00-05:00,40.813127,-96.640107,1212,2,Walmart,4,McDonald's,44
+zzw-224@5ny-wqy-dvz,Chipotle Mexican Grill,6005 O St Ste A,Lincoln,2019-10-01T00:00:00-05:00,40.813127,-96.640107,1212,3,Target,3,Phillips 66,43
+zzw-224@5ny-wqy-dvz,Chipotle Mexican Grill,6005 O St Ste A,Lincoln,2019-10-01T00:00:00-05:00,40.813127,-96.640107,1212,4,McDonald's,2,Target,36
+zzw-224@5ny-wqy-dvz,Chipotle Mexican Grill,6005 O St Ste A,Lincoln,2019-10-01T00:00:00-05:00,40.813127,-96.640107,1212,5,Scooter’s Coffee and Yogurt,2,Runza,33
+zzw-222@5sb-cyp-nyv,Chipotle Mexican Grill,139 N Milwaukee Ave,Libertyville,2021-02-01T00:00:00-06:00,42.28397,-87.95384,170,1,McDonald's,5,McDonald's,54
+zzw-222@5sb-cyp-nyv,Chipotle Mexican Grill,139 N Milwaukee Ave,Libertyville,2021-02-01T00:00:00-06:00,42.28397,-87.95384,170,2,XSport Fitness,5,Target,48
+zzw-222@5sb-cyp-nyv,Chipotle Mexican Grill,139 N Milwaukee Ave,Libertyville,2021-02-01T00:00:00-06:00,42.28397,-87.95384,170,3,Walmart,4,Shell Oil,48
+zzw-222@5sb-cyp-nyv,Chipotle Mexican Grill,139 N Milwaukee Ave,Libertyville,2021-02-01T00:00:00-06:00,42.28397,-87.95384,170,4,Jewel-Osco,4,Walgreens,46
+zzw-222@5sb-cyp-nyv,Chipotle Mexican Grill,139 N Milwaukee Ave,Libertyville,2021-02-01T00:00:00-06:00,42.28397,-87.95384,170,5,Target,4,Starbucks,40
+227-222@647-5dg-yn5,Chipotle Mexican Grill,5431 Page Rd Ste 150,Durham,2021-08-01T00:00:00-04:00,35.876671,-78.85064,83,1,Walmart,11,Walmart,62
+227-222@647-5dg-yn5,Chipotle Mexican Grill,5431 Page Rd Ste 150,Durham,2021-08-01T00:00:00-04:00,35.876671,-78.85064,83,2,Sheetz,7,McDonald's,56
+227-222@647-5dg-yn5,Chipotle Mexican Grill,5431 Page Rd Ste 150,Durham,2021-08-01T00:00:00-04:00,35.876671,-78.85064,83,3,Chick-fil-A,7,Sheetz,55
+227-222@647-5dg-yn5,Chipotle Mexican Grill,5431 Page Rd Ste 150,Durham,2021-08-01T00:00:00-04:00,35.876671,-78.85064,83,4,Target,5,Chick-fil-A,54
+227-222@647-5dg-yn5,Chipotle Mexican Grill,5431 Page Rd Ste 150,Durham,2021-08-01T00:00:00-04:00,35.876671,-78.85064,83,5,Walgreens,5,Target,49
+zzy-223@8fc-8ks-p5f,Chipotle Mexican Grill,4996 Garth Rd,Baytown,2020-11-01T00:00:00-05:00,29.7797,-94.977222,571,1,Walmart,12,Walmart,71
+zzy-223@8fc-8ks-p5f,Chipotle Mexican Grill,4996 Garth Rd,Baytown,2020-11-01T00:00:00-05:00,29.7797,-94.977222,571,2,Lowe's,10,McDonald's,59
+zzy-223@8fc-8ks-p5f,Chipotle Mexican Grill,4996 Garth Rd,Baytown,2020-11-01T00:00:00-05:00,29.7797,-94.977222,571,3,McDonald's,8,Whataburger,44
+zzy-223@8fc-8ks-p5f,Chipotle Mexican Grill,4996 Garth Rd,Baytown,2020-11-01T00:00:00-05:00,29.7797,-94.977222,571,4,The Home Depot,7,Chick-fil-A,41
+zzy-223@8fc-8ks-p5f,Chipotle Mexican Grill,4996 Garth Rd,Baytown,2020-11-01T00:00:00-05:00,29.7797,-94.977222,571,5,Whataburger,5,Exxon Mobil,39
+228-222@8dj-jtr-75z,Chipotle Mexican Grill,3696 W Gandy Blvd,Tampa,2021-10-01T00:00:00-04:00,27.893447,-82.505855,398,1,Chick-fil-A,13,Chick-fil-A,57
+228-222@8dj-jtr-75z,Chipotle Mexican Grill,3696 W Gandy Blvd,Tampa,2021-10-01T00:00:00-04:00,27.893447,-82.505855,398,2,Walmart,6,McDonald's,56
+228-222@8dj-jtr-75z,Chipotle Mexican Grill,3696 W Gandy Blvd,Tampa,2021-10-01T00:00:00-04:00,27.893447,-82.505855,398,3,Wawa,6,Walmart,54
+228-222@8dj-jtr-75z,Chipotle Mexican Grill,3696 W Gandy Blvd,Tampa,2021-10-01T00:00:00-04:00,27.893447,-82.505855,398,4,Shell Oil,6,Shell Oil,44
+228-222@8dj-jtr-75z,Chipotle Mexican Grill,3696 W Gandy Blvd,Tampa,2021-10-01T00:00:00-04:00,27.893447,-82.505855,398,5,McDonald's,6,Starbucks,41
+zzw-226@647-5hv-t9z,Chipotle Mexican Grill,204 Crossroads Blvd Ste 212,Cary,2021-07-01T00:00:00-04:00,35.760382,-78.740899,465,1,Target,10,Chick-fil-A,64
+zzw-226@647-5hv-t9z,Chipotle Mexican Grill,204 Crossroads Blvd Ste 212,Cary,2021-07-01T00:00:00-04:00,35.760382,-78.740899,465,2,Walmart,8,McDonald's,59
+zzw-226@647-5hv-t9z,Chipotle Mexican Grill,204 Crossroads Blvd Ste 212,Cary,2021-07-01T00:00:00-04:00,35.760382,-78.740899,465,3,Chick-fil-A,8,Walmart,57
+zzw-226@647-5hv-t9z,Chipotle Mexican Grill,204 Crossroads Blvd Ste 212,Cary,2021-07-01T00:00:00-04:00,35.760382,-78.740899,465,4,McDonald's,7,Target,54
+zzw-226@647-5hv-t9z,Chipotle Mexican Grill,204 Crossroads Blvd Ste 212,Cary,2021-07-01T00:00:00-04:00,35.760382,-78.740899,465,5,Starbucks,6,Starbucks,47
+zzw-222@5qc-x4w-54v,Chipotle Mexican Grill,3601 N Digital Dr Ste 202,Lehi,2021-07-01T00:00:00-06:00,40.432075,-111.8884,243,1,The Meadows,9,Walmart,70
+zzw-222@5qc-x4w-54v,Chipotle Mexican Grill,3601 N Digital Dr Ste 202,Lehi,2021-07-01T00:00:00-06:00,40.432075,-111.8884,243,2,Walmart,8,McDonald's,53
+zzw-222@5qc-x4w-54v,Chipotle Mexican Grill,3601 N Digital Dr Ste 202,Lehi,2021-07-01T00:00:00-06:00,40.432075,-111.8884,243,3,Chick-fil-A,8,Chick-fil-A,50
+zzw-222@5qc-x4w-54v,Chipotle Mexican Grill,3601 N Digital Dr Ste 202,Lehi,2021-07-01T00:00:00-06:00,40.432075,-111.8884,243,4,McDonald's,6,Chevron,49
+zzw-222@5qc-x4w-54v,Chipotle Mexican Grill,3601 N Digital Dr Ste 202,Lehi,2021-07-01T00:00:00-06:00,40.432075,-111.8884,243,5,Target,5,The Meadows,49
+zzw-222@5s9-x3j-y7q,Chipotle Mexican Grill,4628 E Washington Ave,Madison,2019-02-01T00:00:00-06:00,43.130535,-89.305766,267,1,Kwik Trip,8,Walmart,52
+zzw-222@5s9-x3j-y7q,Chipotle Mexican Grill,4628 E Washington Ave,Madison,2019-02-01T00:00:00-06:00,43.130535,-89.305766,267,2,McDonald's,7,Kwik Trip,51
+zzw-222@5s9-x3j-y7q,Chipotle Mexican Grill,4628 E Washington Ave,Madison,2019-02-01T00:00:00-06:00,43.130535,-89.305766,267,3,Walmart,4,McDonald's,47
+zzw-222@5s9-x3j-y7q,Chipotle Mexican Grill,4628 E Washington Ave,Madison,2019-02-01T00:00:00-06:00,43.130535,-89.305766,267,4,BP,3,Culver's,38
+zzw-222@5s9-x3j-y7q,Chipotle Mexican Grill,4628 E Washington Ave,Madison,2019-02-01T00:00:00-06:00,43.130535,-89.305766,267,5,Woodman's Market,3,Walgreens,36
